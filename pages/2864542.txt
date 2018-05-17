@@ -1,0 +1,82 @@
+{{VOICE Notice Hidden|冒頭部分に記載する代表作は、編集合戦誘発の原因となりますので、多数の出典で確認できるものに限ってください。[[プロジェクト:芸能人#記事の書き方]]にてガイドラインが制定されていますので、そちらも参照して下さい。}}
+{{声優
+| 名前 = 天神 桃子
+| ふりがな = あまがみ ももこ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[埼玉県]]
+| 死没地 = 
+| 生年 = 1992
+| 生月 = 5
+| 生日 = 28
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]
+| 身長 = 158 [[センチメートル|cm]]
+| 職業 = [[声優]]
+| 事務所 = [[キャトルステラ]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動 =
+ {{声優/活動
+  | 職種 = 声優
+  | 活動名義 = 
+  | 活動期間 = [[2012年]] -
+  | ジャンル = 
+  | デビュー作 = 
+}}}}
+'''天神 桃子'''（あまがみ ももこ、[[1992年]]<ref>{{Cite web|url=https://twitter.com/momoco38/status/207324878762819585|title=松井桃子@momoco38|accessdate=2014-01-01}}</ref>[[5月28日]] - ）は、[[日本]]の[[女性]][[声優]]。[[キャトルステラ]]所属。[[埼玉県]]出身。[[埼玉県立春日部女子高等学校]]、[[青二塾]]東京校32期卒業。旧名：'''松井 桃子'''（まつい ももこ）。
+
+== 来歴 ==
+2012年4月から2015年12月31日まで青二プロダクションに所属していた<ref>{{Cite　web|url=https://twitter.com/momoco38/status/687148263393243136|title=天神桃子@momoco38|accessdate=2016-08-03}}</ref>。
+2016年1月13日より[[キャトルステラ]]所属となる<ref>{{Cite　web|url=https://twitter.com/momoco38/status/687148982183723009|title=天神桃子@momoco38|accessdate=2016-08-03}}</ref>。所属に伴い、天神 桃子と改名する<ref>{{Cite　web|url=https://twitter.com/momoco38/status/687149773485285376|title=天神桃子@momoco38|accessdate=2016-08-03}}</ref>。
+
+== 出演作品 ==
+※'''太字'''はメインキャラクター
+=== テレビアニメ ===
+'''2014年'''
+* [[ロボットガールズZ]]（ガイアQ5<ref>{{Cite web|publisher=ロボットガールズZ 公式サイト|title=キャラクター|url=http://www.robot-girlsz.com/character/index_2.html|accessdate=2014-07-04}}</ref>）
+* [[ドラゴンボール改]]（店員）
+
+=== ゲーム ===
+* [[スタプラ!]]（'''坂田凛々子'''<ref>[http://starplusone.com/matome/ririko.html お気楽能天気スピーカー娘 坂田凛々子 - スタプラ！]2013年10月16日閲覧</ref>）
+* [[モンスター烈伝 オレカバトル]]（カッパ）
+* ロボットガールズZ ONLINE（ガイアQ5<ref>{{Cite web|publisher=ロボットガールズZ ONLINE|url=http://rgzonline.ujj.co.jp/modules/sdrun/?page=2|title=ロボットガールズ一覧|accessdate=2014-07-03}}</ref>）
+* [[MÚSECA]]（八重垣 命）
+* [https://campaign.loas.jp/ League of Angels II - リーグオブエンジェルズ2]（セントリア、セリア、イルマ）
+
+=== ラジオドラマ ===
+* [[青山二丁目劇場]]「たのきゅう」（村の娘B）
+
+=== テレビ ===
+* [[Beポンキッキ]] 
+* [[ブルッケ隊長のチビッコくらぶ]]
+
+=== CD ===
+* 脳内ONLY 凜々子ver.
+
+=== イベント ===
+* 第一回 リア充撲滅委員会（坂田凜々子）
+* 凜々子ちゃんがバイトしたくてたまらない!（坂田凜々子）
+* 星華学院放送部 第一回公開録音（坂田凜々子）
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://quatrestella.co.jp/tarent/momoko_amagami/index.html 天神 桃子 所属タレント 声優事務所キャトルステラ]
+* [http://www.aoni.co.jp/junior/ma/matsui-momoko.html 青二プロダクション所属時の公式プロフィール]
+* {{Twitter|momoco38}}
+{{Voice-substub}}
+{{DEFAULTSORT:あまかみ ももこ}}
+[[Category:日本の女性声優]]
+[[Category:埼玉県出身の人物]]
+[[Category:1992年生]]
+[[Category:過去の青二プロダクション所属者]]
+[[Category:存命人物]]

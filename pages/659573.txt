@@ -1,0 +1,86 @@
+{{声優
+| 名前 = 大川 千帆
+| ふりがな = おおかわ ちほ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 大川 絵美<br/>（おおかわ えみ）<ref name="archive">{{Cite web |url=http://www.carrothouse.net/seiyu/p-ohkawa.htm |title=大川 千帆プロフィール |publisher=CARROT HOUSE |accessdate=2012-06-24 |archiveurl=https://web.archive.org/web/20031123085250/http://www.carrothouse.net/seiyu/p-ohkawa.htm |archivedate=2003年11月23日 |deadlinkdate=2017年9月 }}</ref>
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 =
+| 生月 = 8
+| 生日 = 6
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]<ref>{{Cite web |url=http://www.wit-pro.co.jp/pages/voiceact_f/ookawa_chiho.htm |title=大川 千帆 |publisher=ウイットプロモーション |accessdate=2012-06-24 |archiveurl=https://web.archive.org/web/20020225145301/http://www.wit-pro.co.jp/pages/voiceact_f/ookawa_chiho.htm |archivedate=2002年2月25日 |deadlinkdate=2017年9月 }}</ref>
+| 身長 = 157cm<ref name="profile">{{Cite web|url=http://www.carrothouse.info/profile/ookawa_profile.html|title=大川千帆プロフィール|publisher=CARROT HOUSE|accessdate=2012-06-24}}</ref>
+| 職業 = [[声優]]
+| 事務所 = [[アールグルッペ]]（営業委託）
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = [[1990年代]] - 
+| デビュー作 = 
+| 活動 = 
+}} 
+'''大川 千帆'''（おおかわ ちほ、[[8月6日]] - ）は、[[日本]]の[[女性]][[声優]]。[[東京都]]出身。本名：'''大川 絵美'''<ref name="archive"/>。
+
+== プロフィール ==
+[[身長]]157cm<ref name="profile"/>。[[趣味]]は[[旅行]]<ref name="profile"/>。特技は[[茶道]]<ref name="profile"/>、[[声楽]]（音域G～A2oct）<ref name="profile"/>。[[免許]]・[[資格]]は普通運転免許、中学校教諭一級普通、高等学校教諭二級普通<ref name="profile"/>。
+
+== 経歴 ==
+[[アールグルッペ]]（営業委託）所属。以前は[[ウイットプロモーション]]、[[CARROT HOUSE]]（預かり）に所属していた。
+
+かつては[[創造学園大学]][[創造芸術学部]][[芸術学科]]で講師をしていた。
+
+== 出演作品 ==
+=== テレビアニメ ===
+'''1996年'''
+* [[花より男子]]（道明寺椿）
+'''1997年'''
+* [[キューティーハニー|キューティーハニーF]]（シスタージル、サターンベイビークロー）
+* [[金田一少年の事件簿 (アニメ)|金田一少年の事件簿]]（マーメイド夕海、祐子、女生徒B、女生徒）
+* [[コジコジ|さくらももこ劇場 コジコジ]]（おかめちゃんの母）
+'''2000年'''
+* [[デジモンアドベンチャー02]]（ボタモン）
+
+=== 劇場アニメ ===
+'''1998年'''
+* [[スプリガン (漫画)|スプリガン]]（発掘隊研究員妻）
+
+=== OVA ===
+'''2004年'''
+* [[天空断罪スケルターヘブン]]（早川真琴）
+
+=== ゲーム ===
+'''1999年'''
+* [[魔女っ子大作戦]]（アスセナ）
+* [[御神楽少女探偵団|続・御神楽少女探偵団 〜完結編〜]]（小野寺喜久子）
+'''2004年'''
+* [[天空断罪スケルターヘブン]]（早川真琴）
+'''2005年'''
+* [[ジェネレーションオブカオス|新天魔界ジェネレーションオブカオスV]]（マドレイユ）※PS2
+'''2006年'''
+* [[ジェネレーションオブカオス|イーディスメモリーズ 〜新天魔界GOCV〜]]（マドレイユ）※PSP
+
+=== ドラマCD ===
+'''2013年'''
+* [[SNOW BOUND LAND]] ドラマCD 〜お見合いクラッシュ大作戦〜（おばさん<ref>{{Cite web|publisher=TEAM Entertainment|title=SNOW BOUND LAND ドラマＣＤ　～お見合いクラッシュ大作戦～|url=http://www.team-e.co.jp/products/kdsd-00682.html|accessdate=2013-10-30}}</ref>）
+
+== 脚注 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://artgroupart.com/talent/ookawa_chiho/ookawa_chiho.html アールグルッペによる公式プロフィール] {{ja icon}}
+* [http://www.carrothouse.info/profile/ookawa_profile.html CARROT HOUSE所属時の公式プロフィール] {{ja icon}}
+
+{{Voice-stub}}
+
+{{DEFAULTSORT:おおかわ ちほ}}
+[[Category:日本の女性声優]]
+[[Category:創造学園大学の教員]]
+[[Category:東京都出身の人物]]
+[[Category:存命人物]]

@@ -1,0 +1,27 @@
+'''永山 悟久梨'''（ながやま さくり）は、[[日本]]の[[女性]][[声優]]。以前は、[[エーエス企画]]<ref name="企画"/>に所属していた。
+
+== 出演作品 ==
+=== テレビアニメ ===
+'''2003年'''
+* [[金色のガッシュ!!|金色のガッシュベル!!]]（女学生）<ref name="出演"/>
+
+=== ゲーム ===
+'''2003年'''
+* [[エスプガルーダ]]（'''タテハ(覚聖前)'''<ref name="出演"/>）※アーケード
+
+'''2004年'''
+* エスプガルーダ（'''タテハ(覚聖前)'''）※PS2
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="企画">{{Cite web |url=http://web.archive.org/web/20031207011537/http://www.as-planning.com/nagayamaakuri.htm |title=エーエス企画所属時によるプロフィール |accessdate=2014-10-31}}</ref>
+<ref name="出演">{{Cite web |url=http://web.archive.org/web/20051120085955/http://www.as-planning.com/shutuenjouhou.htm |title=過去出演情報（H15年） |accessdate=2014-10-31}}</ref>
+}}
+
+== 外部リンク ==
+* [http://web.archive.org/web/20031207011537/http://www.as-planning.com/nagayamaakuri.htm エーエス企画所属時によるプロフィール]（2003年12月7日時点のアーカイブ）
+
+{{DEFAULTSORT:なかやま さくり}}
+[[Category:日本の女性声優]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

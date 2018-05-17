@@ -1,0 +1,74 @@
+{{声優
+| 名前 = 平山 縁
+| ふりがな = ひらやま ゆかり
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 配偶者 = 
+| 出生地 = {{JPN}}・[[岡山県]]
+| 死没地 = 
+| 血液型 = [[ABO式血液型|A型]]
+| 生年 = 
+| 生月 = 6
+| 生日 = 16
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = [[フリーランス|フリー]]
+| 活動期間 = 
+| デビュー作 = 
+}}
+'''平山 縁'''（ひらやま ゆかり、[[6月16日]]<ref name=profile>{{Cite web|date=|url=http://y-tail.jp/talent/talent_w/hirayama/|title=イエローテイル 公式プロフィール|publisher=|accessdate=2015-12-19}}</ref> - ）は、[[日本]]の[[女性]][[声優]]。[[岡山県]]出身<ref name=profile/>。フリー。以前は[[イエローテイル]]に所属していた。
+
+== 出演作品 ==
+=== テレビアニメ ===
+'''2005年'''
+* [[アガサ・クリスティーの名探偵ポワロとマープル]]（エドナ）<ref name=profile/>
+'''2015年'''
+* [[グリザイアの楽園]]（ミリエラ・スタンフィールド）<ref name=profile/>
+
+=== ゲーム ===
+'''2008年'''
+* [[お掃除戦隊くりーんきーぱー]]（きゃん）<ref name=profile/>
+'''2009年'''
+* [[お掃除戦隊くりーんきーぱーH]]（きゃん）<ref name=profile/>
+* [[戦極姫|戦極姫〜戦乱に舞う乙女達〜]]（島津歳久、細川幽斎、細川藤孝）
+'''2011年'''
+* [[三極姫〜三国乱世・覇天の采配〜]]（'''孫権仲謀'''<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/sangokuhime/char/go_38_sonkentyuubou.html|title=三極姫～三国乱世・覇天の采配～　オフィシャルWEBサイト|publisher=SystemSoft Alpha|accessdate=2011-10-17}}</ref>、郭嘉奉孝<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/sangokuhime/char/gi_14_kakuka.html|title=三極姫～三国乱世・覇天の采配～　オフィシャルWEBサイト|publisher=SystemSoft Alpha|accessdate=2011-10-17}}</ref>）
+* [[出撃!! 乙女たちの戦場2〜天翔ける衝撃の絆〜]]（'''武藤 ツカサ'''）<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/otosen2/char/sage_tsukasa.html|title=CHARACTER(SAGE：武藤ツカサ) | 出撃！！乙女たちの戦場２～天翔ける衝撃の絆～　オフィシャルWEBサイト|publisher=SystemSoft Alpha Corporation|accessdate=2011-04-14}}</ref>
+'''2012年'''
+* [[戦極姫3〜天下を切り裂く光と影〜]]※PSP版（長野業正、正木時茂、島津歳久）
+* [[萌え萌え大戦争☆げんだいばーん|萌え萌え大戦争☆げんだいばーん++]]（アメリア、オリガ）
+'''2015年'''
+* [[恋愛リベンジ]]（楠ノ木 たつき、小清水 百合）<ref>{{Cite web|date=|url=https://www.youtube.com/watch?v=_F5_Ge7ovTg&feature=youtu.be|title=恋愛リベンジ オープニングムービー|publisher=|accessdate=2015-08-24}}</ref>
+* [[KLAP!! 〜Kind Love And Punish〜]]<ref name=profile/>
+* [[限界凸起 モエロクリスタル]]（セイレーン、グリフォン）<ref name=profile/>
+'''2016年'''
+* [[萌え萌え２次大戦（略）３]]（フィア、ベル、ムサシ）
+
+=== ドラマCD ===
+* [[くりきん☆劇場]]（きゃん）<ref name=profile/>
+
+=== オーディオブック ===
+* [[誰も教えてくれないお金の話]]<ref name=profile/>
+* [[神さまとのおしゃべり -あなたの常識は、誰かの非常識-]]<ref>{{Cite web|date=|url=http://y-tail.jp/info/%e3%80%90%e5%a3%b0%e5%84%aa%e6%83%85%e5%a0%b1%e3%80%91%ef%bc%9c%e6%89%80%e5%b1%9e%ef%bc%9a%e6%b3%89%e7%bf%94%e5%a4%aa%e9%83%8e%e5%b0%8f%e6%9e%97%e7%af%84%e9%9b%84%e5%b9%b3%e5%b1%b1%e7%b8%81/|title=イエローテイル ニュース 2015年9月28日|publisher=|accessdate=2015-12-19}}</ref>
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://y-tail.jp/talent/talent_w/hirayama/ イエローテイル 公式プロフィール]
+* {{Twitter|HimayukaPancake}} 
+* [http://y-tail.jp/profile/hirayama.html イエローテイル タレント紹介]（旧版）
+
+{{Voice-stub}}
+
+{{DEFAULTSORT:ひらやま ゆかり}}
+[[Category:日本の女性声優]]
+[[Category:過去のイエローテイル所属者]]
+[[Category:生年未記載]]
+[[Category:岡山県出身の人物]]
+[[Category:存命人物]]

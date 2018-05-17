@@ -1,0 +1,30 @@
+'''日下部 美紀'''（くさかべ みき）は、[[日本]]の[[女性]][[声優]]。以前は、[[エーエス企画]]<ref name="企画"/>に所属していた。
+
+== 出演作品 ==
+=== ゲーム ===
+'''2006年'''
+* [[鋳薔薇|ピンクスゥイーツ 〜鋳薔薇それから〜]]（'''スーパー＝ノヴァ'''<ref name="出演bい"/><ref name="ノヴァ"/>）※アーケード
+
+'''2011年'''
+* ピンクスゥイーツ 〜鋳薔薇それから〜（'''スーパー＝ノヴァ'''）※XB360
+
+=== 吹き替え ===
+* 5DAYS TO MIDNIGHT（アナベル）<ref name="出演bあ"/>
+* [[KND ハチャメチャ大作戦|KND キッズネクストドア]]<ref name="出演a"/>
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="企画">{{Cite web|url=http://www.as-planning.com/hisakabemiki7.htm|title=エーエス企画所属時によるプロフィール|accessdate=2014-10-31|archiveurl=https://web.archive.org/web/20050313200842/http://www.as-planning.com/hisakabemiki7.htm|archivedate=2005年3月13日}}</ref>
+<ref name="ノヴァ">{{Cite web |url=http://www.cave.co.jp/gameonline/pinksweets/words/w_nova.html |title=ピンクスゥイーツ～鋳薔薇それから～ - 株式会社ケイブ |accessdate=2014-10-31}}</ref>
+<ref name="出演bい">{{Cite web |url=http://www.as-planning.com/2006%20shutuenjouhou.htm |title=過去出演情報 17年度2 |accessdate=2014-10-31 |archiveurl=https://web.archive.org/web/20080102075652/http://www.as-planning.com/2006%20shutuenjouhou.htm |archivedate=2008年1月2日 }}</ref>
+<ref name="出演bあ">{{Cite web |url=http://www.as-planning.com/2005%20shutuenjouhou.htm |title=過去出演情報 17年度1 |accessdate=2014-10-31 |archiveurl=https://web.archive.org/web/20051120090211/http://www.as-planning.com/2005%20shutuenjouhou.htm |archivedate=2005年11月20日 }}</ref>
+<ref name="出演a">{{Cite web |url=http://www.as-planning.com/shituennsakuhinn.htm |title=過去出演情報（H16年） |accessdate=2014-10-31 |archiveurl=https://web.archive.org/web/20051120085652/http://www.as-planning.com/shituennsakuhinn.htm |archivedate=2005年11月20日 }}</ref>
+}}
+
+== 外部リンク ==
+* [https://web.archive.org/web/20050313200842/http://www.as-planning.com/hisakabemiki7.htm エーエス企画所属時によるプロフィール]（2005年3月13日時点のアーカイブ）
+
+{{DEFAULTSORT:くさかへ みき}}
+[[Category:日本の女性声優]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

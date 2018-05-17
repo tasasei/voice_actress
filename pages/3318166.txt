@@ -1,0 +1,76 @@
+{{声優
+| 名前 = 阪本 智美
+| ふりがな = さかもと さとみ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = 
+| 出生地 = {{JPN}}・[[兵庫県]][[尼崎市]]
+| 死没地 = 
+| 生年 =
+| 生月 = 11
+| 生日 = 26
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|O型]]
+| 身長 = 155 [[センチメートル|cm]]
+| 職業 = [[声優]]
+| 事務所 = [[EARLY WING]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''阪本 智美'''（さかもと さとみ、[[11月26日]] - ）は、[[日本]]の[[女性]][[声優]]。[[兵庫県]][[尼崎市]]出身。[[EARLY WING]]所属。
+
+== 出演 ==
+※'''太字'''は、メインキャラクター
+=== テレビアニメ ===
+'''2010年'''
+* [[海月姫]]（鯉淵夫人、女の子の母親）
+* [[屍鬼]]（前田元子、女の子）
+'''2011年'''
+* [[ドラゴンクライシス!]]（まぁくん）
+
+=== ゲーム ===
+* [[あふれこ!AR]]（'''瀬戸亜矢乃'''<ref>[http://www.johokan-works.co.jp/afureko/staff-cast.htm 【iPhoneアプリ】あふれこ AR iPhoneアプリでアフレコ体験]2013年10月25日閲覧</ref>）
+* [[TOKYOヤマノテBOYS]]（アヤノ）
+* [[どちらかが俺に惚れている]]（'''川崎清美'''<ref>[http://www.earlywing.com/staff/archives/1858 内田愛美、阪本智美【Android用アプリ】どちらかが俺に惚れている｜Information]2013年10月25日閲覧</ref>）
+
+== ディスコグラフィ ==
+{| class="wikitable" style="font-size:small" 
+! style="width:4.5em"|発売日 !! 商品名 !! 歌 !! 楽曲 !! 備考
+|-
+! colspan="5" | 2013年
+|-
+| 4月17日
+| いつも口ずさんでた歌を合唱でカヴァーしてみた<ref>{{Cite news|url=http://www.universal-music.co.jp/favorite-song/biography/|title= フェイバリットソング合唱団 - UNIVERSAL MUSIC JAPAN|accessdate=2016-06-10}}</ref>
+| {{vau|フェイバリットソング合唱団}}
+| 「フェイバリットソング合唱団のテーマ」<br/>「CMソングメドレー」<br/>「[[あなたに (MONGOL800の曲)|あなたに]]」<br/>「[[キセキ (GReeeeNの曲)|キセキ]]」<br/>「[[情熱の薔薇]]」<br/>「[[空も飛べるはず]]」<br/>「[[LOVE GOES ON…|未来予想図II]]」<br/>「[[Diamonds (プリンセス プリンセスの曲)|M]]」<br/>「フェイバリットソング合唱団エンディング」
+|
+|-
+|}
+
+== 出典 ==
+{{Vau|h=3}}
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.earlywing.co.jp/talent/sakamotosatomi/ EARLY WING]
+* [http://ameblo.jp/satomi-no2118/ 阪本 智美のブログ - Ameba]{{リンク切れ|date=2015年11月21日 (土) 07:51 (UTC)}}
+
+{{EARLY WING}}
+{{Voice-substub}}
+{{DEFAULTSORT:さかもと さとみ}}
+
+[[Category:日本の女性声優]]
+[[Category:EARLY WING]]
+[[Category:生年未記載]]
+[[Category:兵庫県出身の人物]]
+[[Category:存命人物]]

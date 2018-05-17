@@ -1,0 +1,62 @@
+{{声優
+| 名前 = 鈴木 はるこ
+| ふりがな = すずき はるこ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 配偶者 = 
+| 出生地 = {{JPN}}・[[神奈川県]]
+| 死没地 = 
+| 血液型 = A型
+| 生年 = 
+| 生月 = 12
+| 生日 = 18
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = 
+| 活動期間 = 
+| デビュー作 = 
+}}
+'''鈴木 はるこ'''（すずき はるこ、[[12月18日]] - ）は、[[日本]]の[[女性]][[声優]]。[[神奈川県]]出身。以前は[[イエローテイル]]（ジュニア）に所属していた<ref>{{Cite web |author=鈴木はるこ |url=http://ameblo.jp/s-haruko/ |title=鈴木、事務所やめるってよ |work=Sさん。 |publisher=アメーバブログ |date=2013-04-03 |accessdate=2013-11-01 |archiveurl=http://archive.is/uo5ts |archivedate=2013-04-30}}</ref>。
+
+== 出演作品 ==
+=== テレビアニメ ===
+* [[狼と香辛料]]
+* [[こんにちは アン 〜Before Green Gables]]（テッサ）
+
+=== OVA ===
+* [[華ヤカ哉、我ガ一族|華ヤカ哉、我ガ一族 キネトグラフ]]<!--後篇-->（浅木フミ）
+
+=== Webアニメ ===
+* [[うたがめ]]（子分）
+
+=== ゲーム ===
+* [[源狼 GENROH]]（[[安徳天皇|安徳帝]]<ref>{{Cite journal|和書|month=7|journal=[[電撃Girl's Style]]2012年8月号|pages=|author=|year=2012|publisher=[[アスキー・メディアワークス]]}}</ref>）
+* [[三極姫〜三国乱世・覇天の采配〜]]（楽進文謙<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/sangokuhime/char/gi_11_gakusin.html|title=三極姫～三国乱世・覇天の采配～　オフィシャルWEBサイト|publisher=SystemSoft Alpha|accessdate=2011-10-17}}</ref>、董白<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/sangokuhime/char/other_60_touhaku.html|title=三極姫～三国乱世・覇天の采配～　オフィシャルWEBサイト|publisher=SystemSoft Alpha|accessdate=2011-10-17}}</ref>）
+* [[出撃!! 乙女たちの戦場2〜天翔ける衝撃の絆〜]]（'''エシュロン'''<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/otosen2/char/sage_esyuron.html|title=CHARACTER(SAGE：エシュロン) | 出撃！！乙女たちの戦場２～天翔ける衝撃の絆～　オフィシャルWEBサイト|publisher=SystemSoft Alpha Corporation|accessdate=2011-04-14}}</ref>、鳳凰院 あやめ<ref>{{Cite web|date=|url=http://www.ss-alpha.co.jp/products/otosen2/char/sage_sub_ayame.html|title=CHARACTER(SAGE：鳳凰院あやめ) | 出撃！！乙女たちの戦場２～天翔ける衝撃の絆～　オフィシャルWEBサイト|publisher=SystemSoft Alpha Corporation|accessdate=2011-04-14}}</ref>）
+* [[戦極姫2〜戦乱の世、群雄嵐の如く〜]]（最上義光、村上さん）
+* [[華ヤカ哉、我ガ一族]]（フミ）
+* [[萌え萌え大戦争☆げんだいばーん]]シリーズ（エスト）
+** 萌え萌え大戦争☆げんだいばーん
+** 萌え萌え大戦争☆げんだいばーん+
+** 萌え萌え大戦争☆げんだいばーん 3D<ref>{{Cite web|publisher=萌え萌え大戦争☆げんだいばーん 3D オフィシャルWEBサイト|url=http://www.ss-alpha.co.jp/products/moegd_3ds/char.html|title=CHARACTER|accessdate=2011-11-08}}</ref>
+** 萌え萌え大戦争☆げんだいばーん++
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://y-tail.jp/profile/suzuki.html イエローテイルによる公式プロフィール]
+* [http://ameblo.jp/s-haruko/ Sさん。]（本人によるブログ）{{リンク切れ|date=2013年10月}}
+
+{{voice-stub}}
+{{DEFAULTSORT:すすき はるこ}}
+[[Category:日本の女性声優]]
+[[Category:過去のイエローテイル所属者]]
+[[Category:生年未記載]]
+[[Category:神奈川県出身の人物]]
+[[Category:存命人物]]

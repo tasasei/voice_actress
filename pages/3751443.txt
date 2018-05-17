@@ -1,0 +1,71 @@
+{{声優
+| 名前 = 大森ゆき
+| ふりがな = おおもり ゆき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[山梨県]]<ref name="prof">{{Cite web|url=http://www.air-agency.co.jp/talent/woman/yuki_oomori|title=大森 ゆき|publisher=AIR AGENCY|accessdate=2018-01-03}}</ref>
+| 死没地 = 
+| 生年 = 
+| 生月 = 1
+| 生日 = 12
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|B型]]<ref name="prof" />
+| 身長 = 152[[センチメートル|cm]]<ref name="prof" />
+| 職業 = [[声優]]
+| 事務所 = [[AIR AGENCY]]<ref name="prof" />
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+
+'''大森 ゆき'''（おおもり ゆき、[[1月12日]]<ref name="prof" /> - ）は、[[日本]]の[[女性]][[声優]]。[[山梨県]]出身。2013年10月より[[AIR AGENCY]]所属<ref>{{Cite web|url=http://airagency.blog99.fc2.com/blog-entry-962.html|title=大森ゆきと申します|publisher=AIR ARGENCY BLOG|accessdate=2018-03-01|date=2013-10-21}}</ref>。
+
+== 略歴 ==
+[[東京アナウンスアカデミー]]声優実践コース卒業<ref>{{Cite Web|url=http://www.tasa-school.jp/top/pc/graduate-omori.html|title=大森ゆき|publisher=東京アナウンス・声優アカデミー|accessdate=2017-05-29}}</ref>
+
+== 人物 ==
+幼い頃は『[[ポケットモンスター]]』が好きで、主人公の[[サトシ (アニメポケットモンスター)|サトシ]]の[[声優]]が女性だと知ってから、声優という職業に憧れを持つようになる。趣味は歌うこと、読書、キャッチボールなど。特技は歌うこと、料理、ブラインドタッチ<ref name="prof" />。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== アニメーション ===
+*[[アリスと蔵六]]（羽鳥の母）
+*[[オーバーウォッチ]]短編アニメーション「Honor and Groly」（ブリギッテ・リンドホルム）
+=== 吹き替え ===
+* {{仮リンク|ユニット7 麻薬取締第七班|en|Unit 7}}（エレナ）
+=== ゲーム ===
+*[[デウスエクス マンカインド・ディバイデッド]]
+*[[ダンジョントラベラーズ2-2 闇堕ちの乙女とはじまりの書]]（モゲラ、使いの女、サーシャ）
+*[[蒼穹のスカイガレオン]]（ヴァハ）
+*[[オーバーウォッチ]]（'''ブリギッテ'''）<ref>{{Cite web|url=https://www.gamespark.jp/article/2018/03/01/78838.html|title=『オーバーウォッチ』新サポートヒーロー「ブリギッテ」発表！ オリジン・ストーリー映像公開【UPDATE】|publisher=Game*Spark|accessdate=2018-03-01|date=2018-03-01}}</ref>
+
+=== オーディオブック ===
+*[[スクールライブ・オンライン]]
+*[[深川澪通り木戸番小屋]]
+*[[凍える牙]]
+
+== 出典 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.air-agency.co.jp/talent/woman/yuki_oomori AIR AGENCY]
+* [https://twitter.com/yuki_oomori?lang=ja ツイッター]
+
+{{AIR AGENCY}}
+{{Voice-stub}}
+{{DEFAULTSORT:おおもり ゆき}}
+[[Category:日本の女性声優]]
+[[Category:AIR AGENCY]]
+[[Category:山梨県出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

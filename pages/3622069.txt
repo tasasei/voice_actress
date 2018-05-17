@@ -1,0 +1,90 @@
+{{声優
+| 名前 = 鎌倉 有那
+| ふりがな = かまくら ゆうな
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[東京都]]<ref name="prof">{{Cite web|url=http://arise-pj.co.jp/talent/yuna-kamakura/|title=鎌倉 有那｜ARISE PROJECT inc.|accessdate=2017-07-10}}</ref>
+| 死没地 = 
+| 生年 = 
+| 生月 = 9
+| 生日 = 30
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 身長 = 162[[センチメートル|cm]]<ref name="prof" />
+| 職業 = [[声優]]
+| 事務所 = アライズプロジェクト<ref name="prof" />
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = [http://arise-pj.co.jp/talent/yuna-kamakura/ 鎌倉 有那｜ARISE PROJECT inc.]
+| 活動期間 = [[2015年]] -
+| デビュー作 = 
+| 活動 = 
+}}
+
+'''鎌倉 有那'''（かまくら ゆうな、[[9月30日]]<ref name="prof" /> - ）は、[[日本]]の[[女性]][[声優]]。[[東京都]]出身<ref name="prof" />。アライズプロジェクト所属<ref name="prof" />。
+
+== 略歴 ==
+[[日本ナレーション演技研究所]]出身。[[2016年]][[6月1日]]にアライズプロジェクト所属。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+| 2016年 |
+* [[ラブライブ!サンシャイン!!]]（2016年 - 2017年、女子生徒） - 2シリーズ<!-- 2016-08-27 -->
+| 2017年 |
+* [[遊☆戯☆王VRAINS]]（別所エマ / ゴーストガール<ref name="tv-tokyo4">{{Cite web |url=http://www.tv-tokyo.co.jp/anime/yugioh-vrains/staff/ |title=スタッフ・キャスト テレビ東京・あにてれ 遊☆戯☆王VRAINS |publisher=テレビ東京 |accessdate=2017-07-13}}</ref>）<!-- 2017-05-10 -->
+* [[セントールの悩み]]（'''御魂真奈美'''<ref>{{Cite web|url=http://centaur-anime.com/character/#/character/manami|title=CHARACTER|work=アニメ『セントールの悩み』公式サイト|accessdate=2017-07-10}}</ref>）<!-- 2017-07-09 -->
+| 2018年 |
+* [[学園ベビーシッターズ]]（猿渡ゆかり）<!-- 2018-01-07 -->
+* [[メルヘン・メドヘン]]（マハーカーリー<ref>{{Cite web|url=http://maerchen-anime.com/news/index00290000.html|title=キャスト情報 第4弾 発表！|work=アニメ「メルヘン・メドヘン」公式サイト|date=2017-12-04|accessdate=2017-12-04}}</ref>）<!-- 2018-02-01 -->
+}}
+
+=== Webアニメ ===
+{{dl2
+| 2016年 |
+* みらいへの手紙〜この道の途中から〜<ref>[http://arise-pj.co.jp/news/%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-6/ 出演のお知らせ]</ref>
+** 一通めの手紙「雨上がりの朝」華役
+** 六通めの手紙「エール」ウグイス嬢役
+** 七通めの手紙「おだかのひるごはん」あや役
+}}
+
+=== ゲーム ===
+{{dl2
+| 2016年 |
+* AKIBA'S TRIP Festa!（紺野結良）
+* サッカースピリッツ
+* MOBIUS FINAL FANTASY
+}}
+
+=== ドラマCD ===
+* [[六畳間の侵略者!?|六畳間の侵略者!? 白銀の姫と青き騎士 第二章後編]]（2016年）
+
+=== その他 ===
+* ウチの夏フェス2015（フレッシュ夏フェス隊<ref>[http://arise-pj.co.jp/news/%e5%87%ba%e6%bc%94%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/ 出演のお知らせ]</ref>）
+
+== 脚注 ==
+{{脚注ヘルプ}}
+<!--
+=== 注釈 ===
+{{Reflist|group=注}}
+-->
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* {{Official|1=http://arise-pj.co.jp/talent/yuna-kamakura/|name=鎌倉 有那｜ARISE PROJECT inc.}}
+
+{{Voice-stub}}
+{{DEFAULTSORT:かまくら ゆうな}}
+[[Category:日本の女性声優]]
+[[Category:日本ナレーション演技研究所出身の人物]]
+[[Category:東京都出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

@@ -1,0 +1,84 @@
+{{混同|安齋結花|x1=サッカー選手の}}
+
+{{声優
+| 名前 = 安齋 由香里
+| ふりがな = あんざい ゆかり
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{TWN}} <br />{{JPN}}・[[福島県]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 12
+| 生日 = 31
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]
+| 身長 = 160 [[センチメートル|cm]]
+| 職業 = [[声優]]
+| 事務所 = [[ポニーキャニオンアーティスツ|スワロウ]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''安齋 由香里'''（あんざい ゆかり、[[12月31日]]<ref name="profu">{{Cite web|url = http://swallow-p.com/va_anzai.html|title = 安齋 由香里 公式プロフィール|accessdate = 2018-02-15}}</ref> - ）は、台湾及び[[福島県]]出身の[[女性]][[声優]]、イベントMC。[[ポニーキャニオンアーティスツ|スワロウ]]所属<ref name="profu" />。
+
+== 経歴 ==
+P's Voice Artist Schoolの第1期卒業生であり<ref>{{Cite web|url =https://pvaschool.ponycanyon.co.jp/voice/|title = 受講生の声|accessdate = 2018-02-15}}</ref> 、[[2017年]][[11月1日]]よりスワロウの所属となった<ref>{{Cite web|url =http://swallow-p.com/info.html|title=◇NEWS|date=2017-11-01|accessdate =2018-02-15}}</ref><ref>{{Cite web|url =https://twitter.com/swallow_info/status/925561610810179584|title=【お知らせ】 この度、スワロウに新人が3名所属致しました！！…|date=2017-11-01|accessdate =2018-02-15}}</ref>。
+
+== 人物 ==
+特技は[[日本舞踊]]、[[英会話]]<ref name="profu" />。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+| 2017年 |
+* [[潔癖男子!青山くん]]（馬場玲緒奈、古川、女子生徒、女子）<!-- 2017-07-03 -->
+* [[天使の3P!]]（石動、小学女子）<!-- 2017-07-24 -->
+* [[恋と嘘]]（女子生徒）<!-- 2017-08-08 -->
+| 2018年 |
+* [[怪獣娘 〜ウルトラ怪獣擬人化計画〜]]（女）<!-- 2018-02-06（役名無） -->
+| 放送時期未定 |
+* RELEASE THE SPYCE（'''源モモ'''<ref>{{Cite web|url =http://releasethespyce.jp/|title=CAST|accessdate =2018-02-15}}</ref><ref>{{Cite web|url =https://pvaschool.ponycanyon.co.jp/news/#news180131|title=第1期生(2017年9月卒業) 安齋由香里がオリジナルアニメ「RELEASE THE SPYCE」の主人公・源モモ役に決定！|accessdate =2018-02-15}}</ref>）
+}}
+
+=== ゲーム ===
+{{dl2
+| 2017年 |
+* [[結城友奈は勇者である|結城友奈は勇者である 花結いのきらめき]]
+| 時期未定 |
+* Project PARALLEL（'''ティアラ'''<ref>{{Cite web|url =https://www.animatetimes.com/news/details.php?id=1505981746|title=今度は魔女がアイドル！「魔法」×「アイドル」がテーマのメディアミックスプロジェクト『Project PARALLEL』が発表【TGS2017】|accessdate =2018-02-15}}</ref>）
+}}
+
+=== MC ===
+* 映画『[[結城友奈は勇者である|結城友奈は勇者である -鷲尾須美の章-]]』舞台挨拶<ref name="profu" />
+* [[つるの剛士]]初エレクトーンライブ 会見<ref name="profu" />
+* RayarkCon 2017 Preparty in Tokyo<ref>{{Cite web|url =http://www.appbank.net/2017/10/29/iphone-application/1437624.php|title=『RayarkCon 2017 PREPARTY IN TOKYO』レポート！|accessdate =2018-02-15}}</ref>
+
+=== その他 ===
+* ボイスドラマ『帰ってきた元勇者』<ref>{{Cite web|url =https://pvaschool.ponycanyon.co.jp/result/|title=受講生実績|date=2018-02-15|accessdate =2018-02-15}}</ref>
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://swallow-p.com/va_anzai.html 事務所による公式プロフィール]
+
+{{ポニーキャニオンアーティスツ}}
+{{Voice-stub}}
+{{DEFAULTSORT:あんさい ゆかり}} 
+
+[[Category:日本の女性声優]]
+[[Category:ポニーキャニオンアーティスツ所属者]]
+[[Category:福島県出身の人物]]
+[[Category:台湾出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

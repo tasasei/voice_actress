@@ -1,0 +1,118 @@
+{{声優
+| 名前 = 黒瀬 ゆうこ
+| ふりがな = くろせ ゆうこ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 配偶者 = 
+| 出生地 = {{JPN}}・[[広島県]]
+| 死没地 = 
+| 血液型 = 
+| 生年 = 
+| 生月 = 5
+| 生日 = 7
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = [[ヴィムス]]
+| 活動期間 = 
+| デビュー作 = 
+}}
+'''黒瀬 ゆうこ'''（くろせ ゆうこ、[[5月7日]] - ）は、[[日本]]の[[女性]][[声優]]。[[広島県]]出身。[[ヴィムス]]所属。
+
+== 出演 ==
+※'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+|2013年|
+* [[私がモテないのはどう考えてもお前らが悪い!]]（根元陽菜、キミョウ、女子生徒、小学生ギャル）
+|2014年|
+* [[selector infected WIXOSS]]（少女）
+* selector spread WIXOSS（女子生徒）
+* [[ベイビーステップ]]（女の子）
+|2016年|
+* [[ハイスクール・フリート]]（'''納沙幸子'''<ref>{{Cite web|work=TVアニメ「ハイスクール・フリート」公式サイト|url=http://www.hai-furi.com/staff-cast/|title=STAFF & CAST|accessdate=2016-04-10}}</ref>）
+|2017年|
+* [[プリプリちぃちゃん!!]]（'''うっちゃん'''）
+}}
+
+=== OVA ===
+{{dl2
+|2014年|
+* [[Axis powers ヘタリア|ヘタリア The Beautiful World えくすとらでぃすく]]（イギリス娘）
+|2017年|
+* [[ハイスクール・フリート|OVA ハイスクール・フリート]]（'''納沙幸子'''）
+}}
+
+=== ゲーム ===
+{{dl2
+|2011年|
+* [[わグルま!]]（キョンシー<ref>{{Cite web|url=http://www.4gamer.net/games/126/G012664/20111031048/|publisher=4Gamer.net|title=「わグルま！」，新キャラ4匹の情報を公開。本日実装は妖魔族のキョンシー|accessdate=2013-09-15}}</ref>）
+|2012年|
+* [[恋愛番長|恋愛番長2 MidnightLesson!!!]]
+|2014年|
+* [[Tokyo 7th シスターズ]]（寿クルト<ref>{{Cite web|publisher=Tokyo 7th シスターズ|url=http://t7s.jp/character|title=キャラクター|accessdate=2013-12-28}}</ref>）
+|2016年|
+* パズルオブエンパイア（張飛<ref name="poe">{{Cite web|pulisher=芸者東京エンターテインメント|work=パズルオブエンパイア 公式サイト|title=声優一覧|url=http://poem.moe/voice.html|accessdate=2016-08-16}}</ref>、スレイマン<ref name="poe" />）
+}}
+
+=== デジタルコミック ===
+* [[15歳、今日から同棲はじめます。]]（深川杏里<ref>{{Cite web |url= https://anime.iowl.jp/video_titles/46|title= 15歳、今日から同棲はじめます。 モーションコミック|work= コミックフェスタ アニメZone|accessdate=2018-03-11}}</ref>）
+
+== ディスコグラフィ ==
+=== キャラクターソング ===
+{{VOICE Notice Hidden|
+◆ 「キャラクター（声優名）」で統一すること。
+◆ 当記事の声優のみ「キャラクター（'''声優名'''）」とすること。
+◆ ユニットの場合は{{Vau}}を用いる。使い方は[[Template:Vau]]を参照。}}
+{| class="wikitable" style="font-size:small" 
+! style="width:4.5em"|発売日 !! 商品名 !! 歌 !! 楽曲 !! 備考
+|-
+! colspan="5"|2014年
+|-
+| 12月28日 || t7s Re:Longing for summer　
+| {{Vau|セブンスシスターズ}}
+| 「Star☆Glitter」
+| ゲーム『[[Tokyo 7th シスターズ]]』関連曲
+|-
+! colspan="5"|2015年
+|-
+| 5月20日 || H-A-J-I-M-A-L-B-U-M-!!
+| {{Vau|セブンスシスターズ}}　
+| 「Sparkle☆Time!!」
+| ゲーム『Tokyo 7th シスターズ』関連曲
+|-
+! colspan="5"|2016年
+|-
+| 2月24日 || SEVENTH HAVEN
+| {{Vau|セブンスシスターズ}}
+| 「SEVENTH HAVEN」<br />「FALLING DOWN」
+| ゲーム『Tokyo 7th シスターズ』関連曲
+|-
+|}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group="注"}}
+{{Vau}}
+
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.vims.co.jp/talent_profile_detail.php?id=25 所属事務所の公式プロフィール]
+
+{{VIMS}}
+{{voice-stub}}
+{{デフォルトソート:くろせ ゆうこ}}
+
+[[Category:日本の女性声優]]
+[[Category:ヴィムス所属者]]
+[[Category:日本ナレーション演技研究所出身の人物]]
+[[Category:広島県出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

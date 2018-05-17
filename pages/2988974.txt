@@ -1,0 +1,59 @@
+{{複数の問題| 単一の出典 = 2014年5月| 一次資料 = 2014年5月| 特筆性 = 2014年5月}}
+{{声優
+| 名前 = 佐野 かなめ
+| ふりがな = さの かなめ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[群馬県]]<ref name="profile">{{Cite web|url=http://www.ohirapro.com/livedoor/profilesano.html|title=佐野かなめプロフィール - 大平プロダクション|publisher=大平プロダクション|accessdate=2014-05-18}}</ref>
+| 死没地 = 
+| 生年 = 
+| 生月 = 6
+| 生日 = 18
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = B型<ref name="profile"/>
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = 
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+}}
+'''佐野 かなめ'''（さの かなめ、[[6月18日]]<ref name="profile"/> - ）は、[[日本]]の[[女性]][[声優]]。[[群馬県]]出身<ref name="profile"/>。[[日活芸術学院]]、大平透声優ゼミナールを経て、[[大平プロダクション]]（一時期[[RME|モアナ・ファクトリー]]にマネージメントを委託<ref>{{Cite web|url=http://ohirapro.hoops.livedoor.com/listacter.html|title=声優リスト|format=PDF|publisher=大平プロダクション|accessdate=2014-05-18|archiveurl=https://web.archive.org/web/20020109234121/http://ohirapro.hoops.livedoor.com/listacter.html|archivedate=2002年1月9日|deadlinkdate=2017年9月}}</ref> ）に所属していた<ref name="profile"/>。
+
+== 出演作品 ==
+=== 吹き替え ===
+==== 実写 ====
+* [[グジラ]]
+* [[ザ・フィアー2]]
+* [[スターゲイト SG-1]]（ジェニー、メリー、他）
+* [[ニキータ (テレビドラマ)|ニキータ]]（ジュリア）
+* [[バードケージ]]
+* [[ピケット・フェンス]]
+* [[ブラッダ]]（部長）
+
+==== アニメ ====
+* [[スーパーマン (アニメ)|スーパーマン]]（'''アンジェラ・チェン'''）
+* [[ワイルドソーン・ベリーズ]]
+
+== 出典 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.ohirapro.com/talent/talent_f03.html 大平プロダクション所属時のプロフィール]
+
+{{Voice-substub}}
+
+{{DEFAULTSORT:さの かなめ}}
+[[Category:日本の女性声優]]
+[[Category:生年未記載]]
+[[Category:群馬県出身の人物]]
+[[Category:存命人物]]

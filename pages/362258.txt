@@ -1,0 +1,240 @@
+{{Otheruseslist|[[歌手]]の'''YURIA'''|他のユリア|ユリア (曖昧さ回避)}}
+{{Infobox Musician<!--Wikipedia:ウィキプロジェクト 音楽家を参照-->
+| Name = YURIA
+| Background = singer
+| Birth_name = <!-- 本名を記入。 -->
+| Born = {{生年月日と年齢|1979|3|3}}
+| Died = 
+| Origin = {{JPN}}・[[大阪府]]
+| Instrument = [[ボーカル]]<br />[[ベース]]<br />[[ギター]]
+| Genre = [[J-POP]]<br/>[[ゲームソング]]<br/>[[アニメソング]]<br/>[[ロック (音楽)|ロック]]
+| Occupation = [[シンガーソングライター]]<br/>[[作詞家]]<br/>[[作曲家]]<br/>[[ギタリスト]]<br/>[[ベーシスト]]<br/>[[声優]]<br/>[[ラジオパーソナリティ]]<br/>[[コラムニスト]]
+| Years_active = [[2000年]] - 
+| Label = [[Lantis]]<!-- ミュージシャン・グループの所属するレコードレーベルを記入 -->
+| Production = <!-- ミュージシャン・グループの所属している芸能事務所を記入 -->
+| Associated_acts   = PINKY DOODLE POODLE 
+| URL = [http://yuria.love2.ne.jp/ YURIA's web site] {{ja icon}}
+| Blood = <!-- 血液型を記入。 -->
+}}
+'''YURIA'''（ゆりあ、[[1979年]][[3月3日]] - ）は、[[日本]]の[[音楽家|女性ミュージシャン]]。
+
+[[大阪府]]出身。ソロ歌手としての活動をはじめ、多数の[[バンド (音楽)|バンド]]・[[音楽ユニット|ユニット]]（[[Honey Bee]]・[[すいーつたんけんたい]]・[[第二文芸部]]・道頓堀ダイバーズ・Y-p-H・DRAWERS・Pinky Doodle Poodle・re-in.Carnation∞YURIA）で[[ボーカル]]、[[作詞]]・[[作曲]]、[[ギター]]、[[ベース (弦楽器)|ベース]]などを兼任している。また、音楽家としての活動のみならず、[[ラジオパーソナリティ]]や[[声優]]、[[ナレーター]]、コラム執筆など幅広く活動している。
+
+2007年12月に自身のブログで結婚を報告。
+
+== ディスコグラフィ ==
+=== シングル ===
+{|class=wikitable style="font-size:small"
+|-
+!#!!発売日!!タイトル!!規格品番!!オリコン最高位
+|-
+! 1st
+| 2002年11月22日
+| '''WISH'''
+| LACM-4077
+| rowspan=2|圈外
+|-
+! 2nd
+| 2005年8月3日
+| '''YOU'''
+| LACM-4207
+|-
+! 3rd
+| 2005年11月23日
+| '''ORIGINAL!'''
+| LACM-4232
+| 32位
+|-
+! 4th
+| 2006年11月22日
+| '''Remember memories'''
+| LACM-4325
+| 38位
+|-
+! 5th
+| 2007年1月24日
+| '''Happy Dream'''/Ageless Love
+| LACM-4346
+| 53位
+|-
+! 6th
+| 2009年11月25日
+| '''Link-age'''
+| LACM-4682
+| 80位
+|-
+! 7th
+| 2010年12月22日
+| '''guru∞guru'''
+| LACM-4776
+| 200位
+|}
+
+=== アルバム ===
+{|class=wikitable style="font-size:small"
+! # !! 発売日 !! タイトル !! 規格品番 !! オリコン最高位
+|-
+! 1st
+| 2006年2月22日
+| '''YURIA'''
+| LHCA-5031
+| 54位
+|-
+! 2nd
+| 2007年11月21日
+| '''YURIA2'''
+| LHCA-5078
+| 117位
+|}
+
+=== コンピレーション ===
+{{節stub}}
+{| class="wikitable" style="font-size:small"
+! style="width:4.5em" | 発売日 !! 商品名 !! 歌 !! 楽曲 !! タイアップ
+|-
+! colspan=5|2003年
+|-
+| rowspan=2|9月26日 || rowspan=2|Maple Colors オリジナルサウンドトラック
+| rowspan=2|'''YURIA'''
+| 「Breakthrough Your Heart」
+| PCゲーム『[[Maple Colors]]』オープニングテーマ
+|-
+| 「出会いも別れも」
+| PCゲーム『Maple Colors』エンディングテーマ
+|-
+| 12月26日 || 朱 -Aka- オリジナルサウンドトラック プリミティヴ
+| '''YURIA'''、[[佐藤ひろ美|佐藤裕美]]
+| 「Desert-Duo」
+| PCゲーム『[[朱 -Aka-]]』イメージソング
+|-
+! colspan="5" | 2005年
+|-
+| 2月25日 || maiden’s rest 『処女はお姉さまに恋してる』オリジナルサウンドトラック
+| rowspan=2|'''YURIA'''
+| 「You make my day!」
+| PCゲーム『[[処女はお姉さまに恋してる]]』オープニングテーマ
+|-
+| 4月28日 || [[School Days VOCAL ALBUM]]
+| 「シークレット♥ザウルス」
+| PCゲーム『[[School Days]]』エンディングテーマ
+|-
+! colspan=5|2006年
+|-
+| 6月23日 || [[Summer Days -サマーデイズ- 主題歌+オリジナルサウンドトラック]]
+| '''YURIA'''
+| 「Summer Days」
+| PCゲーム『[[Summer Days]]』オープニングテーマ
+|-
+! colspan=5|2007年
+|-
+| 8月22日 || [[School Days Ending Theme+]]
+| '''YURIA'''
+| 「Look at me」
+| テレビアニメ『[[School Days (アニメ)|School Days]]』第5話エンディングテーマ
+|-
+! colspan=5|2010年
+|-
+| 5月26日 || PCゲーム「処女はお姉さまに恋してる 2人のエルダー」ボーカルミニアルバム
+| rowspan=2|'''YURIA'''
+| 「アンダーハンデッド・ガール」
+| PCゲーム『[[処女はお姉さまに恋してる 2人のエルダー]]』オープニングテーマ
+|-
+| 10月8日 || [[School Days VOCAL COMPLETE ALBUM]]
+| 旧曲共に3曲
+| PCゲーム『School Days』、『Summer Days』関連曲
+|}
+
+=== キャラクターソング ===
+{|class="wikitable" style="font-size:small"
+|-
+! style="width:4.5em"|発売日 !! 商品名 !! 歌 !! 楽曲 !! タイアップ
+|-
+! colspan="5" | 2006年
+|-
+| 3月24日 || SHUFFLE! ON THE STAGE Character Vocal Album
+| 時雨亜麻（'''YURIA'''）
+| 「ホントの奇跡」
+| ゲーム『[[SHUFFLE! ON THE STAGE]]』関連曲
+|-
+! colspan="5" | 2007年
+|-
+| 4月11日 || SHUFFLE! MEMORIES CHARACTER SONG ALBUM
+| 時雨亜麻（'''YURIA'''）
+| 「treasure」
+| テレビアニメ『[[SHUFFLE! (アニメ)|SHUFFLE! MEMORIES]]』関連曲
+|}
+
+==作詞作曲作品==
+'''2004年'''
+* 抱きしめて（作曲）
+* LA♪LA♪BYE（作曲）
+'''2005年'''
+* カラフル（作詞、作曲）
+* mermaid blue（作詞、作曲）
+'''2006年'''
+* Happy Go Lucky Days（作詞、作曲）
+* Summer Days（作詞、作曲）
+* Dream&Love（作詞、作曲）
+* baby kiss（作詞、作曲）
+'''2007年'''
+* Look at me（作詞、作曲）
+* シャンプーしてあげる（作詞、作曲、編曲）
+'''2009年'''
+* Garnet（作詞、作曲）
+
+== 出演・連載 ==
+=== アニメ ===
+* [[SHUFFLE!]]（時雨亜麻<ref>{{Cite web | url = http://web.archive.org/web/20080429204243/http://www.wowow.co.jp/anime/shuffle/| title = SHUFFLE!| publisher = WOWOW ONLINE| accessdate = 2016-06-13}}</ref>）
+
+=== ゲーム ===
+* [[SHUFFLE!]]（時雨亜麻）
+* [[Really? Really!]]（時雨亜麻）
+* [[空色の風琴 Remix]]（'''如月颯沙'''）
+
+=== コラム ===
+* アキバ系.COM（YURIA COLOR）
+* コンプティーク（YURIAのFine Days）
+
+=== ラジオ ===
+* G.L.S 〜歌姫たちのトライアングルスクランブル〜（[[エフエム富士|FM-FUJI]] → [[アール・エフ・ラジオ日本|ラジオ日本]]／終了）
+* [[MOE MUSIC STATION 萌みゅう]]（2004年9月24日 - 2006年12月29日）
+* [[アキバチック天国]]（2004年4月3日 - 12月25日）
+* ゆりあれいでぃお（アニ★ロコ・トーク）
+* [[せいやん・YURIAの 美少女ゲームは嫌い|せいやん・YURIAの美少女ゲームは嫌い♥]]（[[大阪放送|ラジオ大阪]]・ラジオ日本：2006年10月8日・2009年10月25日 - 2013年10月26日）
+* [[情報アキハバラエティ はばラヂ]]（[[すときゃ!]]：2006年7月20日、第17回ゲスト）
+
+=== DVD ===
+* [[SHUFFLE! (アニメ)#ライブ|SHUFFLE! LIVE Only for you]]（2006年2月24日）
+* School Days Secret Live DVD（2006年6月23日）
+* [[Navel#かぶら|Live in TOKYO かぶら2008]]（2008年8月6日）
+* Live in TOKYO かぶら2009（2009年10月30日）
+* GROOVER暴れ祭り2ND〜死して屍拾う者無し〜
+
+=== イベント ===
+* 萌の林間学校
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://pinkydoodlepoodle.com/ YURIA 公式ウェブサイト『YURIA's Web Site』] {{ja icon}}
+* [http://ameblo.jp/yuria-pdp/ YURIA ☆ PINKY DOODLE POODLEオフィシャルブログ『「YURIA's blog」』Powered by Ameba]（2009年1月09日 - 、[[アメーバブログ]]） {{ja icon}}
+*{{Twitter|PDP_JP}}
+
+{{ランティス}}
+
+{{Singer-stub}}
+{{DEFAULTSORT:ゆりあ}}
+[[Category:アキバ系アイドル]]
+[[Category:日本のミュージシャン]]
+[[Category:日本の女性シンガーソングライター]]
+[[Category:日本の女性ロック歌手]]
+[[Category:日本の女性ポップ歌手]]
+[[Category:ゲーム音楽家]]
+[[Category:アニメソング歌手]]
+[[Category:萌えソング歌手]]
+[[Category:ランティスのアーティスト]]
+[[Category:日本の女性声優]]
+[[Category:大阪府出身の人物]]
+[[Category:存命人物]]
+[[Category:1979年生]]

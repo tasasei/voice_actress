@@ -1,0 +1,69 @@
+{{複数の問題
+| 存命人物の出典明記 = 2017年10月5日 (木) 15:19 (UTC)
+| 一次資料 = 2017年10月5日 (木) 15:19 (UTC)
+}}{{声優
+| 名前 = 森嶋 優花
+| ふりがな = もりしま ゆうか
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = もっちー
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[京都府]]<ref name="prof">{{Cite web|url=http://www.81produce.co.jp/list.cgi?lady+6582226173030|title=森嶋優花：所属俳優：81produce|accessdate=2017-10-05}}</ref>
+| 死没地 = 
+| 生年 = 1997
+| 生月 = 3
+| 生日 = 16
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = [[81プロデュース]]<ref name="prof" />
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = [http://www.81produce.co.jp/list.cgi?lady+6582226173030 森嶋優花：所属俳優：81produce]
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+
+'''森嶋 優花'''（もりしま ゆうか、[[1997年]][[3月16日]]<ref name="prof" /><ref>「東北スポーツ 号外」（2017年7月30日に[[ワンダーフェスティバル]]2017[夏]やアニメショップにて配布されたRun Girls, Run!を紹介するチラシ）</ref><ref>{{Cite web|url=https://ameblo.jp/rungirlsrun/entry-12298089282.html|title=音芽な優花ですヽ( *´ω`* )/|work=Run Girls, Run！オフィシャルブログ Powered by Ameba|author=森嶋優花|date=2017-8-2|accessdate=2017-10-23}}</ref> - ）は、[[日本]]の[[女性]][[声優]]。[[京都府]]出身<ref name="prof" />。[[81プロデュース]]所属<ref name="prof" />。
+
+== 略歴 ==
+avex×81produce Wake Up, Girls! AUDITION 第3回アニソン・ヴォーカルオーディション 合格<ref>{{Cite web|url=http://avex-pictures.co.jp/topic/2530|title=10月放送「Wake Up, Girls！ 新章」新キャスト&新キャラクター発表！ 2,000名から選ばれた3名の新人声優がアニメに登場！ 新ユニット「Run Girls, Run！」も結成！！ Wake Up, Girls！の「タチアガレ！」「16歳のアガペー」をイベントで熱唱！|accessdate=2017-10-06|date=2017-07-30|publisher=[[エイベックス・ピクチャーズ|avex pictures]]}}</ref><ref group="注">第1回の合格者では[[i☆Ris]]が、第2回の合格者では[[Wake Up, Girls! (声優ユニット)|Wake Up, Girls!]]が結成された</ref>。[[林鼓子]]、[[厚木那奈美]]と共に3人組のユニット[[Run Girls, Run!]]を結成。『[[Wake Up, Girls! 新章]]』でアニメ初出演。
+
+== 出演 ==
+=== テレビアニメ ===
+* [[Wake Up, Girls! 新章]]（2017年、'''守島音芽'''<ref>{{Cite web|url=http://wakeupgirls3.jp/staffcast/|title=STAFF/CAST|work=TVアニメ「Wake Up, Girls！新章」公式サイト|accessdate=2017-10-05}}</ref>）<!-- 2017-10-10 -->
+
+=== ラジオ ===
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+'''太字'''は放送中。※は[[インターネットラジオ|インターネット配信]]。
+* '''[[Wake Up, Girls!#関連番組|Wake Up, Girls!とRun Girls, Run!のオールナイトニッポンi]]'''（2017年 - 、[[オールナイトニッポンi]]※）不定期パーソナリティ<ref>{{Cite web|url=https://i.allnightnippon.com/pg/pg_anni_wugrgr|title=Wake Up, Girls！とRun Girls, Run！のオールナイトニッポンｉ|publisher=オールナイトニッポンi|accessdate=2017-10-21}}</ref>
+* [[Wake Up, Girls!#関連番組|Run Girls, Radio!]]（2017年 - 2018年、[[HiBiKi Radio Station]]※）<ref>{{Cite web|publisher= Wake Up, Girls! 3 製作委員会|title=Run Girls, Radio！響 - HiBiKi Radio Stationで10月3日より配信決定！|url=http://rungirlsrun.jp/news/detail.php?id=1053865|accessdate=2017-10-21}}</ref>
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group=注}}
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* {{Official|1=http://www.81produce.co.jp/list.cgi?lady+6582226173030|name=森嶋優花：所属俳優：81produce}}
+* {{Ameba blog|rungirlsrun|Run Girls, Run！オフィシャルブログ}}（森嶋優花は水曜日担当）
+
+{{Wake Up, Girls!}}
+{{81プロデュース}}
+{{Normdaten}}
+{{Voice-stub}}
+{{DEFAULTSORT:もりしま ゆうか}}
+
+[[Category:Wake Up, Girls!]]
+[[Category:日本の女性声優]]
+[[Category:81プロデュース]]
+[[Category:京都府出身の人物]]
+[[Category:存命人物]]

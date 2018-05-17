@@ -1,0 +1,86 @@
+{{声優
+| 名前 = 向井 莉生
+| ふりがな = むかい りぶ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 12
+| 生日 = 19
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = [[81プロデュース]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''向井 莉生'''（むかい りぶ、[[12月19日]]<ref name="profu">{{Cite web|url = http://www.81produce.co.jp/list.cgi?lady+631102825300|title =向井 莉生 公式プロフィール|accessdate = 2018-02-19}}</ref> - ）は、[[東京都]]出身の[[女性]][[声優]]。[[81プロデュース]]所属（ジュニア）<ref name="profu" />。
+
+== 経歴 ==
+* [[アミューズメントメディア総合学院]]声優タレント学科の卒業生である<ref name="AMG">{{Cite web|url =http://www.amgakuin.co.jp/contents/?p=23657|title=81プロデュース主催の「81オーディション」で在校生の向井莉生さんがトリプル受賞！|accessdate = 2018-02-19}}</ref>。
+* 2015年、第9回81オーディションで特別賞、サミー賞、MiMi賞を受賞した<ref name="AMG" />。
+* 2017年4月1日付で[[81プロデュース]]ジュニア所属となった<ref>{{Cite web|url =https://twitter.com/live_1219/status/848772564906164225|title=【ご報告！！】今年度4月1日より…81プロデュースジュニア所属になりました！！…|accessdate = 2018-02-19}}</ref>。
+
+== 人物 ==
+* 趣味・特技は[[散歩]]、絵を描くこと、歌唱、人の長所を見つけること<ref name="profu" />。
+* 性格は良くも悪くも単純だと語っている<ref name="夏フェス">{{Cite web|url =https://www.at-x.com/at-x_contents/at-x_summerfes2017/fes/126.html|title=ウチの夏フェス2017|accessdate = 2018-02-19}}</ref>。
+* 虫が苦手である<ref name="夏フェス" />。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+| 2017年 |
+* [[アイドルタイムプリパラ]]（ひな）
+* [[笑ゥせぇるすまんNEW]]（友達）
+
+}}
+
+=== ゲーム ===
+{{dl2
+| 2015年 |
+* 新約 アルカナスレイヤー（アイリス<ref>{{Cite web|url =https://www.gamer.ne.jp/news/201508240001/|title=iOS/Android「新約 アルカナスレイヤー」81オーディションMiMi賞受賞者・向井莉生さんがアイリス役に決定！|accessdate = 2018-02-19}}</ref>） 
+| 2017年 |
+* [[クイズRPG 魔法使いと黒猫のウィズ]]（テタニア<ref name="黒猫">{{Cite web|url =https://twitter.com/live_1219/status/885892246997876736|title=
+魔法使いと黒猫のウィズ「時詠みのエターナル・クロノスⅢ ～さよなら、サマー～」にテタニアとして出させていただきましたっ！！|accessdate = 2018-02-19}}</ref>、バズミィ<ref name="黒猫" />、ルイミー<ref name="黒猫" />）
+* 東京ドラゴンシティ（アマテラス、ヘスティア、狂野死神）<ref>{{Cite web|url =https://twitter.com/live_1219/status/913414995353903104|title=【お知らせ！】アプリ「東京ドラゴンシティ」にてキャラクターを担当させていただきました…|accessdate = 2018-02-19}}</ref>
+| 時期未定 |
+* Project PARALLEL<ref>{{Cite web|url =https://www.animatetimes.com/news/details.php?id=1505981746|title=今度は魔女がアイドル！「魔法」×「アイドル」がテーマのメディアミックスプロジェクト『Project PARALLEL』が発表【TGS2017】…|accessdate = 2018-02-19}}</ref>
+}}
+
+=== ラジオ ===
+レギュラー番組のみ。<!-- 単発のゲスト出演などは不要。 -->
+'''太字'''は放送中。※は[[インターネットラジオ|インターネット配信]]。
+* '''やっぱりSが好き～SAY YOU! LOVE ME!'''（2018年 - 、ラジオ日本）<ref>{{Cite web|url =https://twitter.com/s_love_radio/status/949631043438432256|title=本日26時から ラジオ日本様にて 新番組『やっぱりSが好き』がスタートします！！…|accessdate = 2018-02-19}}</ref>
+
+=== その他 ===
+* 飛べ!京浜ドラキュラ（モトマチ）
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.81produce.co.jp/list.cgi?lady+631102825300 向井莉生：所属俳優：81produce]
+* {{Twitter|live_1219}}
+
+{{81プロデュース}}
+{{DEFAULTSORT:むかい りふ}}
+
+[[Category:日本の女性声優]]
+[[Category:81プロデュース]]
+[[Category:AMGの卒業生]]
+[[Category:東京都出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

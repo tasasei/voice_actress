@@ -1,0 +1,72 @@
+{{特筆性|人物|date=2017-03}}
+{{声優
+| 名前 = 長野 佑紀
+| ふりがな = ながの ゆき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = がのちゃん
+| 性別 = [[女性]]
+| 出生地 = [[広島県]]
+| 死没地 = 
+| 生年 =1997 
+| 生月 = 6
+| 生日 = 27
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|B型]]
+| 身長 = 148 [[センチメートル|cm]]
+| 職業 = [[声優]]
+| 事務所 = [[EARLY WING]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = [[2016年]] - 
+| デビュー作 = [[恋愛暴君]]
+| 活動 = 
+}}
+'''長野 佑紀'''（ながの ゆき、[[1997年]]6月27日 - ）は、[[日本]]の[[女性]][[声優]]。[[広島県]]出身<ref name="ew_prof">{{Cite web |date= |url=http://www.earlywing.co.jp/talent/naganoyuki/ |title=長野 佑紀のプロフィール | 声優事務所EARLY WING |publisher=EARLY WING |accessdate=2017-03-23}}</ref>。[[EARLY WING]]所属。
+
+[[趣味]]・[[特技]]は、イラストを描くことと[[バスケットボール]]<ref name="ew_prof"/>。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+* [[恋愛暴君]]（2017年、'''黄蝶ヶ崎柚'''<ref>{{Cite web|work=TVアニメ「恋愛暴君」公式サイト|title=スタッフキャスト|url=http://renaiboukun.com/staffcast/|accessdate=2017-03-27}}</ref>）<!-- 2017-04-07 -->
+* [[デスマーチからはじまる異世界狂想曲]]（2018年、女の子、リリオ）<!-- 2018-01-11 -->
+
+=== ラジオ ===
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+'''太字'''は放送中。※は[[インターネットラジオ|インターネット配信]]。
+* '''輝星のリベリオンRADIO 惑星マラキア放送局！'''（2017年、EARLY WING特設サイト※<ref>{{Cite web|url=http://www.earlywing.co.jp/reberadi-main/|title=輝星のリベリオンRADIO 惑星マラキア放送局！|publisher=EARLY WING|accessdate=2017-07-21}}</ref>）<ref group="注">※第9回放送より</ref>
+* [[恋愛暴君#Webラジオ|恋愛暴君暴れん坊ラジオ]]（2017年、[[HiBiKi Radio Station]]※<ref>{{Cite web|url=http://hibiki-radio.jp/description/abarenbou/detail|title=恋愛暴君暴れん坊ラジオ|publisher=HiBiKi Radio Station|accessdate=2017-03-27}}</ref>）
+
+===ゲーム===
+*誰ソ彼ホテル (ルリ)
+
+=== その他 ===
+* '''岡田みーこ'''<ref>※岡田味噌店イメージキャラクター</ref><ref>{{Cite web|url=http://blog.ikemax.com/entry/2016/08/06/070019|title=岡田みーこ声優オーディション結果発表！　選ばれたのは誰？|publisher=イケマックス|accessdate=2017-03-28}}</ref><ref>{{Cite web|url=http://okadamiso.hatenablog.com/entry/2016/09/08/181013|title=はじめまして！　岡田みーこです|publisher=岡田味噌公式ブログ|accessdate=2017-03-28}}</ref>
+* [[温泉むすめ]]（宮浜仁佳<ref>{{Cite web|url=https://onsen-musume.jp/news/2918|title=新キャラクター「宮浜 仁佳 （みやはま ひとか）」を追加！|work=温泉むすめ公式サイト|accessdate=2018-02-20}}</ref>）
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group=注}}
+{{Vau}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 外部リンク ==
+* [http://www.earlywing.co.jp/talent/naganoyuki/ EARLY WINGによるプロフィール]
+* {{Twitter|Nagano_Yuki0627}}
+
+{{EARLY WING}}
+{{voice-substub}}
+{{DEFAULTSORT:なかの ゆき}}
+[[Category:日本の女性声優]]
+[[Category:EARLY WING]]
+[[Category:広島県出身の人物]]
+[[Category:1997年生]]
+[[Category:存命人物]]

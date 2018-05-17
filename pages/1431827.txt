@@ -1,0 +1,53 @@
+{{複数の問題
+| 一次資料 = 2016年10月
+| 特筆性 = 2016年5月 | 分野 = 人物
+}}
+{{声優
+| 名前 = 有栖川ゆき
+| ふりがな = ありすがわ ゆき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 非公開
+| 愛称 = 
+| 出生地 = {{JPN}}・[[東京]]
+| 血液型 = O型<ref name="profile" />
+| 生年 = 
+| 生月 = 11
+| 生日 = 5
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 職業 = [[声優]]
+| 所属 = [[三木プロダクション]]
+| 活動期間 = 
+| デビュー作 = 
+}}
+
+'''有栖川 ゆき'''（ありすがわ ゆき、[[11月5日]]<ref name="profile">{{Cite web |url=http://www.mikipro.co.jp/talent/arisugawa.html |title=プロフィール |publisher=三木プロダクション |accessdate=2016-10-28 |archiveurl=https://web.archive.org/web/20090524012826/http://www.mikipro.co.jp/talent/arisugawa.html |archivedate=2009-05-24}}</ref> - ）は、[[日本]]の[[女性]][[声優]]。[[三木プロダクション]]に所属していた<ref name="profile" />。[[東京都]]出身<ref name="profile" />。
+
+==出演作品==
+===海外ドラマ===
+*[[エイリアス (テレビドラマ)|エイリアス]]<ref name="profile" />
+
+===CMナレーション===
+* [[アリエール (洗剤)|アリエール]]<ref name="profile" />
+
+===CM===
+*[[NTTコミュニケーションズ]]<ref name="profile" />（顔出し）
+
+===着声===
+*アテネオリンピック応援ボイス<ref name="profile" />
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+==外部リンク==
+*{{Wayback |url=http://www.mikipro.co.jp/talent/arisugawa.html |title=三木プロダクションによる公式プロフィール |date=20080206194055}}
+
+{{Voice-substub}}
+{{デフォルトソート:ありすかわ ゆき}}
+[[Category:日本の女性声優]]
+[[Category:東京都出身の人物]]
+[[Category:存命人物]]

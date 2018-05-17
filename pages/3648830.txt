@@ -1,0 +1,80 @@
+{{特筆性|人物|date=2017年9月}}
+{{一次資料|date=2017年9月}}
+{{声優
+| 名前 = 青野 菜月
+| ふりがな = あおの なつき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = なっちゃん、なっつん、あおちゃん<ref name="hptv">{{Cite web|url =http://www.nicovideo.jp/watch/1481878783|title = ハニプラTV自己紹介|accessdate = 2017-09-07}}</ref>
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 2
+| 生日 = 2
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|O型]]
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = [[ケッケコーポレーション]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+}}
+'''青野 菜月'''（あおの なつき、[[2月2日]]<ref name="profu">{{Cite web|url =http://www.kekke.co.jp/talent/aono.htm|title = 青野菜月 プロフィール|accessdate = 2017-09-07}}</ref> - ）は、[[東京都]]出身<ref name="profu" />の[[女性]][[声優]]。[[ABO式血液型|血液型]]は[[ABO式血液型|O型]]<ref name="profu" />。[[ケッケコーポレーション]]所属<ref name="profu" />。
+
+== 経歴 ==
+{{節スタブ}}
+
+== 人物 ==
+{{節スタブ}}
+* 趣味は[[作詞]]、[[作曲]]・[[龍笛]]・[[ラテアート]]<ref name="profu" />。
+* 特技は[[お菓子]]作り・[[イルカ]]の[[鳴き声]]<ref name="profu" />。
+* 好きな動物は[[イルカ]]と[[クジラ]]<ref name="hptv" />。
+* 嫌いな食べ物は[[人参]]<ref name="hptv" />。
+* 自身のTwitter<ref name="twi">{{Cite web|url =https://twitter.com/natsukiaono221|title = 青野菜月 公式Twitter|accessdate = 2017-09-07}}</ref>では、基本的に世界の[[メタル]][[バンド]]のリツイートが大多数を占める程のメタル好き<ref name="hptv" />。
+* ハニプラＴＶ<ref name="hptv" />では[[メタル]]の[[ジャンル]]でも特に[[メロディックデスメタル]]が好きと公言している。
+* チョクメ！<ref name="choku">{{Cite web|url =https://ani.chokume.com/actor/768a9510-3278-4cce-b0de-0bf00344216f|title = 青野菜月 チョクメ！|accessdate = 2017-09-07}}</ref>では、[[北欧]][[メタル]]そして[[フィンランド]]が好きと紹介動画で公開している。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+| 2017年 |
+* [[風夏]]（女性客）
+| 2018年 |
+* [[新幹線変形ロボ シンカリオン THE ANIMATION]]（女生徒B）<!-- 2018-01-13 -->
+* [[ミイラの飼い方]]（ユメちゃん）<!-- 2018-01-19 -->
+* [[カードキャプターさくら クリアカード編]]（生徒）<!-- 2018-02-11 -->
+}}
+
+=== ゲーム ===
+{{dl2
+| 2016年 |
+* 8 beat Story ♪（'''橘彩芽'''<ref>{{Citeweb|url=http://chronus.8beatstory.jp/character/|title=8 beat Story♪【公式サイト】 CHARACTER|accessdate=2017-11-3}}</ref>）
+*車なご(スバル360<ref>{{Cite web|publisher=autoc-one|work=公式攻略サイト【車なごコレクション】|url=http://syanago.com/wiki/index.php?CV（声優）・作家一覧#cvil_su|title=CV(声優)・一覧 スバル|accessdate=2017-11-3}}</ref>)
+| 2018年 |
+* エフェメラル -FANTASY ON DARK-（オリヴィア<ref>{{Cite web|publisher=dramatic create|work=エフェメラル -FANTASY ON DARK-|url=http://www.dramaticcreate.com/ephemeral/chara.html#name07|title=CHARACTER|accessdate=2017-09-28}}</ref>）
+}}
+
+=== ラジオ ===
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+'''太字'''は放送中。※は[[インターネットラジオ|インターネット配信]]。
+* [[らじぽっ!|青野菜月と和田京子のらじぽっ!]]（2015年、[[超!A&G+]]※）<ref>{{Cite web|publisher= CyberAgent|title=【青野菜月】7月9日から超A&G＋で動画番組「青野菜月と和田京子のらじぽっ！」が始まります！！|url=https://ameblo.jp/kekkechannel/entry-12043090829.html|accessdate=2017-12-02}}</ref>
+
+== 出典 ==
+{{reflist}}
+
+{{ケッケコーポレーション}}
+{{voice-substub}}
+{{デフォルトソート:あおの なつき}}
+[[Category:日本の女性声優]]
+[[Category:ケッケコーポレーション]]
+[[Category:東京都出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

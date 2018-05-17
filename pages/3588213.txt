@@ -1,0 +1,120 @@
+{{声優
+| 名前 = 野村 麻衣子
+| ふりがな = のむら まいこ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 =
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[神奈川県]]<ref name="profile">{{Cite web|url=http://www.kenproduction.co.jp/talent/member.php?mem=w123|title=野村 麻衣子|publisher=賢プロダクション|date=|accessdate=2017-04-25}}</ref>
+| 生年 = 1995
+| 生月 = 10
+| 生日 = 2
+| 血液型 = 
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = [[賢プロダクション]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+
+'''野村 麻衣子'''（のむら まいこ、[[1995年]][[10月2日]]<ref>{{Twitter status|maikonomura102|782566223137480706}}</ref><ref name="AT-X">{{Cite web|url=https://www.at-x.com/at-x_contents/summerfes2016/77.html|title=野村麻衣子 - フレッシュ夏フェス隊！|publisher=AT-X|date=|accessdate=2017-04-25}}</ref> - ）は、[[日本]]の[[女性]][[声優]]。[[賢プロダクション]]所属。[[上智大学]]文学部在籍中<ref>{{Cite web|url=http://www.wasedajuku.com/curriculum/jukuiku/plp/|title=声優塾presentsプレゼンテーション＆リーダーシッププログラム|publisher=早稲田塾|date=|accessdate=2017-05-09|archiveurl=https://web.archive.org/web/20170508212237/http://www.wasedajuku.com/curriculum/jukuiku/plp/|archivedate=2017-05-09}}</ref>。
+
+== 人物 ==
+趣味は[[歌]]、[[弓道]]、[[英会話]]<ref name="profile"></ref>。
+
+声優を目指したきっかけは[[ドラえもん映画作品|ドラえもんの映画]]<ref name="AT-X"></ref>。[[2016年]]の時点では今後演じてみたいキャラクターとしては「勝気で強い女の子」を挙げている<ref>{{YouTube|ThwjyJYigls|ウチの夏フェス2016！フレッシュ夏フェス隊}}</ref>。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{定義リスト2
+| 2014年 |
+* [[幕末Rock]]<ref name="profile"></ref>
+| 2018年 |
+* [[サンリオ男子]]（女の子の母）<!-- 2018-01-06 -->
+* [[カードキャプターさくら クリアカード編]]（生徒）<!-- 2018-01-14 -->
+* [[グランクレスト戦記]]（子供）<!-- 2018-02-24 -->
+}}
+
+=== 劇場アニメ ===
+{{定義リスト2
+| 2016年 |
+* [[映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法!]]<ref name="profile"></ref>
+}}
+
+=== ゲーム ===
+{{定義リスト2
+| 2014年 |
+* [[Tokyo 7th シスターズ]]（'''越前ムラサキ<ref>{{Cite web|url=http://t7s.jp/character|title=Tokyo 7th シスターズ - キャラクター|publisher=Tokyo 7th シスターズ|date=|accessdate=2017-04-25}}</ref>'''）
+| 2015年|
+* ワールドギミック
+| 2017年|
+* [[クイズRPG 魔法使いと黒猫のウィズ]]（メヒティルト・レンツ）
+}}
+
+=== その他コンテンツ ===
+{{定義リスト2
+| 2015年 |
+* [[進撃の巨人#ムービーコミック|Beeマンガ 進撃の巨人]]<ref name="profile"></ref>
+| 2017年-|
+* [[東進TV|東進のインターネットテレビ局]]<ref>{{Cite web|url=https://www.toshin.com/movie/|title=東進TV｜東進のインターネットテレビ局|publisher=東進TV|date=|accessdate=2018-01-26}}</ref>
+}}
+
+==  ディスコグラフィ ==
+
+=== キャラクターソング ===
+{{VOICE Notice Hidden|
+◆ 「キャラクター（声優名）」で統一すること。
+◆ 当記事の声優のみ「キャラクター（'''声優名'''）」とすること。
+◆ ユニットの場合は{{Vau}}を用いる。使い方は[[Template:Vau]]を参照。}}
+{| class="wikitable" style="font-size:small" 
+! style="width:4.5em"|発売日 !! 商品名 !! 歌 !! 楽曲 !! 備考
+|-
+! colspan="5" | 2016年
+|-
+| 10月26日
+| TRIGGER / Fire and Rose
+| {{vau|The QUEEN of PURPLE}}<br />（越前ムラサキ）
+| 「TRIGGER」<br />「Fire and Rose」
+| ゲーム『Tokyo 7th シスターズ』関連曲
+|}
+
+== ライブ・出演イベント ==
+{| class="wikitable"
+!<small>日程</small>
+!<small>タイトル</small>
+!<small>会場・備考</small>
+|-
+|<small>2017年4月22日-4月23日　　　</small>
+!<small>'''Tokyo 7th シスターズ 3rd Anniversary Live'''</small>
+
+<small>'''17'→XX -CHAIN THE BLOSSOM- in Makuhari Messe'''</small>
+|<div class="NavFrame" style="clear:both;border:0;"><div class="NavHead" style="text-align:left;"><small>1会場3公演</small></div></div><small>4/22-23　[[幕張メッセ|幕張メッセイベントホール]]　　　　　</small>
+
+<small>これが初のライブ出演となる</small>
+|}
+
+== 脚注 ==
+{{Reflist}}
+=== 注釈 ===
+{{Vau}}
+
+== 外部リンク ==
+* [http://www.kenproduction.co.jp/talent/member.php?mem=w123 公式プロフィール]
+* {{Twitter|maikonomura102}}
+
+{{賢プロダクション}}
+
+{{Voice-stub}}
+{{DEFAULTSORT:のむら まいこ}}
+[[Category:日本の女性声優]]
+[[Category:賢プロダクション]]
+[[Category:神奈川県出身の人物]]
+[[Category:1995年生]]
+[[Category:存命人物]]

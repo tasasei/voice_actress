@@ -1,0 +1,67 @@
+{{存命人物の出典明記|date=2016年12月}}
+{{ActorActress
+| 芸名 = 羽田 千尋
+| ふりがな = はねた ちひろ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 別名義 = 
+| 出生地 = {{JPN}}・[[神奈川県]]
+| 死没地 = 
+| 国籍 = {{JPN}}
+| 民族 = 
+| 身長 = 
+| 血液型 = [[ABO式血液型|A型]]
+| 生年 = 1993
+| 生月 = 12
+| 生日 = 31
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 職業 = [[司会者]]<br/>声優、下記を参照
+| ジャンル = [[アイドル]]
+| 活動期間 = [[2001年]] -
+| 活動内容 = 一般
+| 配偶者 = 
+| 著名な家族 = 
+| 所属劇団 = 
+| 事務所 =
+| 公式サイト = 
+| 主な作品 = 
+| 備考 = 
+}}
+
+'''羽田 千尋'''（はねた ちひろ、[[1993年]][[12月31日]]<ref name="be-i-a">{{Cite web |url=http://www.be-i-a.com/talent2.html |title=プロフィール |publisher=ビサイド・インキュベイト・エージェント |accessdate=2016-12-04 |archiveurl=https://web.archive.org/web/20080401161133/http://www.be-i-a.com/talent2.html |archivedate=2008-04-01}}</ref> - ）は、[[日本]]の[[声優]]。[[神奈川県]]出身<ref name="be-i-a" />。[[ABO式血液型|血液型]]は[[ABO式血液型|A型]]<ref name="be-i-a" />。
+
+== 人物 ==
+[[2001年]]に雑誌の「キッズデビュー」2001年春号でデビューし<ref name="hanextuchi">{{Cite web |url=http://profile.ameba.jp/hanextuchi/ |title=プロフィール |work=羽田千尋オフィシャルブログ『ちみっこい』 |accessdate=2016-12-04}}</ref>、{{要出典範囲|[[ファイブ☆エイト]]に[[子役]]として在籍|date=2016年12月}}。後に[[ビサイド・インキュベイト・エージェント]]<ref name="be-i-a" />に移籍。[[2008年]]から[[アニメロ新人オーディション]]のメンバーの第3期生として、2008年11月から「鷲崎健のアニメロ新人オーディション」にレギュラー出演した<ref>{{Cite web |url=http://www.d-ap.jp/audition/member/ |title=メンバー詳細 |work=アニメロ新人オーディション |publisher=ドワンゴ |accessdate=2016-12-04 |archiveurl=https://web.archive.org/web/20090508044631/http://www.d-ap.jp/audition/member/ |archivedate=2009-05-08}}</ref>。
+
+== 出演 ==
+=== バラエティ ===
+* [[おはスタ]]（2004年4月 - 2005年3月、[[テレビ東京]]）<ref name="hanextuchi" />
+* ギャグコロスタジオ（2004年4月4日 - 2005年3月27日、テレビ東京）<ref name="hanextuchi" />
+* 音神GIGTV！（2005年、テレビ東京）<ref name="hanextuchi" />
+
+=== テレビアニメ ===
+* [[ポケットモンスター アドバンスジェネレーション]]（[[ポワルン]]）（2004年、テレビ東京）
+
+=== イベント ===
+* {{要出典範囲|[[2003年]][[7月19日]]にRUN&GUN "03 夏の陣 "握手会に出演|date=2016年12月}}
+* [[アニメロ新人オーディション|鷲崎健のアニメロ新人オーディション]]（[[ニコニコアニメチャンネル]]、2008年 - 2009年）<ref name="hanextuchi" />
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://ameblo.jp/hanextuchi/ 羽田千尋オフィシャルブログ『ちみっこい』]
+* {{Wayback |url=https://web.archive.org/web/20080401161133/http://www.be-i-a.com/talent2.html |title=ビサイド・インキュベイト・エージェントによるプロフィール |date=20080401161133}}
+* {{Wayback |url=https://web.archive.org/web/20090508044631/http://www.d-ap.jp/audition/member/ |title=メンバー詳細｜アニメロ新人オーディション |date=20090508044631}}
+
+{{DEFAULTSORT:はねた ちひろ}}
+[[Category:日本の女性声優]]
+[[Category:日本の子役]]
+[[Category:神奈川県出身の人物]]
+[[Category:1993年生]]
+[[Category:存命人物]]

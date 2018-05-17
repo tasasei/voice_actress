@@ -1,0 +1,57 @@
+{{声優
+| 名前 = 由倉 奈於
+| ふりがな = ゆくら なお
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 配偶者 =
+| 出生地 = {{JPN}}・[[東京都]]<ref name=peach>{{Cite web|date=|url=http://www.hormone.co.jp/peach/voice/yukura.html|title=由倉奈於/ゆくらなお|publisher=アトリエピーチ|accessdate=2011-12-15}}</ref>
+| 血液型 = [[ABO式血液型|A型]]<ref name=peach/>
+| 生年 = 
+| 生月 = 7
+| 生日 = 3
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = [[アトリエピーチ]]
+| 活動期間 =  
+| デビュー作 = 
+}}
+'''由倉 奈於'''（ゆくら なお、[[7月3日]]<ref name=peach/> - ）は、[[日本]]の[[女性]][[声優]]。[[アトリエピーチ]]所属。[[東京都]]出身。[[ABO式血液型|血液型]]は[[ABO式血液型|A型]]。
+
+== 出演作品 ==
+'''太字'''は主役・メインキャラクター
+
+=== ゲーム ===
+* [[SISTER 〜堕落の刻印〜]]（'''アイシャ'''）<ref>{{Cite web|date=|url=http://www.lilith-soft.com/black/product15.html|title=SISTER 〜堕落の刻印〜|publisher=|accessdate=2011-12-15}}</ref>
+* [[ピエタ 幸せの青い鳥]]（業原鏡子）<ref>{{Cite web|date=|url=http://www.flyingshine.com/kuro/product/pieta/chara.html#kyouko|title=ピエタ 幸せの青い鳥|publisher=|accessdate=2011-12-15}}</ref>
+* [[Piaキャロットへようこそ!!G.O. 〜グランド・オープン〜|Pia♥キャロットへようこそ!!G.O.〜SUMMER FAIR〜]]（高屋敷瑞希）<ref name=peach/>
+* [[魔女っ娘ア・ラ・モードII 〜光と闇のエトランゼ〜]]（ナレーション、リスティア）<ref name=peach/>
+* 魔女っ娘ア・ラ・モードII 〜魔法と剣のストラグル〜（女子生徒、男の子）<ref name=peach/>
+
+=== CD-ROM ===
+* PCフレンド算数理科漢字（ナレーション、ブル、魔法使い）<ref name=peach/>
+* 作って遊ぼう!（ナレーション）<ref name=peach/>
+
+=== 舞台 ===
+* ダークサイド・オブ・ザ・ムーン（少年役他〜スタジオはるか）<ref name=peach/>
+* 楽屋（女優役〜スタジオはるか）<ref name=peach/>
+
+== 出典 ==
+<span style="color:red">（18歳未満閲覧禁止のサイトを含みます）</span>
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.hormone.co.jp/peach/voice/yukura.html 所属事務所の公式プロフィール]
+
+{{アトリエピーチ}}
+{{Voice-stub}}
+{{DEFAULTSORT:ゆくら なお}}
+[[Category:日本の女性声優]]
+[[Category:アダルトゲーム声優]]
+[[Category:東京都出身の人物]]
+[[Category:存命人物]]

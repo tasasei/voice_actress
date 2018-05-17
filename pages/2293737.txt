@@ -1,0 +1,54 @@
+{{Infobox Musician <!--Wikipedia:ウィキプロジェクト 音楽家を参照-->
+| Name                = 白石 なごむ
+| Img                 = 
+| Img_capt            = 
+| Img_size            = <!-- サイズが250ピクセルに満たない場合のみ記入 -->
+| Landscape           = <!-- 画像の横幅が広く、高さが小さい場合に“yes”を記入 -->
+| Background          = singer
+| Birth_name          = <!-- 個人のみ --><!-- 出生時の名前が公表されている場合にのみ記入 -->
+| Alias               = 
+| Blood               = O<!-- 個人のみ -->
+| School_background   = <!-- 個人のみ -->
+| Born                = {{生年月日と年齢||9|7}}<!-- 個人のみ -->
+| Died                = <!-- 個人のみ -->
+| Origin              = {{JPN}}・[[埼玉県]][[さいたま市]][[浦和区]]
+| Instrument          = <!-- 個人のみ -->
+| Genre               = 
+| Occupation          = 
+| Years_active        = 
+| Label               = 
+| Production          = 
+| Associated_acts     = 
+| Influences          = 
+| URL                 = 
+| Notable_instruments = 
+}}
+{{Cleanup|date=2014年10月}}
+'''白石 なごむ'''（しらいし なごむ、[[9月7日]] - ）は、[[日本]]の[[ミュージシャン]]、[[作詞家]]、[[アニソン歌手]]、[[声優]]である。[[埼玉県]][[さいたま市]][[浦和区]]出身。
+
+アニソン声優DJイベントLOVE.EXE★を主催し、多数の動員を誇る。
+
+趣味：アニソンDJ／デザイン／ヲタ芸
+特技：ゆるゆる散歩、口（くち）エレクトロニカ
+
+好きなアーティスト
+：桃井はるこ／新谷良子／戸川純／大槻ケンヂ／ハルメンズ／ナゴムレコード
+
+== 主な作品 ==
+* [[らぶデス555!]]主題歌「イツドコ！？らぶ☆リンクdeゴーゴーゴー！！！」
+* [[教えて資格試験]]　（ナナミ役）
+* [[ナナミの教えてEnglish DS]]主題歌「オシエテスキシテ♥773」
+
+== 外部リンク ==
+* [http://twitter.com/nagomuEXE twitter]
+* [http://ameblo.jp/nagomu55/ ブログ]
+* [http://chicadoll.com/artistspage/066nagomu.html ちかドル]
+
+{{Singer-stub}}
+{{Voice-stub}}
+{{デフォルトソート:しらいし なこむ}}
+
+[[Category:日本の女性歌手]]
+[[Category:日本の女性声優]]
+[[Category:さいたま市出身の人物]]
+[[Category:存命人物]]

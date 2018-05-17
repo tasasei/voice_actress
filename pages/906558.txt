@@ -1,0 +1,69 @@
+{{複数の問題 |存命人物の出典明記=2014年7月8日 (火) 03:20 (UTC) |一次資料=2017年4月 |特筆性=2014年7月8日 (火) 03:20 (UTC) |分野=人物}}
+{{声優
+| 名前 = 川井 真紀
+| ふりがな = かわい まき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = <!-- 「本名」と確認のできる、信頼できる情報源からの出典明記をお願いいたします。 -->
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 = 1971
+| 生月 = 3
+| 生日 = 11
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|O型]]
+| 身長 = 158 cm
+| 職業 = [[声優]]、[[ナレーター]]
+| 事務所 = [[プロダクション東京ドラマハウス]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''川井 真紀'''（かわい まき、[[1971年]][[3月11日]]<ref name="t2000048987">{{Cite web |url=http://www.talent-databank.co.jp/search/t2000048987 |title=川井真紀 |publisher=タレントデータバンク |accessdate=2017-04-16}}</ref> - ）は、[[日本]]の[[声優]]、[[ナレーター]]<ref name="W05-0181">{{Cite web |url=http://www.vip-times.co.jp/?talent_id=W05-0181 |title=川井真紀 |work=日本タレント名鑑 |publisher=VIPタイムズ社 |accessdate=2017-04-16}}</ref>。[[東京都]]出身<ref name="W05-0181"/><ref name="dramaprof">{{Cite web |url=http://www.drama-house.co.jp/talent/women/kawai_maki.html |title=川井真紀 |publisher=プロダクション東京ドラマハウス |accessdate=2017-04-16}}</ref>。身長158cm、[[ABO式血液型|血液型]]は[[ABO式血液型|O型]]<ref name="t2000048987" /><ref name="W05-0181"/><ref name="dramaprof" />。[[プロダクション東京ドラマハウス]]所属<ref name="dramaprof" />。
+
+== 出演作品 ==
+=== 映画 ===
+* [[un think]]（エクスコミュニケーター、カゲの声）
+
+=== VP ===
+* [[営業マンのコンプライアンス]]
+
+=== ボイスオーバー ===
+* [[ディスカバリー 野生の王者たち]]
+
+=== ナレーション ===
+* [[J:COM]] TV無料視聴デー
+* [[NEC]] プリモード2
+* [[ナチュラルビート]]社内ビデオ
+* [[ユニセフ募金]]
+
+=== ラジオ ===
+* [[G-WIND LIVE HOT SIDE]]
+* [[東京スター銀行(CM)]]
+
+=== TV ===
+* [[QVCジャパン]]
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.drama-house.co.jp/talent/women/kawai_maki.html プロダクション東京ドラマハウスによる公式プロフィール]
+* [http://www.vip-times.co.jp/?talent_id=W05-0181 川井真紀 - 日本タレント名鑑]
+* [http://www.talent-databank.co.jp/search/t2000048987 川井真紀 - タレントデータバンク]
+
+{{Voice-substub}}
+{{デフォルトソート:かわい まき}}
+[[Category:日本の女性声優]]
+[[Category:東京都出身の人物]]
+[[Category:1971年生]]
+[[Category:存命人物]]

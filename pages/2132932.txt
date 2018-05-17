@@ -1,0 +1,77 @@
+{{声優
+| 名前 = 松平 美波穂
+| ふりがな = まつだいら みなほ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 9
+| 生日 = 21
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 身長 = 145[[センチメートル|cm]]
+| 職業 = [[声優]]
+| 事務所 = [[futurum LLC]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''松平 美波穂'''（まつだいら みなほ、[[9月21日]] -  ）は、[[日本]]の[[声優|女性声優]]。[[東京都]]出身。[[エーエス企画]]、[[トリアス]]を経て2015年6月1日より[[フリーランス|フリー]]、その後[[futurum LLC]]所属している。
+
+== 出演作品 ==
+=== テレビアニメ ===
+* [[ガラスの艦隊]]（民衆）
+* [[グリザイアの楽園]]（古森めぐみ）
+
+=== ゲーム ===
+* [[fortissimo//Akkord:Bsusvier]]（木乃宮 このは）
+* Kadenz fermata//Akkord：fortissimo（姫白九理<ref>{{Cite web|publisher=Kadenz fermata//Akkord：fortissimo|url=http://project-kadenz.jp/chara.html|title=CHARA|accessdate=2014-11-19}}</ref>）
+* Que〜エンシェントリーフの妖精〜（まゆ）
+* アイドル魔法少女ちるちる☆みちる（風見 雄二）<ref>{{Cite web|date=|url=http://www.famitsu.com/news/201503/10073599.html#page02|title=『グリザイア』シリーズのスピンオフ作品『グリザイアの果実スピンアウト！？ アイドル魔法少女ちるちる☆みちる』がPS Vitaで発売決定！（ファミ通.com）|publisher=|accessdate=2015-06-10}}</ref>
+* [[グリザイアの果実|グリザイアの果実 -LE FRUIT DE LA GRISAIA-]]（古森 めぐみ、ニャンメル）
+* [[けい☆てん]]（'''藤村 優花'''<ref>{{Cite web|date=|url=http://dengekionline.com/elem/000/000/289/289515/|title=ハトでもわかる激萌え麻雀AVG『けいてん』 - 電撃オンライン|publisher=|accessdate=2014-02-14}}</ref>）
+
+=== 吹き替え ===
+* ホスピタル・オブ・ザ・デッド〜閉ざされた病院〜（ミア）
+* 女性鬼（グウェン）
+* ケイティーのロストバージン日記〜18歳のコンプレックス〜（ジョニー・女）
+* 今宵天使が舞い降りる（ティナ）<ref>{{Cite web|date=|url=http://koyoi-angel.com/|title=今宵天使が舞い降りる 公式サイト|publisher=|accessdate=2015-06-10}}</ref>
+
+=== ラジオ ===
+* [[情報アキハバラエティ はばラヂ]]（[[BBstation]] 4代目アシスタント、[[2012年]][[4月5日]] - [[2014年]][[1月30日]]）
+
+=== CM ===
+* [[キッコーマン]]「うちのごはん 切身ちゃん」
+
+=== 舞台 ===
+* デザート ver2
+* ブッロサム・セレナーデ〜よしのと魔王〜
+* 有能な吊革蛮族
+* ゆめのほらあな
+
+== 出典 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.ftrm.co.jp/voice/?matsudairaminaho futurum LLC 声優プロフィール - 松平 美波穂]
+* [https://web.archive.org/web/20130722185440/http://www.trias-pro.com/female/matsudaira_minaho.html トリアス所属時のプロフィール]
+* {{Twitter|minaminaminaho|松平美波穂}} {{ja icon}} （2010年7月1日 5:22 - ） '''※ [[協定世界時|UTC]]表記。'''
+
+{{Voice-stub}}
+
+{{DEFAULTSORT:まつたいら みなほ}}
+[[Category:日本の女性声優]]
+[[Category:東京都出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

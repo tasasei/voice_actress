@@ -1,0 +1,61 @@
+{{ActorActress
+| 名前 = 葛西美香
+| ふりがな = かさい みか
+| 本名 = 
+| 出生地 = {{Flagicon|Japan}}[[日本]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 
+| 生日 = 
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 身長 = 153cm
+| 職業 = [[ナレーター]]、[[声優]]
+| 事務所 = [[甲南女子大学]]
+| 配偶者 = 
+| 著名な家族 = 
+| 活動期間 = [[1990年代]] - 
+}}
+'''葛西 美香'''（かさい みか）は、[[日本]]の[[女性]][[ナレーター]]、[[声優]]。[[身長]]153cm<ref name="所属"/>。
+
+[[甲南女子大学]]文学部<ref name="所属"/>卒業。以前は、[[大阪テレビタレントビューロー]]（TTB）<ref name="所属"/>に所属していた。
+
+== 出演作品 ==
+※'''太字'''はメインキャラクター。
+=== ゲーム ===
+'''1999年'''
+* [[サムライスピリッツ|サムライスピリッツ新章 〜剣客異聞録 甦りし蒼紅の刃〜]]（'''乱鳳'''<ref name="乱"/>、'''眠兎'''<ref name="眠"/>）※PS
+'''2007年'''
+* サムライスピリッツ新章 〜剣客異聞録 甦りし蒼紅の刃〜（'''乱鳳'''、'''眠兎'''）※[[ゲームアーカイブス]]配信
+
+=== 出演番組・イベント ===
+* 歌謡曲これ！イチバン（[[大阪放送|OBC]]）<ref name="所属"/>
+* MONOモノ倶楽部（[[讀賣テレビ放送|YTV]]）<ref name="所属"/>
+* [[田渕岩夫の得ダネ!てれび]]（[[京都放送|KBS]]）<ref name="所属"/>
+* BEHAPPY78.9（[[エフエムキタ|FMキタ]]）パーソナリティ<ref name="所属"/>
+* besthit kyoto（KBS）リポーター<ref name="所属"/>
+* リクジャム（U-SEN）<ref name="所属"/>
+
+=== 出演CM・VPナレーション ===
+* [[ジャパンフローラ2000]]イベント司会<ref name="所属"/>
+* キャラクターショー司会<ref name="所属"/>
+* [[新阪急ホテル|京都新阪急ホテル]]<ref name="所属"/>
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="所属">{{Cite web |url=http://web.archive.org/web/20030813194548/http://www.ttb.co.jp/list/woman/kasai.html |title=大阪テレビタレントビューロー所属時によるプロフィール |accessdate=2014-10-27}}</ref>
+<ref name="乱">{{Cite web |url=http://samuraianiv.snkplaymore.co.jp/character/ranpo/index.php |title=乱鳳：SAMURAI SPIRITS OFFICIAL WEBSITE |accessdate=2014-10-27}}</ref>
+<ref name="眠">{{Cite web |url=http://samuraianiv.snkplaymore.co.jp/character/minto/index.php |title=眠兎：SAMURAI SPIRITS OFFICIAL WEBSITE |accessdate=2014-10-27}}</ref>
+}}
+
+== 外部リンク ==
+* [http://web.archive.org/web/20030813194548/http://www.ttb.co.jp/list/woman/kasai.html 大阪テレビタレントビューロー所属時によるプロフィール]（2003年8月13日時点のアーカイブ）
+
+{{DEFAULTSORT:かさい みか}}
+[[Category:日本のナレーター]]
+[[Category:日本の女性声優]]
+[[Category:甲南女子大学出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

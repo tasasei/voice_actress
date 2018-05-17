@@ -1,0 +1,68 @@
+{{声優
+| 名前 = 松川 奈央
+| ふりがな = まつかわ なお
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[大阪府]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 7
+| 生日 = 5
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = 
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 =  
+| デビュー作 = 
+| 活動 = 
+}}
+'''松川 奈央'''（まつかわ なお、[[7月5日]] - ）は、[[日本]]の[[女性]][[声優]]。以前は[[ディーカラー]]に所属していた。[[アミューズメントメディア総合学院]]出身<ref name="ブリ"/>。
+
+== 出演作品 ==
+※'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+'''2011年'''
+* [[輪るピングドラム]]（ホステス）<ref name="twitter"/>
+'''2012年'''
+* [[戦国コレクション]]（サッカー部員）<ref name="twitter"/>
+
+=== ゲーム ===
+'''アプリ'''
+* オトギア（ヘンゼル<ref name="twitter"/><ref name="ヘンゼル"/>）
+'''2008年'''
+* [[サムライスピリッツ閃]]（'''アンジェリカ'''<ref name="twitter"/><ref name="松川"/><ref name="アン"/>）※アーケード
+'''2009年'''
+* サムライスピリッツ閃（'''アンジェリカ'''）※Xbox360
+'''2011年'''
+* サムライスピリッツ閃（'''アンジェリカ'''）※ネットワーク型業務用ビデオゲーム筐体[[NESiCAxLive]]にてダウンロード配信
+
+=== ラジオ番組 ===
+* [[アニたまどっとコム]]ブリッジナビゲーター（2006年5月）<ref name="ブリ"/>
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="ブリ">{{Cite web |url=http://www.anitama.com/bridge/bridge2006_5.html |title=アニたまどっとコム |accessdate=2014-10-27}}</ref>
+<ref name="twitter">{{Cite web |url=https://twitter.com/0705nao |title=松川奈央@オトギア ヘンゼル奮闘中 (@0705nao) | Twitter |accessdate=2014-10-27}}</ref>
+<ref name="ヘンゼル">{{Cite web |url=http://dengekionline.com/elem/000/000/851/851510/ |title=電撃 - 【レビュー＆攻略】『OTOGEAR～オトギア～』 |accessdate=2014-10-27}}</ref>
+<ref name="松川">{{Cite web |url=http://ja.twtrland.com/profile/0705nao |title=松川奈央 | twtrland |accessdate=2014-10-27}}</ref>
+<ref name="アン">{{Cite web |url=http://www1.interq.or.jp/~xate/maniacs/chara/angelica.html |title=Perfect mania |accessdate=2014-10-27}}</ref>
+}}
+
+== 外部リンク ==
+* [https://twitter.com/0705nao 松川奈央@オトギア ヘンゼル奮闘中 (@0705nao) | Twitter]
+
+{{DEFAULTSORT:まつかわ なお}}
+[[Category:日本の女性声優]]
+[[Category:AMGの卒業生]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

@@ -1,0 +1,82 @@
+{{声優
+| 名前 = 羅 弘美
+| ふりがな = ら ひろみ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = 
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 =
+| 生月 = 3
+| 生日 = 29
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]
+| 身長 = 163 [[センチメートル|cm]]
+| 職業 = [[声優]]
+| 事務所 = [[EARLY WING]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''羅 弘美'''（ら ひろみ、[[3月29日]] - ）は、[[日本]]の[[女性]][[声優]]。[[東京都]]出身。[[EARLY WING]]所属。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+* [[ひなこのーと]]（2017年、劇団員）<!-- 2017-04-14 -->
+
+=== ゲーム ===
+* [[アルカナ・ファミリア -La storia della Arcana Famiglia-]]
+* [[ガールフレンド（仮）]]（'''五代律'''<ref>[http://app.famitsu.com/20130508_161371/ 【GF(仮)通信32】長い黒髪が魅力的な美少女剣士 五代律ちゃん（CV：羅弘美） - ファミ通App]2013年8月24日閲覧</ref>）
+* [[Caladrius]]（ベルゼブブ<ref>{{Cite web|publisher=Caladrius|url=http://caladrius.mossjp.co.jp/xbox/boss6.html|title=CHARACTER|accessdate=2014-05-26}}</ref>）
+* Caladrius BLAZE（ベルゼブブ<ref>{{Cite web|publisher=Caladrius BLAZE|url=http://caladrius.mossjp.co.jp/ps3/b06.html|title=キャラクター|accessdate=2014-05-26}}</ref>）
+* [[閃乱カグラ SHINOVI VERSUS -少女達の証明-]]（旋風、汎用敵キャラクター）
+* TOKYO ヤマノテ BOYS（ハルナ）
+* [[魔界戦記ディスガイア4]]（呪術師）
+* [[魔女と百騎兵]]（グルカ）
+* [[ラグナロク 〜光と闇の皇女〜]]（'''主人公'''）
+* [[モンスター娘のいる日常オンライン]]（シー）
+* ワールドエンド・シンドローム（竜崎涼子<ref>{{Cite web|publisher=|work=ファミ通.com|url=https://www.famitsu.com/news/201801/26150565.html|title=『ワールドエンド・シンドローム』の発売日が4月26日に決定|accessdate=2018-01-26}}</ref>）
+
+=== ドラマCD ===
+* 漂白戦記 SUASHI
+
+== ディスコグラフィ ==
+{| class="wikitable" style="font-size:small" 
+! style="width:4.5em"|発売日 !! 商品名 !! 歌 !! 楽曲 !! 備考
+|-
+! colspan="5" | 2013年
+|-
+| 4月17日
+| いつも口ずさんでた歌を合唱でカヴァーしてみた<ref>{{Cite news|url=http://www.universal-music.co.jp/favorite-song/biography/|title= フェイバリットソング合唱団 - UNIVERSAL MUSIC JAPAN|accessdate=2016-06-10}}</ref>
+| {{vau|フェイバリットソング合唱団}}
+| 「フェイバリットソング合唱団のテーマ」<br/>「CMソングメドレー」<br/>「[[あなたに (MONGOL800の曲)|あなたに]]」<br/>「[[キセキ (GReeeeNの曲)|キセキ]]」<br/>「[[情熱の薔薇]]」<br/>「[[空も飛べるはず]]」<br/>「[[LOVE GOES ON…|未来予想図II]]」<br/>「[[Diamonds (プリンセス プリンセスの曲)|M]]」<br/>「フェイバリットソング合唱団エンディング」
+|
+|-
+|}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Vau|h=3}}
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.earlywing.com/actors/ra_hiromi.html EARLY WING]
+
+{{EARLY WING}}
+
+{{Voice-stub}}
+
+{{DEFAULTSORT:ら ひろみ}}
+[[Category:日本の女性声優]]
+[[Category:EARLY WING]]
+[[Category:東京都出身の人物]]

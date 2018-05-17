@@ -1,0 +1,59 @@
+{{声優
+| 名前 = 本多 未季
+| ふりがな = ほんだ みき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 配偶者 = 
+| 出生地 = {{JPN}}
+| 死没地 = 
+| 血液型 = 
+| 生年 = 
+| 生月 = 10
+| 生日 = 18
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = [[Production GIW]]
+| 活動期間 =  
+| デビュー作 =
+}}
+'''本多 未季'''（ほんだ みき、[[10月18日]]<ref>{{Cite web|date=|url=http://www.studiogiw.com/pro/|title=Production GIW（プロダクションギウ）|publisher=|accessdate=2012-07-08}}</ref> - ）は、[[日本]]の[[女性]][[声優]]である。主に[[アダルトゲーム]]に声をあてている。[[2010年]][[1月]]に'''本多しの舞'''から改名<ref>{{Cite web|date=|url=http://homepage2.nifty.com/syaraku1018/saittop.htm|title=まぐろ屋本舗|publisher=|accessdate=2012-07-08}}</ref>。他には'''おおたけしのぶ'''名義も使用していた<ref>『Pure×Cure』（吉野みずき、吉野ほむら役）に出演していると[http://homepage2.nifty.com/syaraku1018/shougyou.htm HP]にあるが、チュアブルソフトによれば[http://www.chuable.net/kako/syoukaib.html 吉野みずき役はおおたけしのぶが演じている]とされており、「おおたけしのぶ」名義も使用していたと推定される。</ref>。
+
+== 出演作品 ==
+{{更新|date=2012年10月|section=1}}
+=== アダルトゲーム ===
+==== 2004年 ====
+* [[すくみずポリス]]（天神橋　蝶子、山本 音子）<ref name=shougyou>{{Cite web|date=|url=http://homepage2.nifty.com/syaraku1018/shougyou.htm|title=【商業/その他】|publisher=|accessdate=2012-07-08}}</ref>
+* [[Like Life]]（女性係員、女性店員、少女）<ref name=shougyou/>
+* [[はめ☆ドリ]]（'''佐倉 唯'''）<ref name=shougyou/>
+
+==== 2005年 ====
+* [[Pure×Cure]]（'''吉野 みずき'''、吉野 ほむら）<ref name=shougyou/>
+
+==== 2008年 ====
+* [[HimeのちHoney]]（セシリアーナ）
+
+=== コンシューマゲーム ===
+* [[Pure×Cure|Pure×Cure Re:covery]]（'''吉野 みずき'''、吉野 ほむら）<ref name=shougyou/>
+
+=== フリーゲーム ===
+* [[ヴァンガードプリンセス]]（御殿谷サキ、ナタリア・グリンカ）
+
+== 出典 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://maguroyahonpo1018.la.coocan.jp/ まぐろ屋本舗] - 本人サイト
+
+{{Voice-stub}}
+
+{{DEFAULTSORT:ほんた みき}}
+[[Category:日本の女性声優]]
+[[Category:アダルトゲーム声優]]
+[[Category:存命人物]]
+[[Category:生年未記載]]

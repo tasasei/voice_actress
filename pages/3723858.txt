@@ -1,0 +1,84 @@
+{{Otheruses|声優、女優|ファッションモデル|武田真理子|漫画家|竹田真理子}}
+{{声優
+|芸名 = たけだ まりこ
+|本名 = 武田 真理子<ref>{{Cite web|url=http://moca-news.net/article/20141024/2014102401360a_/01/|title=ソニー・ミュージックアーティスツ主催による“アニメ好き”のためのオーディション「アニストテレス」。第3回合格者は武田真理子・古畑恵介の2名に決定|publisher=moca|accessdate=2018-01-01|date=2014-10-24}}</ref>
+|愛称 = まりすけ
+|性別 = [[女性]]
+|別名 = 
+|生年 = 2001
+|生月 = 8
+|生日 = 16
+|没年 = 
+|没月 = 
+|没日 = 
+|血液型 = 
+|身長 = 148[[センチメートル|cm]]
+|職業 = [[声優]]
+|事務所 = [[ソニー・ミュージックアーティスツ]]
+|公式サイト = 
+|活動期間 = [[2017年]] - 
+|デビュー作 = [[拡張少女系トライナリー]]
+|備考 =
+}}
+'''たけだ まりこ'''（本名：'''武田 真理子'''（読み同じ）、[[2001年]][[8月16日]] - ）は、[[日本]]の[[女性]][[声優]]、[[俳優|女優]]。
+
+[[ソニー・ミュージックアーティスツ]]所属。身長148cm。
+
+== 経歴 ==
+[[2014年]][[10月18日]]、[[ソニー・ミュージックアーティスツ]]主催による、“アニメ好き”に特化した声優・アーティストの公開オーディション「アニストテレス」第3回にてグランプリを獲得<ref>{{Cite web|url=http://www.sma.co.jp/artist/profile/index/388|title=たけだまりこ|publisher=ソニー・ミュージックアーティスツ|accessdate=2018-01-01}}</ref>。（同オーディションの第1回受賞者は[[水瀬いのり]]<ref>{{Cite web|url=https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A|title=水瀬いのり - Wikipedia|accessdate=2018-01-01}}{{出典無効|date=2018年1月5日|title=Wikipediaは出典にならない。かつ元記事でもこの記述が無出典。}}</ref>）。
+
+[[2016年]][[9月7日]]、公式ツイッターアカウントが開設される<ref>{{Cite web|url=https://twitter.com/takeda_mariko/status/773717704582701056|title=ツイート内容|publisher=たけだまりこ‏(Twitter)|accessdate=2018-01-01|date=2016-09-07}}</ref>。その翌日、スマートフォンアプリ「拡張少女系トライナリー」の主人公・逢瀬つばめ役で声優デビューが決定したことが発表された<ref>{{Cite web|url=https://twitter.com/takeda_mariko/status/773852705408229377|title=ツイート内容|publisher=たけだまりこ‏(Twitter)|accessdate=2018-01-01|date=2016-09-08}}</ref>。舞台やラジオ番組<ref>{{Cite web|url=https://twitter.com/takeda_mariko/status/947756308102504449|title=ツイート内容|publisher=たけだまりこ‏(Twitter)|accessdate=2018-01-01|date=2018-01-01}}</ref>にも出演し、活動の幅を広げている。
+
+=== 受賞歴 ===
+「アニストテレス」第3回 - グランプリ
+　
+== 出演 ==
+=== アニメ ===
+'''2017年'''
+* [[拡張少女系トライナリー]]（'''逢瀬つばめ'''）
+
+===舞台===
+'''2018年'''
+*ゲートシティの恋（ノエル - Bチーム）
+
+===ラジオ===
+*Highschool a GOGO!!（TBSラジオ ‏2017年11月 ~ ）<ref>{{Cite web|url=https://www.tbsradio.jp/211353|title=【放送後記　12月25日放送分】学校訪問は山脇学園▼天文学者になるには〜渡部潤一さん▼石井大裕×春名風花×たけだまりこ（TBSラジオ 21時〜）|publisher=TBSラジオ|accessdate=2018-01-01|date=2017-12-25}}</ref>。
+
+
+==ディスコグラフィ==
+{| class="wikitable"
+! 楽曲名 !! アーティスト名 !! 発売日
+|-
+! colspan="3" | 2017年
+|-
+|-
+| テクトラ! - Yumemille feuille guruRemiX. || rowspan="2"|{{vau|TRINARY}} || rowspan="2"|5月9日
+|-
+| The Truly Lovely Show !!
+|-
+| Metroporitan medicine 〜宇宙の法則でTOKYO〜 || 逢瀬つばめ（'''たけだまりこ'''） || 11月22日
+|-
+! colspan="3" | 2018年
+|-
+| テクトラ!〜ハッピーラッキー夢みるふぃーゆ・おりじなる(DemoMix)〜 || {{vau|TRINARY}} || 1月10日
+|-
+| Commiato 〜光は闇へと消え、そして訪れる光〜(from.wishphobia) (feat. TRINARY) || FreyMENOW feat. {{vau|TRINARY}} || 1月10日
+|}
+
+== 脚注 ==
+{{vau}}
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* [http://axl-one.com/talent/minase.html ソニー・ミュージックアーティスツによる公式プロフィール]
+* {{Twitter|takeda_mariko|たけだまりこ}}　
+
+{{ソニー・ミュージックアーティスツ}}
+{{voice-stub}}
+
+{{デフォルトソート:たけた まりこ}}
+[[Category:日本の女性声優]]
+[[Category:ソニー・ミュージックアーティスツ]]
+[[Category:2001年生]]
+[[Category:存命人物]]

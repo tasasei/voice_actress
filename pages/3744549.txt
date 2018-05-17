@@ -1,0 +1,93 @@
+{{声優
+| 名前 = 菅沼 千紗
+| ふりがな = すがぬま ちさ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[大阪府]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 
+| 生日 = 
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 身長 = 
+| 職業 = [[声優]]
+| 事務所 = [[賢プロダクション]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''菅沼 千紗'''（すがぬま ちさ、[[7月29日]]<ref name="profu">{{Cite web|url = http://www.kenproduction.co.jp/talent/member.php?mem=w120|title =菅沼 千紗  公式プロフィール|accessdate = 2018-02-14}}</ref> - ）は、[[大阪府]]出身の[[女性]][[声優]]。[[賢プロダクション]]所属<ref name="profu" />。
+
+== 経歴 ==
+* [[アミューズメントメディア総合学院]]大阪校 声優タレント学科の卒業生で、2013年度、卒業式にてAMGエンタテインメント賞を受賞した<ref name="AMG">{{Cite web|url =http://www.amgakuin.co.jp/contents/?p=20446|title = 平成25年度卒業式開催レポート！|accessdate = 2018-02-14}}</ref>。
+
+== 人物 ==
+* 特技・趣味は[[クラシックバレエ]]<ref name="profu" />。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+| 2014年 |
+* [[宇宙兄弟]]
+* [[幕末Rock]]
+| 2017年 |
+* [[ベルセルク (漫画)|ベルセルク]]（ハンナ、村人）
+* [[僕の彼女がマジメ過ぎるしょびっちな件]]（女子生徒）
+| 2018年 |
+* [[僕のヒーローアカデミア]]（プッシーキャッツ<ref>{{Cite web|url =https://mantan-web.jp/article/20180128dog00m200021000c.html|title = 僕のヒーローアカデミア：プッシーキャッツの声優に菅沼千紗ら　テレビアニメ第3期に登場|accessdate = 2018-02-14}}</ref>）<!--- 第3期 --->
+}}
+
+=== アニメ映画 ===
+{{dl2
+| 2015年 |
+* [[映画 Go!プリンセスプリキュア Go!Go!!豪華3本立て!!!]]（妖精、住民たち）
+}}
+
+=== ゲーム ===
+{{dl2
+| 2017年 |
+* マヨナカ・ガラン（'''赤い少女'''<ref>{{Cite web|url=http://www.cavyhouse.net/garan/charactor.html|title=Character|publisher=マヨナカ・ガラン 公式サイト|accessdate=2018-02-14}}</ref>）
+| 2018年 |
+* [[アイドルマスター シャイニーカラーズ]]（'''田中摩美々'''<ref>{{Cite web|url=https://idolmaster-shinycolors.bxd.co.jp/idol/unit2/mamimi.html|title=田中 摩美々|publisher=アイドルマスター シャイニーカラーズ 公式サイト|accessdate=2018-02-14}}</ref>）
+}}
+
+=== 吹替え ===
+* [[THE ICEMAN 氷の処刑人]]（ベッツィ）
+* TRANSPARENT（女子生徒）
+
+=== ラジオ ===
+* [[岩田光央・鈴村健一 スウィートイグニッション]] ※アシスタント<ref name="AMG" />
+
+=== その他 ===
+* AMGプロジェクト大阪公演Vol.4【[[不思議の国のアリス]]】（'''アリス'''<ref>{{Cite web|url =http://www.amgakuin.co.jp/contents/voice/blog/?p=2260|title =【大阪校】プロジェクト公演主役インタビュー|accessdate = 2018-02-14}}</ref><ref name="profu" />）
+* 八月のオリオン（海、ダンサー）<ref name="profu" />
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.kenproduction.co.jp/talent/member.php?mem=w120 事務所による公式プロフィール]
+* {{Twitter|s_schisa|菅沼千紗}}
+* [https://ameblo.jp/theatretrap/entry-11923106470.html 菅沼千紗の生態｜Theatre.TRAP 罠日記]
+
+{{賢プロダクション}}
+{{Voice-stub}}
+
+{{DEFAULTSORT:すかぬま ちさ}}
+[[Category:日本の女性声優]]
+[[Category:賢プロダクション]]
+[[Category:AMGの卒業生]]
+[[Category:大阪府出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

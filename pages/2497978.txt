@@ -1,0 +1,74 @@
+{{声優| 
+| 名前 = 山本 華
+| ふりがな = やまもと はな
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 配偶者 = 
+| 出生地 = {{JPN}}
+| 血液型 = 
+| 生年 = 
+| 生月 = 
+| 生日 = 
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 =  
+| 活動期間 = 2005年 -
+| デビュー作 = 
+}} 
+
+'''山本 華'''（やまもと はな）は、[[日本]]の[[女性]][[声優]]。主に[[アダルトゲーム]]に声をあてている。
+
+== 出演作品 ==
+※'''太字'''は主役・メインキャラクター。
+=== アダルゲーム ===
+'''2005年'''
+* [[着せかえフェティッシュ!]]（吉祥芹）<ref>{{Cite web|date=|url=http://www.web-giga.com/exa/kisekae/index.html#char|title=着せかえフェティッシュ!|publisher=|accessdate=2012-01-10}}</ref>
+* [[School Days]]（'''[[デイズシリーズの登場人物#清浦刹那|清浦刹那]]'''）<ref>{{Cite web|date=|url=http://schooldays.0verflow.com/html/chara/c_setsu.html|title=School Days|publisher=|accessdate=2012-01-10}}</ref>
+
+'''2006年'''
+* [[Summer Days]]（'''清浦刹那'''）<ref>{{Cite web|date=|url=http://schooldays.0verflow.com/html/sd_chara/c_setsu.html|title=Summer Days|publisher=|accessdate=2012-01-10}}</ref>
+* サマーデイズ リニューアルパッケージ（'''清浦刹那'''）
+
+'''2009年'''
+* [[ばにしゅ! 〜おっぱいの消えた王国〜]]（'''ネウス・ポグロム'''）
+
+'''2010年'''
+* [[Cross Days]]（清浦刹那）<ref>{{Cite web|date=|url=http://crossdays.0verflow.com/charalist/chara_setsuna.html|title=Cross Days|publisher=|accessdate=2012-01-10}}</ref>
+* [[School Days HQ]]（'''清浦刹那'''）<ref>{{Cite web|date=|url=http://schooldayshq.0verflow.com/chara_setsuna.html|title=School Days HQ|publisher=|accessdate=2012-01-10}}</ref>
+
+'''2011年'''
+* [[天使の羽根を踏まないでっ]]（ヴァルヴァーラ・ビクトロブナ・レーニナ）<ref>{{Cite web|date=|url=http://mephisto-game.com/angel/character/p_sun_01.html|title=天使の羽根を踏まないでっ|publisher=|accessdate=2012-01-10}}</ref>
+
+'''2012年'''
+* [[SHINY DAYS]]（'''清浦刹那'''）
+* [[マテリアルブレイブ]]（'''上音真白'''）<ref>{{Cite web|date=|url=http://products.web-giga.com/materialbrave/character03.html|title=CHARACTER|publisher=|accessdate=2012-02-16}}</ref>
+'''2014年'''
+* [[野球拳 Strip Battle Days]]（清浦刹那）
+
+== 音楽CD ==
+{|class="wikitable" style="font-size:small"
+|-
+! style="width:4.5em"|発売日 !! タイトル !! 名義 !! 楽曲 !! タイアップ
+|-
+! colspan="5" | 2010年
+|-
+| 10月8日 || [[School Days VOCAL COMPLETE ALBUM]]
+| '''清浦刹那'''
+| 「Still I Love You〜黒真珠に願いを〜」
+| PCゲーム『[[School Days]]』キャラクターソング
+|}
+== 出典 ==
+<span style="color:red">（18歳未満閲覧禁止のサイトを含みます）</span>
+{{脚注ヘルプ}}
+{{Reflist}}
+
+{{Voice-substub}}
+{{DEFAULTSORT:やまもと はな}}
+
+[[Category:日本の女性声優]]
+[[Category:アダルトゲーム声優]]
+[[Category:存命人物]]

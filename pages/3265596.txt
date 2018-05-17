@@ -1,0 +1,71 @@
+{{特筆性|人物|date=2015年8月}}
+{{声優
+| 名前 = 春海 ほのか
+| ふりがな = はるみ ほのか
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = ほのたん
+| 性別 = 女性
+| 出生地 = {{JPN}}・[[東京都]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 3
+| 生日 = 25
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = 
+| 職業 = 
+| 所属 = 
+| 公式サイト = 
+| 活動 = {{声優/活動
+  | 活動名義 = 
+  | 活動期間 = 2014年 - 2016年
+  | デビュー作 = [[MeltyMoment -メルティモーメント-]]（モブ）
+  | ジャンル = 
+  | 職種 = 
+}}
+}}
+'''春海 ほのか'''（はるみ ほのか、[[3月25日]]<ref>{{Cite web|date=|url=https://twitter.com/hrmhnk/status/580596015620849664?lang=ja|title=春海ほのか 2015年3月25日ツイート|publisher=|accessdate=2015-11-17}}</ref> - ）は、日本の元[[女性]][[声優]]。[[東京都]]出身<ref>{{Cite web|date=|url=https://twitter.com/hrmhnk/status/525622672152350720?lang=ja|title=春海ほのか 2014年10月24日ツイート|publisher=|accessdate=2015-11-17}}</ref>。主に[[アダルトゲーム]]に声をあてていた。
+
+== 人物 ==
+芸名の「春海ほのか」は、マネージャーと相談して濁点のない名前で一番しっくりくるものを選んでつけたもの<ref>{{Cite web|date=|url=https://twitter.com/hrmhnk/status/525622349199331328?lang=ja|title=春海ほのか 2014年10月24日ツイート|publisher=|accessdate=2015-11-17}}</ref>。
+
+2016年12月31日をもって声優を引退した<ref>{{Cite web|date=|url=https://twitter.com/hrmhnk/status/812621613535358976|title=春海ほのか 2016年12月24日ツイート|publisher=|accessdate=2017-01-02}}</ref>。
+
+== 出演作品 ==
+=== PCゲーム ===
+* [[8人のM娘]]（'''バージニア・ロードアイランド'''）<ref>{{Cite web|work=8人のM娘=キャラクター|title=8人のM娘 公式サイト|url=http://www.atelier-g-h.com/agh004.html#character|accessdate=2015-08-17}}</ref>
+* [[恋DOKi]]（荒田 真央）<ref>{{Cite web|work=恋DOKi=キャラクター|title=恋DOKi　公式サイト|url=http://etoiles-soft.com/products/koidoki/char.php|accessdate=2015-08-17}}</ref>
+* [[恋愛リベンジ]]（'''柊 ほのか'''）<ref>{{Cite web|work=恋愛リベンジ=キャラクター|title=恋愛リベンジ　公式サイト|url=http://dear-soft.jp/char_honoka.html|accessdate=2015-08-17}}</ref>
+* [[ばれっと☆すたいる -Loyalty of valet-]]（'''佐伯 優海'''）<ref>{{Cite web|work=ばれっと☆すたいる -Loyalty of valet-=キャラクター|title=ばれっと☆すたいる -Loyalty of valet-　公式サイト|url=http://croixsoft.com/Character_02.html|accessdate=2015-08-17}}</ref>
+* [[ナデレボ!]]（綺堂 しろな）<ref>{{Cite web|work=ナデレボ!=キャラクター|title=ナデレボ!　公式サイト|url=http://j-studio.net/character.html#sirona|accessdate=2015-08-17}}</ref>
+
+=== ソーシャルゲーム ===
+* 大冒険！ゆけゆけ☆おさわりアイランド（虎牙 ことら）
+* 大征服！ゆけゆけ悪の秘密結社！（秋田 ゆう、他）
+
+=== 歌 ===
+* just for You（『恋愛リベンジ』柊ほのかエンディングテーマ）
+* 100%青春ラブ（『大冒険！ゆけゆけ☆おさわりアイランド』テーマソング）
+** 歌：小倉まひろ（[[雪村とあ]]）、兎峰はねる（[[中家志穂]]）、蛇姫あみ（[[榛名れん]]）、虎牙ことら（晴海ほのか<ref group="注">[https://twitter.com/hrmhnk/status/501273434672742402?lang=ja 春海ほのかの誤植]</ref>）、龍川たつみ（[[篠原ゆみ]]）
+
+== 脚注 ==
+<span style="color:red">（18歳未満閲覧禁止のサイトを含みます）</span>
+{{脚注ヘルプ}}
+; 注釈
+{{Reflist|group=注}}
+; 出典
+{{Reflist}}
+
+==外部リンク==
+* {{Twitter|hrmhnk|春海ほのか}}
+
+{{DEFAULTSORT:はるみ ほのか}}
+[[Category:日本の女性声優]]
+[[Category:アダルトゲーム声優]]
+[[Category:東京都出身の人物]]
+[[Category:存命人物]]
+{{Voice-stub}}

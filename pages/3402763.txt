@@ -1,0 +1,90 @@
+{{声優
+| 名前 = 夏野菜緒
+| ふりがな = なつの なお
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[長崎県]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 7
+| 生日 = 11
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|B型]]
+| 身長 = 150cm
+| 職業 = 
+| 事務所 = [[アズリードカンパニー]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 =
+| デビュー作 =
+| 活動 = 
+}}
+
+'''夏野 菜緒'''（なつの なお、[[7月11日]]<ref name="profu">{{Cite web|url=http://www.aslead-voice.co.jp/talento/Official/natsuno.pdf|title=プロフィール|publisher=アズリードカンパニー|format=PDF|accessdate=2016-04-18}}</ref> - ）は、[[日本]]の[[声優|女性声優]]。[[アズリードカンパニー]]所属。[[長崎県]]出身。[[ABO式血液型|血液型]]は[[ABO式血液型|B型]]<ref name="profu" />。
+
+== 人物 ==
+* 趣味は[[水墨画]]、[[釣り]]で、特技は[[ウインク]]、[[タロット]]<ref name="profu" />。
+* 『[[三者三葉]]』で共演する[[今村彩夏]]、[[渡辺はるか]]等からはパイセンと呼ばれている。
+
+== 出演 ==
+=== テレビアニメ ===
+'''2014年'''
+* [[未確認で進行形]]（幼女）
+'''2016年'''
+* [[甘々と稲妻]]（女子生徒）
+* [[三者三葉]]（臼田桜<ref>{{Cite web|url=http://sansyasanyou.com/staffcast/|title=TVアニメ『三者三葉』スタッフ＆キャスト|work=『三者三葉』公式サイト|publisher=三者三葉製作委員会|accessdate = 2016-04-18}}</ref>）
+* [[初恋モンスター]]（生徒）
+
+=== ゲーム ===
+* シューティングガール（多々良綠、鉈橋美由紀<ref>{{Twitter status|natsuyasaio|715109453633179648|2016年3月30日の夏野のツイート}}</ref>）
+
+=== 吹き替え ===
+* 理想の結婚（女優）
+
+=== ラジオ ===
+'''太字'''は放送中。※は[[インターネットラジオ|インターネット配信]]。
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+* [[A&G GIRLS BEAT♪ Queenty]]（2016年 - 2017年、[[超!A&G+]]※・[[ニコニコ動画]]※）<ref name="queenty">{{Cite web|date=2016-03-21|url =http://www.agqr.jp/topics/archives/ag_9.php|title=新人女性声優５人による"土日"のワイド番組が始まる！|work=超!A&G+|publisher=[[文化放送]]|accessdate=2016-04-18}}</ref>
+
+=== イベント ===
+* [[AnimeJapan|AnimeJapan 2016]] Queenty 名刺お渡し会<ref name="queenty" />
+* ラブリーさくら お配り会<ref>{{Cite web|date=2016-04-01|url=http://sansyasanyou.com/news/index00290000.html|title=『ラブリーさくら』お配り会開催!!!|work=『三者三葉』公式サイト|publisher=三者三葉製作委員会|accessdate=2016-04-18}}</ref><ref>{{Twitter status|natsuyasaio|715698465481732096|2016年4月1日の夏野のツイート}}</ref>
+
+=== 音楽CD ===
+{| class="wikitable" style="font-size:small;"
+! style="width:4.5em;"|発売日 !! タイトル !! 名義 !! 楽曲 !! タイアップ
+|-
+! colspan="5"|2016年
+|-
+| rowspan="2"| 5月18日
+| rowspan="2"| 「三者三葉」キャラクターソング Vol.2
+| 小田切双葉＆臼田桜（[[金澤まい]]、夏野菜緒）
+| 「とぅいんくる☆そんぐ！！」
+| rowspan="2"| テレビアニメ『[[三者三葉]]』キャラクターソング
+|-
+| 臼田桜（夏野菜緒）
+| 「ZOKKON☆チェリーブロッサム」
+|-
+|}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* {{PDFlink|[http://www.aslead-voice.co.jp/talento/Official/natsuno.pdf 公式プロフィール]}}
+* {{Twitter|natsuyasaio|夏野菜緒}}
+
+{{Voice-stub}}
+{{DEFAULTSORT:なつの なお}}
+[[Category:日本の女性声優]]
+[[Category:長崎県出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

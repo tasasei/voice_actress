@@ -1,0 +1,427 @@
+{{ActorActress
+| 芸名 = 高畑 充希
+| ふりがな = たかはた みつき
+| 画像ファイル = Takahata Mitsuki from "Japanese Girls Never Die" at Opening Ceremony of the Tokyo International Film Festival 2016 (32830538683).jpg
+| 画像コメント = 2016年、[[第29回東京国際映画祭]]にて
+| 本名 = 
+| 別名義 = みつき
+| 出生地 = {{JPN}} [[大阪府]][[東大阪市]]<ref name=oricon20140110/>
+| 学歴 = 法政大学キャリアデザイン学部
+| 死没地 =
+| 国籍 = <!--「出生地」からは推定できないときだけ -->
+| 民族 = <!-- 民族名には信頼できる情報源が出典として必要です -->
+| 身長 = 158 [[センチメートル|cm]]<ref>{{cite web|url =http://www.nikkansports.com/entertainment/news/1634016.html|title =高畑充希「わたしは真悟」門脇麦とＷ主演12月公演|publisher=[[日刊スポーツ]]|date=2016-04-19|accessdate=2016-04-25}}</ref>
+| 血液型 = [[ABO式血液型|AB型]]
+| 生年 = 1991
+| 生月 = 12
+| 生日 = 14
+| 没年 =
+| 没月 =
+| 没日 =
+| 職業 = [[俳優|女優]]、[[歌手]]
+| ジャンル = [[舞台]]、[[ドラマ]]、[[映画]]
+| 活動期間 = [[2005年]] - 
+| 活動内容 = 歌手、女優
+| 配偶者 = 
+| 著名な家族 = <!-- 『著名活動をしている人物』で記事対象の家族として公開されている人物がいる場合に記載。単にメディアで紹介された新生児の名前などは書かないように注意。 -->
+| 事務所 = [[ホリプロ]]
+| 公式サイト = [http://www.horipro.co.jp/talent/PF089/ ホリプロオフィシャルサイト -高畑充希-]
+| 主な作品 = <!-- 主演映画・主演テレビドラマなど。脇役の場合、大ヒットした作品で重要な役割であった、またはその出演功績を認められたもの。例えば、日本アカデミー賞優秀助演男優（女優）賞を受賞したような役の作品を入力 -->'''舞台'''<br />『[[ピーター・パン (ミュージカル)|ピーター・パン]]』<br />『いやおうなしに』<br />『靑い種子は太陽のなかにある』<hr />'''テレビドラマ'''<br /> 『[[ごちそうさん (2013年のテレビドラマ)|ごちそうさん]]』<br />『[[問題のあるレストラン]]』<br />『[[いつかこの恋を思い出してきっと泣いてしまう]]』<br />『[[とと姉ちゃん]]』<br />『[[過保護のカホコ]]』<hr />'''映画'''<br />『[[ドルフィンブルー フジ、もういちど宙へ]]』<br />『[[怒り (小説)#映画|怒り]]』<br />『[[植物図鑑 (小説)#映画|植物図鑑 運命の恋、ひろいました]]』
+| アカデミー賞 =
+| AFI賞 = 
+| 英国アカデミー賞 = 
+| エミー賞 = 
+| グラミー賞 = 
+| ゴールデングローブ賞 = 
+| ゴールデンラズベリー賞 = 
+| ゴヤ賞 = 
+| ジェミニ賞 = 
+| セザール賞 = 
+| 全米映画俳優組合賞 = 
+| トニー賞 = 
+| 日本アカデミー賞 =第40回 新人俳優賞<br />『植物図鑑 運命の恋、ひろいました』<br />
+| ブルーリボン賞 = 
+| ローレンス・オリヴィエ賞 = 
+| その他の賞 =第29回 [[東京国際映画祭]] ARIGATŌ賞<br />第23回 [[読売演劇大賞]] 優秀女優賞<br />第23回 読売演劇大賞 杉村春子賞<br />第41回 [[エランドール賞]] 新人賞<br />第25回 [[橋田賞]] 新人賞<br />第26回 [[日本映画批評家大賞]] 新人女優賞<br />※上記以外の受賞については、[[#受賞歴|受賞歴]]参照
+| 備考 = 
+}}
+{{Infobox Musician <!--プロジェクト:音楽家を参照-->
+| Name                = みつき 
+| Img                 = 
+| Img_capt            = 
+| Img_size            = <!-- サイズが250ピクセルに満たない場合のみ記入 -->
+| Landscape           = <!-- 画像の横幅が広く、高さが小さい場合に“yes”を記入 -->
+| Background          = singer
+| Birth_name          = <!-- 個人のみ --><!-- 出生時の名前が公表されている場合にのみ記入 -->
+| Alias               = 
+| Blood               = [[ABO式血液型|AB型]]
+| School_background   = <!-- 個人のみ -->
+| Born                = {{生年月日と年齢|1991|12|14}}
+| Died                = <!-- 個人のみ -->
+| Origin              = {{JPN}} [[大阪府]][[東大阪市]]
+| Instrument          = [[歌]]
+| Genre               = [[J-POP]]
+| Occupation          = [[歌手]]
+| Years_active        = [[2007年]] - 
+| Label               = [[ワーナーミュージック・ジャパン]]
+| Production          = [[ホリプロ]]
+| Associated_acts     = 
+| URL                 = [http://www.wmg.jp/mitsuki/ みつき オフィシャルサイト]
+| Current_members     = <!-- グループのみ -->
+| Past_members        = <!-- グループのみ -->
+| Notable_instruments = 
+}}
+'''高畑 充希'''（たかはた みつき、[[1991年]][[12月14日]] - ）は、[[日本]]の[[俳優|女優]]、[[歌手]]。歌手活動は一部の参加作品を除き、'''みつき'''または「高畑充希」名義<ref group="注">2007年6月の歌手デビューから「みつき」名義で歌手活動を行っていたが、2014年3月発売のアルバム『[[PLAY LIST]]』以降は歌手活動も「高畑充希」名義で行っている。</ref>。
+
+[[大阪府]][[東大阪市]]出身<ref name=oricon20140110>{{Cite news |title=高畑充希、「希子ちゃん」コールに『ごちそうさん』の反響実感 |newspaper=ORICON STYLE |publisher=[[オリコン]] |date=2014-01-10 |url=http://www.oricon.co.jp/news/2032840/full/ |accessdate=2014-04-10}}</ref>。所属事務所は[[ホリプロ]]。所属レコード会社は[[ワーナーミュージック・ジャパン]]。[[2014年]]10月、公式[[ファンクラブ]]「MIKKAI」がスタート。
+
+== 略歴 ==
+=== 生い立ち ===
+会社経営の父と母、祖父母の五人家族の一人っ子として育ち、舞台鑑賞が好きな両親の影響を受けて小学生の頃より舞台女優を志す<ref name=chunichi>{{Cite news |title=〈家族のこと話そう〉 女優・高畑充希さん |newspaper=[[中日新聞]] |date=2014-03-23 |url=http://www.chunichi.co.jp/article/living/life/CK2014032302000001.html |accessdate=2014-03-27 |archiveurl=http://web.archive.org/web/20140426201731/http://www.chunichi.co.jp/article/living/life/CK2014032302000001.html |archivedate=2014-04-26}}</ref>。幼い頃から『[[オペラ座の怪人]]』や[[蜷川幸雄]]作品に親しみ、同級生がアイドルやJポップの歌を聴く中、『[[レ・ミゼラブル (ミュージカル)|レ・ミゼラブル]]』などの[[ミュージカル]]の[[サントラ]]を好んで聴いていた<ref>[http://www.terminal-jp.com/paper/35/t35_p09.html 情報紙ターミナル2008春特大号（No.35）高畑充希さんインタビュー]</ref>。小学校から中学校までの間に舞台や芸能事務所のオーディションを十数回も受けて全て落ちていた。数々のオーディションを受ける一方で、受からなかった時には[[早稲田大学]]の演劇研究会に入ろうと、小学校低学年から塾に通って猛勉強し、中高一貫の進学校である私立[[四天王寺中学校・高等学校|四天王寺中学校]]へと進んだ<ref name=chunichi/>{{Refnest|group="注"|高校・中学校軽音楽系クラブコンテスト「We are Sneaker Ages」第32回GP大会出場校紹介ページで私立四天王寺中学校の「クラブの特徴」の項目に高畑への言及がある<ref>{{Cite web|url= http://www.sneakerages.jp/history/list32/17.html |title=SneakerAges 第32回 GP大会 出場校詳細 E.NO.17 私立四天王寺中学校　軽音楽部 |publisher= 三木楽器 |accessdate= 2016-03-06 }}</ref>。}}。
+
+=== 女優として ===
+[[2005年]]、中学在学中に、両親のミュージカル好きが影響して参加したホリプロが創業45年を記念して主催する『[[山口百恵]]トリビュート[[ミュージカル]] プレイバック part2 〜屋上の天使』の出演者[[オーディション]]で9621人の応募者から主演の座を獲得し、シンデレラガールとして女優デビューを果たした<ref group="注">このオーディションで歌った曲「[[FIND THE WAY]]」が、アルバム『PLAY LIST』に収録されている。</ref>。
+
+[[2007年]]から東京の高校に進学し、本格的に女優活動を開始。2007年から[[2012年]]まで6年間にわたってミュージカル『[[ピーター・パン (ミュージカル)|ピーターパン]]』で8代目ピーターパン役を務めると、舞台『[[奇跡の人#日本での戯曲公演|奇跡の人]]』『[[美男ですね#舞台|美男ですね]]』『[[コーヒープリンス1号店#舞台|コーヒープリンス1号店]]』で次々に主演を務めた。
+
+2007年公開の『[[ドルフィンブルー フジ、もういちど宙へ]]』でホリプロ所属後初の映画出演<ref name=cinemacafe/>を果たし<ref group="注">ホリプロ所属前の2002年に『走れ!ケッタマシン ウエディング狂騒曲』という作品で既に映画出演をしていた。</ref>、その後も[[TBSテレビ|TBS]]『[[3年B組金八先生]]』（[[3年B組金八先生#第8シリーズ（2007年 - 2008年）|第8シリーズ]]）をはじめとしてドラマ・映画等の映像作品に多数出演しており、[[2008年]]には[[ドラマ30]]の通算100作目にあたる『[[ナツコイ]]』（[[毎日放送]]）の[[ヒロイン]]に抜擢された<ref>{{cite web|url =http://www.oricon.co.jp/news/54509/full/|title =『ドラマ30』通算100作目、『ナツコイ』ヒロイン枠に高畑充希抜擢|publisher=ORICON STYLE (オリコン)|date=2008-05-12|accessdate=2015-01-30}}</ref>。
+
+[[2010年]]4月に[[法政大学]]へ進学<ref>{{Cite web |date=2010-04-07 |url=http://ameblo.jp/mitsuki-takahata/day-20100407.html |title=祝 御入学 |publisher=高畑充希オフィシャルブログ「たかはたみつきのこれやみつき!!」 |accessdate=2014-02-19}}</ref><ref>{{cite web|url =http://www.hosei.ac.jp/koho/media/index.html|title =メディアで知る法政大学(2014年度1月31日、2014年度2月11日掲載分)|accessdate=2015-02-14}}</ref>すると、大学4年に在学中の[[2013年]]11月より[[日本放送協会|NHK]][[連続テレビ小説]]『[[ごちそうさん (2013年のテレビドラマ)|ごちそうさん]]』にヒロインの義妹・西門希子役で出演。オーディションで高畑の出演が決まると、高畑が出演していたミュージカル『[[スウィーニー・トッド (ミュージカル)#亜門版3回目公演|スウィーニー・トッド〜フリート街の悪魔の理髪師〜]]』を観た脚本家の[[森下佳子]]がその歌声に惚れ込み、当て書きで歌唱シーンを追加。劇中歌「焼氷有り{{JIS2004フォント|&#12348;}}の唄」で披露した歌唱力と演技力が一躍注目を集めた<ref>{{Cite news |title=「ごちそうさん」で話題の女優・高畑充希、朝ドラの反響と葛藤を語る「心のどこかで戸惑っていた」 |newspaper=[[モデルプレス]] |date=2014-03-25 |url=http://mdpr.jp/news/detail/1342663 |accessdate=2014-03-27}}</ref><ref>{{Cite news |title=【ごちそうさんの舞台裏（6）】おどおど末妹「希子＝高畑充希」はホントは21歳、大学4年生…演技衣装のままPCで「卒論」送って大奮闘 |newspaper=MSN産経west |date=2013-12-07 |url=http://sankei.jp.msn.com/west/west_life/news/131207/wlf13120707010002-n1.htm |accessdate=2014-02-19}}{{リンク切れ|date=2017年9月}}</ref><ref>{{Cite news |title=高梨臨、高畑充希…2014年、ブレイク必至な本格派女優に注目！【女優編】 |newspaper=ニュースウォーカー |publisher=[[KADOKAWA]] |date=2013-12-31 |url=http://news.walkerplus.com/article/43446/ |accessdate=2014-01-30}}</ref>。
+
+『ごちそうさん』放送終了後の[[2014年]]4月には、『[[未来ロケット]]』（[[フジテレビジョン|フジテレビ]]）でバラエティー番組へ初のレギュラー出演<ref name=oricon20140414>{{Cite news |title=高畑充希、バラエティー初レギュラー オードリー若林＆NEWS増田と共演 |newspaper=ORICON STYLE |publisher=[[オリコン]] |date=2014-04-14 |url=http://www.oricon.co.jp/news/2036340/full/ |accessdate=2014-04-22}}</ref>、また[[チョーヤ梅酒]]『酔わないウメッシュ「独唱篇」』で初のCM出演も果たし<ref>{{Cite web |date=2014-04-20 |url=http://www.choya.co.jp/news/140418.html |title=2代目「酔わないウメッシュ」 新キャラクターに、高畑充希さんを起用 〜平成26年4月20日（日）よりTVCM放映開始〜 |work=お知らせ |publisher=[[チョーヤ梅酒]] |accessdate=2014-04-22}}</ref>、さらに同年7月には『[[軍師官兵衛]]』で[[大河ドラマ]]初出演も果たした<ref>{{cite web|url =http://www.oricon.co.jp/news/2043236/full/|title =【軍師官兵衛】高畑充希、戦国時代の妻に学ぶ夫操縦術「一喝して、持ち上げる」|publisher= ORICON STYLE|date=2014-10-12|accessdate=2015-07-04}}</ref>。
+
+2014年7月に[[ORICON STYLE]]が発表した『2014年上半期ブレイク女優ランキング』で6位にランクインすると<ref>{{cite web|url =http://www.oricon.co.jp/special/1251/|title =2014上半期ブレイク女優ランキング|publisher=ORICON STYLE|date=2014-07-11|accessdate=2015-07-12}}</ref>、同年12月にORICON STYLEが発表した年間を通し各メディアで飛躍的な活躍を見せた女優を対象とした『2014年 ブレイク女優ランキング』でも7位にランクインする活躍を見せた<ref>{{cite web|url =http://www.oricon.co.jp/special/47508/|title =2014年 ブレイク女優ランキング|publisher=ORICON STYLE|date=2014-12-12|accessdate=2015-07-12}}</ref>。また、同年12月には『[[アオハライド]]』、『[[バンクーバーの朝日]]』（フジテレビ開局55周年記念作品）<ref>{{cite web|url =http://www.fujitv.co.jp/company/news/141013.html|title =フジテレビ開局55周年記念作品　映画「バンクーバーの朝日」が第33回バンクーバー国際映画祭で観客賞を受賞しました|publisher=株式会社フジテレビジョン|date=2014-10-13|accessdate=2015-07-12}}</ref>と、出演映画2作品が立て続けに公開された。
+
+[[2015年]]1-3月期のドラマ『[[問題のあるレストラン]]』（フジテレビ）で[[ザテレビジョンドラマアカデミー賞]] 助演女優賞を受賞<ref>{{cite web|author =ザテレビジョン|url =http://thetv.jp/feature/dramaacademy/year/2015.html|title =2015年 第84回 1-3月クール|date=2015-05-20|accessdate=2015-07-13}}</ref>、4月には、[[ディズニー]]映画『[[シンデレラ (2015年の映画)|シンデレラ]]』で主人公・[[シンデレラ (ディズニーキャラクター)|エラ]]の吹替えに抜擢され（実写映画の吹替は初挑戦）、日本版エンドソング「[[夢はひそかに#日本語版|夢はひそかに]]」を、[[城田優]]とともに担当<ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150310-00000002-modelpn-life|title =高畑充希＆城田優、ディズニー実写版「シンデレラ」日本版エンドソングに抜擢 世界唯一のデュエットバージョンに挑戦|publisher=モデルプレス|date=2015-03-10|accessdate=2015-07-13}}</ref>。7月にはORICON STYLEが発表した『2015年上半期ブレイク女優ランキング』で、過去最高の3位に入り<ref>{{cite web|url =http://www.oricon.co.jp/special/48100/|title =2015上半期ブレイク女優ランキング|publisher=ORICON STYLE|date=2015-07-11|accessdate=2015-07-13}}</ref><ref>{{cite web|url =http://www.oricon.co.jp/news/2055811/full/|title =『2015年上半期ブレイク女優』広瀬すずが首位|publisher=ORICON STYLE|date=2015-07-11|accessdate=2015-07-13}}</ref>、『[[煙霞#テレビドラマ|煙霞 〜Gold Rush〜]]』で[[WOWOW]][[連続ドラマW|連続ドラマ]]初出演<ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150425-00000001-cine-movi|title =森山未來＆高畑充希、オール関西キャストで直木賞原作をドラマ化「煙霞 -Gold Rush-」|publisher=cinemacafe.net|date=2015-04-25|accessdate=2015-07-19}}</ref><ref>{{cite web|url =http://news.ameba.jp/20150425-60/|title =高畑充希がヒロイン！WOWOWドラマ「煙霞 -Gold Rush-」の詳細が解禁|publisher=GirlsNews|date=2015-04-25|accessdate=2015-07-19}}</ref>。また、8-9月には長年出演を熱望していた蜷川幸雄演出の舞台作品（『靑い種子は太陽のなかにある』）にヒロインとして出演を果たし<ref>{{cite web|url =http://mdpr.jp/news/detail/1491849|title =高畑充希、KAT-TUN亀梨和也との共演に「がむしゃらにいきたい」|publisher=モデルプレス|date=2015-06-04|accessdate=2015-07-19}}</ref><ref>{{cite web|url =http://engekisengen.com/stage/interview/aoishuji/|title =靑い種子は太陽のなかにある」高畑充希 インタビュー|publisher=月刊ローソンチケット|date=2015-07-15|accessdate=2015-07-19}}</ref>、本作の演技で[[読売演劇大賞]][[読売演劇大賞#優秀賞|優秀女優賞]]<ref>{{cite web|author =シアターガイド 演劇ニュース|url =http://www.theaterguide.co.jp/theater_news/2016/01/21_02.php|title =「第23回読売演劇大賞」ノミネートが発表に|date=2016-01-21|accessdate=2016-02-04}}</ref>と[[読売演劇大賞#その他各賞|杉村春子賞]]（新人賞）<ref>{{cite web|author =シアターガイド 演劇ニュース|url =http://www.theaterguide.co.jp/theater_news/2016/02/04.php|title =大賞は片岡仁左衛門が受賞 「第23回読売演劇大賞」が発表に|date=2016-02-04|accessdate=2016-02-04}}</ref>を受賞した。
+
+[[2016年]]4月に放送開始したNHK連続テレビ小説『[[とと姉ちゃん]]』ではオーディション(応募者2564人<ref>{{cite web|url =http://www.nikkansports.com/entertainment/news/1531444.html|title =高畑充希2564人の争い勝ち抜きＮＨＫ朝ドラ合格|publisher=日刊スポーツ|date=2015-09-01|accessdate=2015-09-02}}</ref>)を経てヒロイン・小橋常子に選ばれ、連続ドラマ初主演を果たし<ref>{{Cite news |title=NHK来春朝ドラヒロインは高畑充希 「とと姉ちゃん」で昭和生き抜く |newspaper=[[スポーツニッポン]] |date=2015-08-31 |url=http://www.sponichi.co.jp/entertainment/news/2015/08/31/kiji/K20150831011041000.html |accessdate=2015-08-31}}</ref><ref>{{cite web|url =http://www.nikkansports.com/entertainment/news/1527494.html|title =高畑充希が朝ドラヒロイン 来春「とと姉ちゃん」|publisher=日刊スポーツ|date=2015-08-24|accessdate=2015-08-24}}</ref><ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150831-00000108-spnannex-ent|title =ＮＨＫ来春朝ドラヒロインは高畑充希　「とと姉ちゃん」で昭和生き抜く|publisher=スポニチアネックス|date=2015-08-31|accessdate=2015-08-31}}</ref>、6月公開の映画『[[植物図鑑 (小説)#映画|植物図鑑 運命の恋、ひろいました]]』では、[[岩田剛典]]とともに映画初主演を務めた<ref>{{cite web|url =http://eiga.com/news/20150709/1/|title =岩田剛典＆高畑充希、映画初主演！有川浩「植物図鑑」を映画化|publisher=映画.com|date=2015-07-09|accessdate=2015-07-13}}</ref><ref>{{cite web|url =http://natalie.mu/music/news/153323|title =岩田剛典＆高畑充希W主演！有川浩のベストセラー恋愛小説映画化|publisher=音楽ナタリー|date=2015-07-09|accessdate=2015-07-13}}</ref>。7月にORICON STYLEが発表した『2016年上半期ブレイク女優ランキング』で、ブレイク女優1位に輝くと<ref>{{cite web|url =http://www.oricon.co.jp/special/49110/?anc=011|title =2016 上半期ブレイク女優ランキング|publisher=ORICON STYLE|date=2016-07-08|accessdate=2016-07-08}}</ref>、その後、年間を通してブレイクした『2016年ブレイク女優ランキング』でも1位となり、ORICON STYLE クイーン・アワード2016を受賞<ref>{{cite news|url=http://www.oricon.co.jp/special/49589/|title=2016年ブレイク女優　1位は高畑充希|newspaper=ORICON STYLE|date=2016-12-07|accessdate=2016-12-26}}</ref><ref>{{cite news|url=http://www.oricon.co.jp/news/2082614/full/|title=高畑充希“ブレイク女優”首位に喜び 「今年は全力疾走。来年はマイペースで仕事を」|newspaper=ORICON STYLE|date=2016-12-07|accessdate=2016-12-26}}</ref>。また『植物図鑑 運命の恋、ひろいました』での演技が評価され、[[第40回日本アカデミー賞]]新人俳優賞、第26回[[日本映画批評家大賞]]新人女優賞(小森和子賞)を受賞、その年最も活躍し将来の活躍が期待される俳優に贈られる[[エランドール賞]]新人賞に加えて、「当たり前の暮らしがいかに大切か」という教えを胸に、激動の昭和を駆け抜けていくヒロインを、卓越した演技力で演じ切り、現代の多くの女性たちの共感を得た、との評価を受けた『とと姉ちゃん』での演技に対して[[橋田賞]]新人賞受賞の栄誉にも輝いた<ref>{{cite web|url=http://www.oricon.co.jp/news/2088482/full/|title =『第25回橋田賞』“逃げ恥”新垣結衣、“とと姉”高畑充希ら受賞者発表 |publisher= オリコン |date=2017-04-01|accessdate=2017-04-10}}</ref>。
+
+[[2017年]]7月期の『[[過保護のカホコ]]』（日本テレビ）で民放連続ドラマ初主演<ref name="hochi20170605">{{Cite news|url= http://www.hochi.co.jp/entertainment/20170604-OHT1T50313.html |title= 高畑充希、民放連ドラ初主演！日テレ系７月スタート遊川氏脚本「過保護のカホコ」 |newspaper= スポーツ報知 |publisher= 報知新聞社 |date= 2017-06-05 |accessdate= 2017-06-05 }}</ref>。
+
+=== 歌手として ===
+女優としての活動の一方で、[[2007年]]にはデモテープを聴いた[[コブクロ]]の[[小渕健太郎]]がその歌声に惚れ込み、プロデュースをすることを名乗り出た<ref>{{Cite news |title=コブクロ・小渕、15歳の新人歌手を初プロデュース！ |newspaper=ORICON STYLE |publisher=[[オリコン]] |date=2007-03-19 |url=http://www.oricon.co.jp/news/43068/ |accessdate=2014-02-01}}</ref>。そして2007年6月に小渕プロデュースによるシングル「[[大切なもの (みつきの曲)|大切なもの]]」で[[ワーナーミュージック・ジャパン]]よりアーティスト名「'''みつき'''」として歌手デビューを果たした。「大切なもの」は自ら出演する映画『ドルフィンブルー フジ、もういちど宙へ』の主題歌に、同シングルに収録の「ひとつだけ」は[[木皿泉]]脚本のドラマ『[[セクシーボイスアンドロボ#テレビドラマ|セクシーボイスアンドロボ]]』（日本テレビ）の主題歌にそれぞれ採用された。
+
+その後、翌[[2008年]]にかけて「[[瞳ひらいて]]」（[[川嶋あい]]プロデュース、アニメ映画『[[ルイスと未来泥棒]]』イメージ曲）、「[[夏のモンタージュ]]」（[[竹内まりや]]作詞・作曲、ドラマ『[[ナツコイ]]』主題歌）のシングル2作品を発表。また、[[河口恭吾]]や[[矢井田瞳]]らの楽曲提供を受けてファーストアルバム『[[COLOR (みつきのアルバム)|COLOR]]』をリリース。同アルバムの7曲目の「キズナ」では自ら作詞も手がけている。
+
+[[2013年]]には連続テレビ小説『ごちそうさん』の劇中で披露した歌声が脚光を浴びる。その劇中曲が[[サウンドトラック]]盤に収録されると、翌[[2014年]]3月には同劇中歌をはじめとして過去にリリースしたシングルや出演したミュージカルやドラマで歌唱した楽曲を収録したアルバム『[[PLAY LIST]]』を「'''高畑充希'''」名義でリリースした<ref>{{Cite news |title=高畑充希の劇中歌発売へ |newspaper=日刊スポーツ |date=2014-01-30 |url=http://www.nikkansports.com/entertainment/news/p-et-tp0-20140130-1250712.html |accessdate=2014-01-30}}</ref>。
+
+[[2015年]]12月には、デビュー10周年を記念した初のワンマンライブを東京と大阪の[[阪神コンテンツリンク#ビルボードライブ|Billboard Live]]にて開催した<ref>{{cite web|url =http://natalie.mu/music/news/149005|title =デビュー10周年の高畑充希、ビルボードで初ワンマンライブ|publisher=音楽ナタリー|date=2015-06-01|accessdate=2015-09-15}}</ref><ref>{{Cite news |title=高畑充希、初のワンマンライブをビルボード・ライブにて開催決定。|newspaper=[[BARKS]] |date=2015-06-10 |url=http://www.barks.jp/news/?id=1000116150 |accessdate=2015-08-18}}</ref>。
+
+== 人物 ==
+* 趣味は読書<ref>[http://www.yomidr.yomiuri.co.jp/page.jsp?id=40549 読書は父に、舞台は母に]（2011年5月10日 読売新聞）、2014年12月3日閲覧。</ref>、舞台観劇<ref>{{cite web|url =http://www.yomidr.yomiuri.co.jp/page.jsp?id=40549/|title =読書は父に、舞台は母に|publisher= 読売新聞|date=2011-05-10|accessdate=2015-08-27}}</ref>、食べること<ref>{{cite web|url =http://www.advertimes.com/20150601/article192637/|title =芸歴10周年の23歳 高畑充希の不思議な魅力|publisher=AdverTimes（アドタイ）|date=2015-06-01|accessdate=2015-09-09}}</ref>など。
+* 舞台女優になるために[[コーラス (ポピュラー音楽)|コーラス]]を習っていた。また、[[クラシック音楽|クラシック]]の先生に付いて[[声楽]]も学んでいた<ref>[http://www.terminal-jp.com/paper/35/t35_p09.html 情報紙ターミナル2008春特大号（No.35）高畑充希さんインタビュー]</ref>。
+* 中学時代は[[軽音楽|軽音部]]に所属し、ボーカルを担当していた<ref>{{Cite web|url=http://news-library.com/news/86_ituki_takahata.html|title=ブレイク間近 女優 高畑充希とは？努力の天才 歌声が凄い|publisher=Cuticle|date=|accessdate=2015-04-17}}</ref>。日本全国の高校・中学校による軽音楽系のクラブコンテストである[[スニーカーエイジ]]のグランプリ大会にも出場経験がある<ref>[http://www.sneakerages.jp/history/list32/17.html SneakerAges 第32回 GP大会 出場校詳細 私立四天王寺中学校のクラブの特徴内で紹介されている]</ref>。
+* [[2008年]][[4月25日]]の[[東京ヤクルトスワローズ]]対[[中日ドラゴンズ]]の試合で始球式を務めた<ref>本人ブログにおける2008年4月27日の書き込み [http://plaza.rakuten.co.jp/hp45m/diary/200804270000/ ★ピーターパン始球式デビュー★の巻]</ref>。
+* デビュー以来ずっとショートカットだった。ピーターパン役を演じていたこともあってボーイッシュなイメージが定着していたが、2011年末頃から髪を伸ばし始め、すっかり女らしく変身した。舞台『アリス・イン・ワンダーランド』で[[ツインテール]]にした時には、『ピーターパン』で共演した[[ウェンディ・モイラー・アンジェラ・ダーリング|ウェンディ]]役の[[仁藤萌乃]]から「ウェンディできるね」とお墨付きをもらっている<ref>{{Cite web|url=http://ameblo.jp/mitsuki-takahata/entry-11408842862.html|title=ツインテールとanと|publisher=高畑充希オフィシャルブログ「たかはたみつきのこれやみつき!!」|date=2012-11-03|accessdate=2015-01-13}}</ref>。
+* [[法政大学|法政大学キャリアデザイン学部]]出身<ref>[http://yume0123.blog.so-net.ne.jp/2015-08-24 サラリーマンの明日も頑張る（2015年8月24日）]</ref>。大学では写真サークルに所属していた<ref>{{cite web|url =http://www.asahi.com/sp/articles/ASGDP6KB7GDPUEHF00S.html|title =「受験、最後は自分を信じて」　女優・高畑充希さん
+|publisher= 朝日新聞 |date=2014-12-25|accessdate=2016-04-12}}</ref>。
+* 中国の大手ポータルサイト・搜狐が発表した「2016地球上で最も美しい50人」の中の1人に[[菅田将暉]]、[[新垣結衣]]らと共に選出された<ref>{{cite web|url=https://news.biglobe.ne.jp/international/1230/rec_161230_6554163056.html|title =中国ポータルサイトが選ぶ「地球で最も美しい50人」＝日本から菅田将暉、新垣結衣ら4人が登場—中国|publisher= Record China |date=2016-12-30|accessdate=2017-04-11}}</ref>。
+* 『[[3年B組金八先生]]』で共演した[[水沢奈子]]、[[忽那汐里]]、『[[Q10]]』で共演した[[前田敦子]]、[[柄本時生]]、[[池松壮亮]]、『[[女子ーズ]]』で共演した[[有村架純]]とはプライベートで仲が良い<ref>http://instagram.com/p/txdR8zmV0g/?modal=true いつも 一緒にのんでくれるひと</ref><ref>[http://mdpr.jp/news/detail/1445968 前田敦子「好きすぎて馬鹿みたい」親友“ブス会”との仲良しプライベート]（2014年11月12日 モデルプレス）、2014年12月3日閲覧。</ref><ref>[http://news.ameba.jp/20141116-212/ 高畑充希　前田敦子と柄本時生の「ブス会」3ショット]（2014年11月16日 アメーバニュース）、2014年12月3日閲覧。</ref><ref>[http://japan.techinsight.jp/2014/09/takahata-arimura-2shot20140921.html 【エンタがビタミン♪】高畑充希と有村架純が“双子みたい”なツーショット。実は添い寝する仲だった？]（2014年09月21日 Techinsight）、2014年12月3日閲覧。</ref><ref>{{cite web|url =http://mdpr.jp/news/detail/1483412|title =“親友”高畑充希＆有村架純、互いの素顔明かす|publisher=モデルプレス|date=2015-04-26|accessdate=2015-07-04}}</ref><ref>{{cite web|url =http://www.crank-in.net/entertainment/news/38672|title =高畑充希、有村架純とのツーショット公開 “史上最強コラボ”に絶賛の声|publisher=クランクイン!|date=2015-09-01|accessdate=2015-09-09}}</ref>。特に前田敦子、柄本時生、池松壮亮とは、「ブス会」<ref>{{cite web|url =http://www.crank-in.net/entertainment/news/37030|title =柄本時生、高畑充希にフラれていた　前田敦子・池松壮亮との『ブス会』誕生秘話を告白|publisher=クランクイン！|date=2015-05-24|accessdate=2015-10-14}}</ref>と称し、度々プライベートでのオフショットを[[ソーシャル・ネットワーキング・サービス|SNS]]に[[アップロード|アップ]]するほどであり、通常はゲスト3人が出演して語り合う形式の番組である『[[ボクらの時代]]』(フジテレビ系)にも4人揃っての出演を果たしている<ref>{{cite web|url =http://news.ameba.jp/20150516-366/|title =高畑充希　ブス会4人組でフジ『ボクらの時代』に出演|publisher=アメーバニュース|date=2015-05-16|accessdate=2015-05-22}}</ref><ref>{{cite web|url =http://www.daily.co.jp/newsflash/gossip/2015/05/15/0008028950.shtml|title =前田敦子ツイートきっかけ親友とTV出演|publisher=デイリースポーツ|date=2015-05-15|accessdate=2015-05-22}}</ref>。また、[[大竹しのぶ]]や[[キムラ緑子]]とも親交があり、3人で食事に行ったりなどをするほど仲の良い間柄である<ref>{{Cite web|url=http://tvtopic.goo.ne.jp/kansai/program/info/229611/index.html|title= 2013年11月30日(土)「週末応援ナビ☆あほやねん！すきやねん！」|publisher=gooテレビ|date=2013-11-30|accessdate=2015-04-17}}</ref><ref>{{cite web|url =http://www.tvguide.or.jp/column/tvguideshinsho/20151002/|title =’16年4月期朝ドラヒロインを射止めた！
+高畑充希が老若男女に愛されるワケ|publisher=TVガイド|date=2015-09-28|accessdate=2016-02-18}}</ref>。
+* 業界内でもその演技力・歌唱力に注目し評価する声は多く、女優の[[黒木瞳]]は高畑を「歌声の力強さ、清らかさが素晴らしくて度肝を抜かれました。その潜在能力の高さはまさにミュージカル界を背負っていかれる逸材」と絶賛しており<ref>{{cite web|url =http://news.livedoor.com/article/detail/10235501/|title =高畑充希の“天使の歌声”を大物女優らが絶賛「度肝を抜かれました」|publisher= モデルプレス|date=2015-06-16|accessdate=2015-06-22}}</ref><ref>{{cite web|url =http://news.livedoor.com/article/detail/10257199/|title =″天使の歌声″を持つ女優・高畑充希、大物女優も絶賛する庶民的な可愛さと確かな実力！|publisher= メンズサイゾー|date=2015-06-21|accessdate=2015-06-22}}</ref>、[[映画監督]]の[[福田雄一]]は『これから絶対に来る女優』として自身が監督を手掛けた『女子ーズ』に高畑を抜擢<ref>[http://headlines.yahoo.co.jp/hl?a=20140621-00031471-crankinn-ent 第2の有村架純の予感？　高畑充希は「才能のある女優」と映画プロデューサーも絶賛]（2014年6月21日 クランクイン！）、2014年12月4日閲覧</ref>、映画監督の[[三木孝浩]]は高畑が主演を務めた舞台『[[奇跡の人]]』を観劇した際、自身の[[ツイッター]]で「充希ちゃんが生み出す、観客の目を惹きつける“間”の絶妙さに唸りました！ナチュラルボーン女優です、ほんと。」とのコメントを残している<ref>[https://twitter.com/TAKAHIROMIKI/status/521934156389830656 @TAKAHIROMIKI]（2014年10月14日）</ref>。
+
+== 受賞歴 ==
+'''2015年度'''
+* 第84回[[ザテレビジョンドラマアカデミー賞]] 助演女優賞（『[[問題のあるレストラン]]』）<ref>{{cite web|author =ザテレビジョン|url=http://thetv.jp/feature/dramaacademy/year/2015.html|title =2015年 第84回 1-3月クール|date=2015-05-20|accessdate=2015-05-20}}</ref><ref>{{cite web|author =ザテレビジョン|url=http://thetv.jp/feature/dramaacademy/archives/84_supporting_actress.html|title =第84回 助演女優賞|date=2015-05-20|accessdate=2015-08-12}}</ref>
+* 第23回[[読売演劇大賞]] 優秀女優賞（『靑い種子は太陽のなかにある』）<ref>{{cite web|author =シアターガイド 演劇ニュース|url =http://www.theaterguide.co.jp/theater_news/2016/01/21_02.php|title =「第23回読売演劇大賞」ノミネートが発表に|date=2016-01-21|accessdate=2016-02-04}}</ref>
+* 第23回読売演劇大賞 杉村春子賞（『いやおうなしに』『靑い種子は太陽のなかにある』）<ref>{{cite web|author =シアターガイド 演劇ニュース|url =http://www.theaterguide.co.jp/theater_news/2016/02/04.php|title =大賞は片岡仁左衛門が受賞 「第23回読売演劇大賞」が発表に|date=2016-02-04|accessdate=2016-02-04}}</ref>
+
+'''2016年度'''
+* 第29回[[東京国際映画祭]] ARIGATŌ賞<ref>{{cite web|author =映画ナタリー|url =http://natalie.mu/eiga/news/206439|title =新海誠、高畑充希、妻夫木聡、ゴジラがARIGATO賞に輝く|date=2016-10-22|accessdate=2016-10-23}}</ref><ref>{{cite web|author =シネマズニュース|url =http://cinema.ne.jp/news/tff2016102211/|title =新海誠、高畑充希、妻夫木聡、ゴジラ！東京国際映画祭ARIGATŌ賞の受賞者が決定|date=2016-10-22|accessdate=2016-10-23}}</ref>
+* [[日経トレンディ]] 今年のヒット人<ref>{{cite web|author =日経トレンディネット|url =http://trendy.nikkeibp.co.jp/atcl/pickup/15/1008498/110200500/|title =【速報】2016年の顔は「高畑充希」「山崎育三郎」|date=2016-11-03|accessdate=2016-11-03}}</ref>
+* [[ヴォーグ (雑誌)|VOGUE JAPAN]] Women of the Year 2016<ref>{{cite web|author =VOGUE|url =http://www.vogue.co.jp/fashion/news/2016-11/24/womenoftheyear |title =小池百合子、高畑充希など、VOGUE JAPAN Women of the Year 2016決定！|date=2016-11-24|accessdate=2016-11-24}}</ref>
+* [[Yahoo! JAPAN#Yahoo!検索大賞|Yahoo!検索大賞]]2016 女優部門賞<ref>{{cite news|url=http://natalie.mu/eiga/news/212278|title=ディーン・フジオカがYahoo!検索大賞で2冠、高畑充希や中村悠一も受賞|newspaper=映画ナタリー|date=2016-12-07|accessdate=2016-12-25}}</ref>
+* [[オリコン|ORICON STYLE]] クイーン・アワード2016 ブレイク女優ランキング1位<ref>{{cite news|url=http://www.oricon.co.jp/special/49589/|title=2016年ブレイク女優　1位は高畑充希|newspaper=ORICON STYLE|date=2016-12-07|accessdate=2016-12-25}}</ref><ref>{{cite news|url=http://www.oricon.co.jp/news/2082614/full/|title=高畑充希“ブレイク女優”首位に喜び 「今年は全力疾走。来年はマイペースで仕事を」|newspaper=ORICON STYLE|date=2016-12-07|accessdate=2016-12-25}}</ref>
+* [[第40回日本アカデミー賞]] 新人俳優賞（『[[植物図鑑 (小説)#映画|植物図鑑 運命の恋、ひろいました]]』）<ref>{{Cite web|url=http://www.oricon.co.jp/news/2084576/|title=日本アカデミー賞優秀賞発表 『怒り』が最多受賞|publisher= オリコン |date= 2017-01-16 |accessdate= 2017-01-16 }}</ref>
+* 第41回[[エランドール賞]] 新人賞（『植物図鑑 運命の恋、ひろいました』『[[怒り (小説)#映画|怒り]]』『[[いつかこの恋を思い出してきっと泣いてしまう]]』『[[とと姉ちゃん]]』）<ref>{{Cite web|url=http://www.producer.or.jp/elandor/view/310|title= 2017年 エランドール賞　受賞作品・受賞者|publisher= 一般社団法人日本映画テレビプロデューサー協会 |date= 2017-01-19 |accessdate= 2017-01-19 }}</ref>
+* 第3回カバーガール大賞 総合部門1位 / 20代部門1位<ref>{{cite web|url = http://m.mantan-web.jp/article/20170302dog00m200039000c.html |title =高畑充希：2016年「もっとも表紙を飾った女性」に 石原さとみの3連覇阻む|publisher= mantan-web |date=2017-03-03|accessdate=2017-03-03}}</ref>
+* 第25回[[橋田賞]] 新人賞（『とと姉ちゃん』）<ref>{{cite web|url=http://www.nikkansports.com/m/entertainment/news/1800462_m.html|title =新垣結衣「逃げ恥」で橋田賞受賞！高畑充希は新人賞|publisher= 日刊スポーツ |date=2017-04-01|accessdate=2017-04-01}}</ref>
+* 第26回[[日本映画批評家大賞]] 新人女優賞（『植物図鑑 運命の恋、ひろいました』）<ref>{{Cite web|url= http://jmcao.org/index.html|title=日本映画批評家大賞 公式サイト |publisher=日本映画批評家大賞|accessdate=2017-04-01}}</ref>
+
+'''2017年度'''
+* 第9回[[コンフィデンスアワード・ドラマ賞]] 主演女優賞（『[[過保護のカホコ]]』）<ref>{{cite web|url=https://www.oricon.co.jp/news/2099707/full/|title =【17年10月期 コンフィデンス・ドラマ賞】『過保護のカホコ』高畑充希&竹内涼真が“W受賞”|publisher= ORICON |date=2017-10-28|accessdate=2017-10-28}}</ref>
+
+== 出演 ==
+=== 舞台 ===
+* [[少年H]]（1999年8月4日 - 29日、東京 / 大阪） - 妹尾好子（幼年時代）役<ref group="注">ホリプロ所属前の子役時代。</ref><ref>{{Cite web |url=http://www.kiwi-us.com/~masato/oldworks/category/straight/1990/6002/Hindex.html |title=少年H ストーリー、スタッフ、キャスト|accessdate=2015-11-14}}</ref>
+* プレイバック part2〜屋上の天使（2005年12月10日 - 20日、[[東京国際フォーラム]]） - 主演・すもも 役<ref>{{Cite web |url=http://www.theaterguide.co.jp/theater_news/2005/09/28_02.php |title=山口百恵トリビュートミュージカル『プレイバックpart2屋上の天使』製作発表会 |publisher=シアターガイド |date=2005-09-28|accessdate=2015-11-14}}</ref>
+* [[ピーター・パン (ミュージカル)#日本での公演|ピーター・パン]]（2007年 - 2012年） - 主演・[[ピーターパン]] 役<ref group="注">8代目ピーターパン。</ref><ref>{{cite web|author =オリコンスタイル|url =http://www.oricon.co.jp/news/movie/46509/full/|title =8代目ピーターパン高畑充希に“フッキ”船長が太鼓判！|date=2007-07-19|accessdate=2013-09-29}}</ref>
+* [[奇跡の人#日本での戯曲公演|奇跡の人]] - 主演・[[ヘレン・ケラー]] 役
+** （2009年10月23日 - 11月29日、東京 / 地方）<ref group="注">[[鈴木杏]]とのダブル主演。</ref><ref>{{cite web|author =日刊スポーツ|url =http://www.nikkansports.com/entertainment/news/f-et-tp0-20091008-553306.html|title =鈴木杏と高畑充希で舞台「奇跡の人」|date=2009-10-08|accessdate=2013-09-29}}</ref>
+** （2014年10月9日 - 21日、東京 / 大阪）<ref>{{Cite news |title=朝ドラで話題の高畑充希、ヘレン・ケラー役再びで飛躍誓う　先輩・木南晴夏と初共演|newspaper=ORICON STYLE |publisher=[[オリコン]] |date=2014-03-17 |url=http://www.oricon.co.jp/news/2035180/full/ |accessdate=2014-03-17}}</ref>
+* [[美男ですね#舞台|美男ですね]]（2011年10月8日 - 11月27日、東京 / 地方） - 主演・桜庭美男 / 桜庭美子 役<ref group="注">一人二役。</ref><ref>{{cite web|author =オリコンスタイル|url=http://www.oricon.co.jp/news/movie/2001378/full/|title =『美男ですね』舞台化！ キスマイ北山＆宮田、内博貴に囲まれるヒロインは高畑充希|date=2011-09-02|accessdate=2013-09-29}}</ref>
+* 豆之坂書店〜読みたがりたちの読書会〜（2011年12月27日 - 29日、[[天王洲銀河劇場]]） - 神田川ひやね 役<ref group="注">舞台デビュー後、初の[[ストレートプレイ]]。</ref>
+* [[コーヒープリンス1号店#舞台|コーヒープリンス1号店]]（2012年4月13日 - 5月13日、東京 / 大阪） - 主演・コ・ウンチャン 役<ref group="注">[[山崎育三郎]]とのダブル主演。</ref><ref>{{cite web|author =スマートボーイズ|url =http://sumabo.jp/smartboys/news/2012/04/01/%E9%9F%93%E6%B5%81%E3%83%89%E3%83%A9%E3%83%9E%E3%80%8E%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B91%E5%8F%B7%E5%BA%97%E3%80%8F%E3%81%8C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8/|title =韓流ドラマ『コーヒープリンス1号店』がミュージカル化。主演は山崎育三郎と高畑充希|date=2012-04-01|accessdate=2013-09-29}}</ref>
+* アリス・イン・ワンダーランド（2012年11月18日 - 12月16日、東京 / 大阪） - クロエ 役<ref group="注" name="ブロードウェイ">ブロードウェイ・ミュージカル。</ref>
+* スマートモテリーマン講座（2013年1月17日 - 2月9日、東京 / 地方） - 野上玲子 役 <ref group="注" name="ストレート">ストレートプレイ。</ref><ref>{{cite web|author =お笑いナタリー|url=http://natalie.mu/owarai/news/83315|title =アルピーもレッツモテ！舞台モテリーマン講座開講|date=2013-01-18|accessdate=2013-09-29}}</ref>
+* [[ウレロ☆未確認少女#舞台 ウレロ☆未公開少女|舞台 ウレロ☆未公開少女]]（2013年3月2日 - 3日、[[六本木ブルーシアター]]） - みつき 役<ref group="注" name="ストレート" />
+* [[スウィーニー・トッド (ミュージカル)#亜門版3回目公演|スウィーニー・トッド〜フリート街の悪魔の理髪師〜]]（2013年5月5日 - 6月9日、東京 / 地方） - ジョアンナ 役<ref group="注" name="ブロードウェイ" />
+* いやおうなしに（2015年1月9日 - 3月1日、東京 / 地方） - 真壁芳奈 役<ref>{{Cite web |url=http://www.parco-play.com/web/news/?id=143 |title=【速報!】2015年、歌謡ファンク喜劇「いやおうなしに」1月KAAT神奈川劇場を皮切りに、2月パルコ劇場までNONSTOPで上演決定!|work=新着情報 |publisher=PARCO STAGE |accessdate=2014-04-22}}</ref><ref>{{cite web|url =http://www.sankeibiz.jp/express/news/150108/exf15010815250006-n1.htm|title =生きていれば何とかなる! 古田新太、高畑充希 舞台「いやおうなしに」（1/5ページ）|publisher=SANKEI EXPRESS|date=2015-01-08|accessdate=2015-01-14}}</ref>
+* 靑い種子は太陽のなかにある（2015年8月10日 - 9月13日、東京 / 大阪） - 北弓子 役<ref group="注">東京公演は[[Bunkamura]][[オーチャードホール]]、大阪公演は[[オリックス劇場]]で行われた。</ref><ref>{{Cite web|url= http://www.sponichi.co.jp/entertainment/news/2015/06/04/kiji/K20150604010477900.html |title= 高畑充希 蜷川作品への参加は「野望、まだピンと来ない」 |publisher= Sponichi Annex |date= 2015-06-04 |accessdate= 2015-06-04 }}</ref><ref>{{cite web|url =http://mdpr.jp/news/detail/1491849|title =高畑充希、KAT-TUN亀梨和也との共演に「がむしゃらにいきたい」|publisher=モデルプレス|date=2015-06-04|accessdate=2015-06-04}}</ref><ref>{{cite web|url =http://www.tvlife.jp/2015/06/04/37740|title =初の蜷川幸雄作品に亀梨和也＆高畑充希「助け合いながら2人で支え合う」|publisher=TV LIFE|date=2015-06-04|accessdate=2015-06-04}}</ref>
+* [[わたしは真悟#ミュージカル版|わたしは真悟]]（2016年12月2日 - 2017年1月26日） - 主演・山本真鈴 役<ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20160418-00000154-sph-ent|title =高畑充希、門脇麦が楳図かずお氏ミュージカルでＷ主演！|publisher=[[スポーツ報知]]|date=2016-04-19|accessdate=2016-04-19}}</ref><ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20160419-00000014-nksports-ent|title =高畑充希「わたしは真悟」門脇麦とＷ主演12月公演|publisher=[[日刊スポーツ]]|date=2016-04-19|accessdate=2016-04-19}}</ref><ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20160419-00000059-nataliec-ent|title =楳図かずお「わたしは真悟」が高畑充希＆門脇麦のW主演でミュージカル化|publisher=コミックナタリー|date=2016-04-19|accessdate=2016-04-19}}</ref>
+* エレクトラ（2017年4月14日 - 5月7日） - 主演・[[エーレクトラー|エレクトラ]] 役<ref>{{cite web|url = http://www.oricon.co.jp/news/2073846/full/?ref_cd=tw_pic|title =高畑充希、9年越し夢かなう 古典舞台初挑戦で白石加代子と共演|publisher=オリコンスタイル|date=2016-06-23|accessdate=2016-06-23}}</ref>
+* 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - 主演・アリエル役<ref>{{Cite web |url=https://natalie.mu/stage/news/252069|title=「リトル・マーメイド」フィルムコンサートに高畑充希、KREVA、ジャンポケ斉藤慎二|publisher=ステージナタリー|date=2017-10-10|accessdate=2018-03-13}}</ref>
+
+=== 映画 ===
+* 走れ!ケッタマシン ウエディング狂騒曲（2002年6月1日、ふるきゃらシネマ） - 谷川ミカ 役
+* [[ドルフィンブルー フジ、もういちど宙へ]]（2007年7月7日、[[松竹]]） - 玉城ミチル 役<ref name=cinemacafe>{{cite web|author =Cinema Cafe.net|url =http://www.cinemacafe.net/article/2007/03/23/1562.html|title =憧れの女優はイルカのフジ！松山ケンイチ、高畑充希、西山茉希『ドルフィンブルー フジ、もういちど宙へ』完成披露試写会|date=2007-03-23|accessdate =2013-10-01}}</ref>
+* [[書道ガールズ!! わたしたちの甲子園]]（2010年5月15日、[[ワーナー エンターテイメント ジャパン|ワーナー・ブラザース映画]]） - 好永清美 役
+* Lost Harmony（2011年12月3日、ゴー・シネマ） - 上村真紀 役
+* [[つやのよる#映画|つやのよる ある愛に関わった、女たちの物語]]（2013年1月26日、[[東映]]） - 女子大生 役
+* [[HK 変態仮面]]（2013年4月13日、[[ティ・ジョイ]]） - ワイドショーのレポーター 役
+* [[女子ーズ]]（2014年6月7日、[[キングレコード]]） - 黄川田ゆり 役<ref>{{cite web|url =http://www.cinemacafe.net/article/2014/04/16/22886.html|title =【予告編】桐谷美玲＆有村架純＆高畑充希が戦隊デビュー！ 最旬女優が怪人退治『女子ーズ』|publisher=映画.com|date=2014-04-16|accessdate=2015-07-16}}</ref>
+* [[アオハライド#映画|アオハライド]]（2014年12月13日、[[東宝]]） - 成海唯 役<ref>{{cite web|author =映画.com|url =http://eiga.com/news/20140415/3/|title =実写「アオハライド」主人公の恋のライバルに高畑充希＆千葉雄大|date=2014-04-15|accessdate=2014-04-22}}</ref>
+* [[バンクーバーの朝日]]（2014年12月20日、東宝） - エミー笠原 役<ref>{{cite web|author =テレビドカッチ|url =http://dogatch.jp/news/cx/24801|title =高畑充希、宮崎あおい、貫地谷しほりら映画『バンクーバーの朝日』追加キャストを発表!|date=2014-05-01|accessdate=2014-05-01}}</ref><ref>{{cite web|url =http://eiga.com/news/20141104/1/|title =「バンクーバーの朝日」ヒロイン・高畑充希に密着！　ハワイ日系移民の歴史を学ぶ|publisher=映画.com|date=2015-11-04|accessdate=2015-02-06}}</ref>
+** [[バンクーバーの朝日#関連作品・番組|メモリーズ・オブ・「バンクーバーの朝日」]]（2014年12月7日、[[日本映画専門チャンネル]]）<ref group="注">『[[バンクーバーの朝日]]』スピンオフムービー。オリジナルショートムービー・上映時間は13分。共演者（主演）：[[篠川桃音]]。</ref><ref>{{cite web|url =http://prw.kyodonews.jp/opn/release/201410315114/|title =日本映画衛星放送 石井裕也監督オリジナルショートムービー“メモリーズ・オブ・「バンクーバーの朝日」”独占放送!|publisher=共同通信PRワイヤー|date=2014-11-01|accessdate=2014-12-23}}</ref>
+* [[シンデレラ (2015年の映画)|シンデレラ]]（2015年4月25日、[[ウォルト・ディズニー・ジャパン|ウォルト・ディズニー・スタジオ・ジャパン]]） - 主演・[[シンデレラ (ディズニーキャラクター)|エラ]]（吹替）役<ref>{{cite web|url =http://www.cinematoday.jp/page/N0069660|title =高畑充希、『シンデレラ』で主演声優に!城田優は王子役でディズニー声優初挑戦!|publisher=シネマトゥデイ|date=2015-01-13|accessdate=2015-01-14}}</ref><ref>{{cite web|url =http://cinema.pia.co.jp/news/166700/60981/|title =高畑充希と城田優がディズニー実写映画『シンデレラ』日本語版キャストに!|publisher=ぴあ映画生活|date=2015-01-13|accessdate=2015-01-14}}</ref>
+*[[植物図鑑 (小説)#映画|植物図鑑 運命の恋、ひろいました]]（2016年6月4日、松竹） - 主演・河野さやか 役<ref>{{cite web|url =http://eiga.com/news/20150709/1/|title =岩田剛典＆高畑充希、映画初主演！有川浩「植物図鑑」を映画化|publisher=映画.com|date=2015-07-09|accessdate=2015-07-09}}</ref><ref>{{cite web|url =http://natalie.mu/music/news/153323|title =岩田剛典＆高畑充希W主演！有川浩のベストセラー恋愛小説映画化|publisher=音楽ナタリー|date=2015-07-09|accessdate=2015-07-09}}</ref><ref>{{cite web|url =http://mdpr.jp/cinema/detail/1500486|title =EXILE岩田剛典が“王子様”に「俺を拾って」 高畑充希とW主演で人気No.1恋愛小説映画化|publisher=モデルプレス|date=2015-07-09|accessdate=2015-07-09}}</ref><ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150708-00000154-spnannex-ent|title =三代目JSB岩田が映画初主演 女性ファン悲鳴？高畑充希と恋愛劇|publisher=スポニチアネックス|date=2015-07-09|accessdate=2015-07-09}}</ref>
+* [[怒り (小説)|怒り]]（2016年9月17日、東宝） - 薫 役<ref>{{cite news|url=http://eiga.com/news/20150820/1/|title=渡辺謙が森山未來が妻夫木聡が！日本映画界を代表するオールスターキャスト、李相日監督「怒り」に結集|publisher=映画.com|date=2015-08-20|accessdate=2015-09-30}}</ref><ref>{{cite news|url=http://headlines.yahoo.co.jp/hl?a=20150820-00000010-nksports-ent|title=渡辺謙主演映画「怒り」に妻夫木聡ら主役級ズラリ|publisher=日刊スポーツ|date=2015-08-20|accessdate=2015-09-30}}</ref>
+* [[アズミ・ハルコは行方不明#映画|アズミ・ハルコは行方不明]]（2016年12月3日、[[ファントム・フィルム]]） - 木南愛菜 役<ref>{{cite news|url=http://www.oricon.co.jp/news/2074473/full/?ref_cd=tw|title=高畑充希、松居大悟監督作に出演 難役に「なんとか乗り切れた」|publisher=ORICON STYLE|date=2016-07-04|accessdate=2016-07-04}}</ref><ref>{{cite news|url=http://natalie.mu/eiga/news/203922|title=高畑充希のキャバ嬢姿を捉えた「アズミ・ハルコは行方不明」場面写真が解禁|newspaper=映画ナタリー|date=2016-10-03|accessdate=2016-10-03}}</ref>
+* ひるね姫 〜知らないワタシの物語〜（2017年3月18日、シグナル・エムディ）- 主演・森川ココネ 役（声の出演）
+*[[泥棒役者#映画|泥棒役者]]（2017年11月18日、[[ショウゲート]]） - 藤岡美沙 役<ref>{{Cite news|url= http://eiga.com/news/20170220/11/ |title= 丸山隆平主演「泥棒役者」に市村正親、高畑充希、石橋杏奈ら豪華キャスト結集 |newspaper= 映画.com |publisher= 株式会社エイガ・ドット・コム |date= 2017-02-20 |accessdate= 2017-02-20 }}</ref><ref>{{cite web|url =http://www.cinemacafe.net/article/2017/02/20/47200.html|title =高畑充希、関ジャニ・丸山隆平の恋人に！ 市村正親ら豪華キャスト発表『泥棒役者』 |publisher=シネマカフェ|date=2017-02-20|accessdate=2017-02-20}}</ref>
+*[[鎌倉ものがたり#映画|DESTINY 鎌倉ものがたり]]（2017年12月9日、東宝） - 一色亜紀子 役<ref>{{cite web|url =http://www.sanspo.com/smp/geino/news/20170201/geo17020105050012-s.html|title = 大河と朝ドラの顔が新婚夫婦！堺雅人＆高畑充希で謎解きミステリー |publisher=サンスポ|date=2017-02-01|accessdate=2017-02-01}}</ref><ref>{{cite web|url = https://www.daily.co.jp/gossip/2017/02/01/0009877108.shtml |title =「真田丸」堺雅人、「とと姉」高畑充希、「ALWAYS」山崎監督タッグで新作映画 |publisher=デイリースポーツ|date=2017-02-01|accessdate=2017-02-01}}</ref>
+
+=== テレビドラマ ===
+* [[3年B組金八先生]]（[[TBSテレビ|TBS]]） - [[3年B組金八先生の生徒一覧#平成19年度卒業生|田口彩華]] 役
+** [[3年B組金八先生#第8シリーズ（2007年 - 2008年）|第8シリーズ]]（2007年10月11日 - 2008年3月20日）
+** [[3年B組金八先生#ファイナル（2011年）|ファイナル〜「最後の贈る言葉」]]（2011年3月27日）
+* [[ナツコイ]]（2008年6月30日 - 8月29日、[[MBSテレビ|MBS]]） - 後藤なつき 役<ref>{{cite web|url =http://www.oricon.co.jp/news/54509/full/|title =『ドラマ30』通算100作目、『ナツコイ』ヒロイン枠に高畑充希抜擢|publisher=ORICON STYLE (オリコン)|date=2008-05-12|accessdate=2015-07-16}}</ref>
+* [[夫婦道|夫婦道 第2シリーズ]] 第10話 - 最終話（2009年6月17日 - 24日、TBS） - 吉永リカ 役
+* [[Q10]]（2010年10月16日 - 12月11日、[[日本テレビ放送網|日本テレビ]]） - 河合恵美子 役
+* [[卒業ホームラン#テレビドラマ|卒業ホームラン]]（2011年3月23日、[[テレビ東京]]） - 井上美奈子 役
+* [[絶対零度〜未解決事件特命捜査〜#絶対零度 〜未解決事件特命捜査〜 Special|絶対零度〜未解決事件特命捜査〜 Special]]（2011年7月8日、[[フジテレビジョン|フジテレビ]]） - 野沢咲 役
+* [[連続テレビ小説]]（[[日本放送協会|NHK]]）
+** [[ごちそうさん (2013年のテレビドラマ)|ごちそうさん]] 第6週 - 最終週（2013年11月4日 - 2014年3月29日） - 川久保（西門）希子 役
+*** [[ごちそうさん (2013年のテレビドラマ)#スピンオフ|ごちそうさんっていわしたい!]]（2014年4月19日、[[NHK BSプレミアム]]）
+*** 朝ドラ同窓会[[ごちそうさん (2013年のテレビドラマ)|ごちそうさん]]（2016年9月24日、NHK BSプレミアム）
+** [[とと姉ちゃん]]（2016年4月4日 - 10月1日） - 主演・[[大橋鎭子|小橋常子]] 役<ref>{{cite web|url =http://www.nikkansports.com/entertainment/news/1527494.html|title =高畑充希が朝ドラヒロイン 来春「とと姉ちゃん」|publisher=日刊スポーツ|date=2015-08-24|accessdate=2015-08-24}}</ref><ref>{{Cite news |title=高畑充希が朝ドラ主演「おやじヒロインにビビッ」 |newspaper=日刊スポーツ |date=2015-08-31 |url=http://www.nikkansports.com/entertainment/news/1531269.html |accessdate=2015-09-01}}</ref><ref>{{Cite web |date=2015-08-31 |url=http://www.nhk.or.jp/dramatopics-blog/1000/226251.html |title=高畑充希さんがヒロイン！平成28年度前期 連続テレビ小説「とと姉ちゃん」 |publisher=日本放送協会 |accessdate=2015-09-01}}</ref>
+*** [[とと姉ちゃん#スピンオフドラマ|とと姉ちゃんもう一つの物語『福助人形の秘密』]]（2016年11月19日、NHK BSプレミアム）<ref>{{cite web|url =http://www.sponichi.co.jp/entertainment/news/2016/09/21/kiji/K20160921013397080.html|title =「とと姉ちゃん」スピンオフ11月放送決定 戦後の森田屋が舞台|publisher=スポーツニッポン|date=2016-09-21|accessdate=2016-09-22}}</ref>
+* [[ウレロ☆未確認少女#ウレロ☆未体験少女|ウレロ☆未体験少女]] 第12話（2014年3月28日、テレビ東京） - 高畑充希 役
+* [[奇跡の教室]]（2014年6月28日、日本テレビ） - 正田レイコ 役
+* [[あすなろ三三七拍子#テレビドラマ|あすなろ三三七拍子]]（2014年7月15日 - 9月9日、フジテレビ） - 葉月玲奈 役
+* [[大河ドラマ]] [[軍師官兵衛]] 第30話 - 第47話（2014年7月27日 - 11月23日、NHK） - [[糸姫|糸]] 役<ref>{{cite web|author =スポーツ報知|url =http://www.hochi.co.jp/entertainment/20140516-OHT1T50329.html|title =高畑充希「官兵衛」で初時代劇、黒田長政の妻・糸|date=2014-05-17|accessdate=2014-05-29}}</ref>
+* [[東京センチメンタル]]（テレビ東京） - 須藤あかね 役
+**単発スペシャル（2014年12月30日）<ref>{{cite web|url =http://thetv.jp/news_detail/51804/|title =吉田鋼太郎がバツ3男を演じる!「東京センチメンタル」放送決定|publisher=webザテレビジョン|date=2014-10-28|accessdate =2014-12-03}}</ref><ref>{{Cite news|url=http://thetv.jp/news_detail/52294/|title=吉田鋼太郎の恋の相手は高岡早紀! 「罪な男なんでしょうね」|date=2014-11-12|accessdate=2014-11-13|work=webザテレビジョン}}</ref>
+**[[ドラマ24]]（2016年1月15日 - 4月8日）<ref>{{Cite web | url=http://headlines.yahoo.co.jp/hl?a=20151008-00004940-cinranet-movi|title=吉田鋼太郎がバツ3の和菓子職人に、高畑充希、片桐仁らと共演|date=2015-10-08|accessdate=2015-10-08}}</ref><ref>{{cite web|url =http://www.cinra.net/news/20151008-tokyosentimental|title =吉田鋼太郎がバツ3の和菓子職人に、高畑充希、片桐仁らと共演|publisher=cinra.net|date=2015-10-08|accessdate =2015-10-08}}</ref>
+**単発スペシャル（2017年1月3日）<ref>{{cite web|url =http://news.ameba.jp/20161010-142/|title =吉田鋼太郎、高畑充希が再び現代版寅さんで共演！|publisher= Smartザテレビジョン|date=2016-10-10|accessdate =2016-10-25}}</ref>
+* [[問題のあるレストラン]]（2015年1月15日 - 3月19日、フジテレビ） - 川奈藍里 役<ref>{{Cite news|url=http://headlines.yahoo.co.jp/hl?a=20141121-00000313-oric-ent|title=真木よう子、坂元裕二脚本ドラマに主演　東出、二階堂、高畑、杉本らが共演|date=2014-11-21|accessdate=2014-11-21|work=オリコンスタイル}}</ref><ref>{{cite web|url =http://mdpr.jp/news/detail/1458623|title =高畑充希、東出昌大との再共演で「心が折れる」 恋愛依存症役に苦戦|publisher=モデルプレス|date=2015-01-07|accessdate=2015-01-14}}</ref>
+* [[煙霞#テレビドラマ|煙霞 〜Gold Rush〜]]（2015年7月18日 - 8月8日、[[WOWOW]]） - 正木菜穂子 役<ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150425-00000001-cine-movi|title =森山未來＆高畑充希、オール関西キャストで直木賞原作をドラマ化「煙霞 -Gold Rush-」|publisher=cinemacafe.net|date=2015-04-25|accessdate=2015-04-25}}</ref><ref>{{cite web|url =http://www.cinematoday.jp/page/N0072773|title =森山未來、帰国後初ドラマ！高畑充希らオール関西キャストと共演|publisher=シネマトゥデイ|date=2015-04-25|accessdate=2015-04-25}}</ref><ref>{{cite web|url =http://www.cinra.net/news/20150425-enka|title =森山未來×高畑充希が関西で金塊争奪戦、黒川博行原作ドラマ『煙霞』|publisher=CINRA.NET|date=2015-04-25|accessdate=2015-04-25}}</ref><ref>{{cite web|url =http://news.ameba.jp/20150425-60/|title =高畑充希がヒロイン！WOWOWドラマ「煙霞 -Gold Rush-」の詳細が解禁|publisher=GirlsNews|date=2015-04-25|accessdate=2015-04-25}}</ref>
+* [[いつかこの恋を思い出してきっと泣いてしまう]]（2016年1月18日 - 3月21日、フジテレビ） - 日向木穂子 役<ref>{{cite web|url =http://www.nikkansports.com/entertainment/news/1571271.html|title =高畑充希が月９出演　「とと姉ちゃん」と二足わらじ|publisher=[[日刊スポーツ]]|date=2015-11-26|accessdate=2015-11-26}}</ref><ref>{{cite web|url =http://www.sanspo.com/geino/news/20151126/geo15112605040015-n1.html|title =次期朝ドラコンビ高畑充希＆坂口健太郎、「月９」で先取り共演|publisher=[[サンケイスポーツ]]|date=2015-11-26|accessdate=2015-11-26}}</ref>
+* [[過保護のカホコ]]（2017年7月12日 - 9月13日、日本テレビ） - 主演・根本加穂子 役<ref name="hochi20170605"/>
+* [[忘却のサチコ]]（2018年1月2日、テレビ東京） - 主演・佐々木幸子 役<ref>{{cite web|url =http://eiga.com/news/20171205/4/|title =高畑充希、挙式当日に新郎に逃げられる“鉄の女”役！テレ東「忘却のサチコ」で主演|publisher=[[映画.com]]|date=2017-12-05|accessdate=2017-12-05}}</ref>
+
+=== 音楽番組 ===
+* [[歌謡チャリティーコンサート]]（[[NHK総合テレビジョン|NHK総合]]）
+** （2013年4月30日）<ref group="注">「[[星めぐりの歌]]」歌唱(この時のライヴ音源が、アルバム『PLAY LIST』に収録されている)。</ref> 
+** （2014年4月29日）<ref group="注">「[[いい日旅立ち]]」歌唱。</ref>
+* [[NHK歌謡コンサート]]（NHK総合）
+** （2014年4月1日）<ref group="注">「[[木蘭の涙]]」歌唱。</ref>
+** （2014年9月9日）<ref group="注">「[[上を向いて歩こう]]」歌唱。</ref>
+* [[ミュージックステーション]]（[[テレビ朝日]]）
+** （2015年5月15日）<ref group="注">「[[夢はひそかに]]」歌唱([[城田優]]とのDuet version)。</ref><ref>{{cite web|author =テレビ朝日|url =http://www.tv-asahi.co.jp/music/contents/m_lineup/1207/index2.html|title =出演者ラインアップ|date=2015-05-08|accessdate=2015-05-08}}</ref>
+* [[思い出のメロディー|第48回思い出のメロディー]]（2016年8月27日、NHK総合） - 司会<ref>{{cite web|url =http://www.sanspo.com/smp/geino/news/20160708/geo16070805040014-s.html|title =大みそかに大役あるぞ！高畑充希、夏の紅白司会に抜てき|publisher=サンケイスポーツ|date=2016-07-08|accessdate=2016-07-08}}</ref>
+* [[第67回NHK紅白歌合戦]]（2016年12月31日、NHK総合） - ゲスト審査員<ref>{{Cite web|url= http://www.oricon.co.jp/news/2083406/full/ |title= 紅白審査員に新垣結衣、高畑充希ら リオ五輪メダリストや大谷翔平選手も|publisher= オリコンスタイル |date= 2016-12-21 |accessdate= 2016-12-25 }}</ref>
+* [[おげんさんといっしょ]]（2017年5月4日、NHK総合） - お父さん 役<ref>{{Cite web|url= http://www4.nhk.or.jp/ogensan/21/  |title= おげんさんといっしょ 出演者|publisher= NHK |date= 2017-12-28 |accessdate= 2017-4-30 }}</ref><ref>{{Cite web|url=http://natalie.mu/music/news/230934|title=星野源「おげんさん」の旦那は高畑充希、その子供に細野晴臣と藤井隆が|publisher=音楽ナタリー|date=2017-04-30|accessdate=2017-05-05}}</ref>
+
+=== バラエティー番組 ===
+<!--レギュラー番組のみ記載-->
+* [[未来ロケット]]（2014年4月18日 - 2015年3月20日、フジテレビ） - 司会兼応援マネジャー<ref group="注">2015年1月31日・2月7日放送分は舞台 「いやおうなしに」出演のため欠席。代理として事務所の先輩にあたる[[木南晴夏]]が出演。2015年2月28日・3月7日放送分も、同作品出演のため欠席。1月31日・2月28日の放送時は、「欠席理由」を述べるため、番組冒頭にVTRで登場。</ref><ref name=oricon20140414/>
+
+=== 特別番組 ===
+* [[7daysTV|7daysTV かぞくって、なんだ。]]（2017年5月22日 - 28日、日本テレビ）- メインパーソナリティー<ref group="注">番組名はキャンペーン企画の総称。</ref><ref>{{Cite web|url= http://www.nikkansports.com/entertainment/news/1799133.html |title= 高畑充希、日テレ企画メインパーソナリティー抜てき |publisher= 日刊スポーツ |date= 2017-03-29 |accessdate= 2017-03-29 }}</ref>
+
+=== テレビアニメ ===
+* [[カルルとふしぎな塔]]（2010年10月8日 - 2011年4月8日、[[キッズステーション]]） - 主演・カルル 役<ref>{{cite web|author =映画.com|url =http://eiga.com/news/20100810/5/|title =高畑充希が声優初主演 新アニメ「カルルのふしぎな塔」|date=2010-10-08|accessdate =2013-10-01}}</ref>
+* 花は咲く 東北に咲く（2014年9月8日 - NHK総合） - ざしきわらし 役<ref>{{cite web|author =オリコンスタイル|url =http://www.oricon.co.jp/news/2041291/full/|title =高畑充希、復興支援ソング「花は咲く」歌う|date=2014-08-23|accessdate =2014-09-15}}</ref>
+
+=== 劇場アニメ ===
+* [[ルイスと未来泥棒]]（2007年12月22日） - リジー 役
+* [[ひるね姫 〜知らないワタシの物語〜]]（2017年3月18日） - 主演・森川ココネ 役<ref>{{Cite web |date=2016-05-17|url=http://www.oricon.co.jp/news/2071787/full/ |title=高畑充希、神山健治監督最新作で主人公声優 岡山弁に挑戦|work=ORICON STYLE |publisher=[[オリコン#企業グループ|株式会社oricon ME]] |accessdate=2016-05-17}}</ref><ref>{{cite web|url =http://m.crank-in.net/game_animation/news/44212|title =神山健治最新作『ひるね姫』2017年3月公開！ 高畑充希演じるヒロインビジュアル解禁|publisher=クランクイン！|date=2016-07-12|accessdate=2016-07-12}}</ref>
+
+=== ラジオドラマ ===
+* LOVE=Platinum 恋愛パズル piece.11 「彼女の場合」（2010年9月10日、[[エフエム東京|TOKYO FM]]） - 珠樹 役
+* [[FMシアター]] ヒッチハイク（2011年4月9日、[[NHK-FM放送|NHK-FM]]） - 主演・美奈子 役
+
+=== ウェブドラマ・ムービー ===
+* [http://www.horibeyasu.be/ タイムスリップ! 堀部安兵衛]（2014年9月11日<!--web公開日-->、[[三井不動産レジデンシャル]]） - 吉良裕子 役<ref group="注">三井不動産レジデンシャル製作企業PRWEB映画</ref><ref>{{cite web|author =映画.com|url =http://eiga.com/news/20140911/17/|title =大森南朋、現代にタイムスリップした堀部安兵衛に!まげにスーツも「すぐなじんだ」!|date=2014-09-11|accessdate =2014-09-15}}</ref><ref>{{cite web|author =マイナビニュース|url =http://news.mynavi.jp/news/2014/09/12/127/|title =高畑充希、共演した大森南朋は「笑顔が家の飼い犬に似てる!|date=2014-09-12|accessdate =2014-09-15}}</ref>
+
+=== CM ===
+* [[チョーヤ梅酒]] 酔わないウメッシュ（2014年4月 - ）<ref>{{cite web|author =deview|url =http://deview.co.jp/News?am_article_id=2036556|title =高畑充希、『酔わないウメッシュ』新キャラクターに決定。|date=2014-04-21|accessdate=2014-04-22}}</ref>
+* [[NTTファシリティーズ]]（2014年6月 - ）<ref>{{cite web|author =NTTファシリティーズ|url =https://www.ntt-f.co.jp/profile/ad/gallery/|title =CMギャラリー|date=2014-06-24|accessdate=2014-06-24}}</ref>
+* [[ACジャパン]] ナレーション（2014年7月 - ）
+* [[三井不動産レジデンシャル]]
+** 「タイムスリップ！堀部安兵衛」篇（2014年9月 - ）
+** 「三井に住んでいます」篇（2015年6月 - ）
+* [[ライオン (企業)|ライオン]] 
+**[[バファリン]]ルナi<ref>{{cite web|author =ライオン|url =http://www.lion.co.jp/ja/company/press/2015/1423|title =企業情報|date=2015-04-28|accessdate=2015-04-30}}</ref>
+*** 「痛いと私は…」篇（2015年5月 - ）
+*** 「知らなかった」篇（2015年5月 - ）
+**バファリンEX<ref>{{cite web|url =http://navicon.jp/news/36045/|title =ライオン、北大路欣也、由紀さおり、生瀬勝久、鈴木砂羽、高畑充希が“痛い家族”を演じる「バファリンEX」TVCMを公開|publisher= ナビコン |date=2016-03-19|accessdate=2016-04-13}}</ref>
+*** 「痛い家族」篇（2016年3月 - ）
+* [[NTTドコモ]]<ref>{{cite web|url =http://mantan-web.jp/2015/05/13/20150513dog00m200021000c.html|title =堤真一：男の色気は「加齢臭」？　綾野剛、高畑充希とドコモの新CMキャラに|publisher=MANTANWEB|date=2015-05-13|accessdate=2015-05-13}}</ref>
+**得ダネを追え！シリーズ
+***「U25応援割」篇（2015年6月 - ）<ref>{{cite web|url =http://www.oricon.co.jp/news/2054187/full/?anc=137|title =高畑充希が新米記者に 先輩の堤&綾野を強力サポート|publisher=ORICON STYLE|date=2015-06-12|accessdate=2015-06-12}}</ref>
+***「家族まとめて割」篇（2015年6月 - ）<ref>{{cite web|url =http://www.oricon.co.jp/news/2054187/full/?anc=137|title =高畑充希が新米記者に 先輩の堤&綾野を強力サポート|publisher=ORICON STYLE|date=2015-06-12|accessdate=2015-06-12}}</ref>
+***「シニアはじめてスマホ割」篇（2015年8月 - ）<ref>{{cite web|url =http://www.daily.co.jp/gossip/2015/08/29/0008346503.shtml|title =堤真一、熱い思い込め「代打、川藤」|publisher=デイリースポーツ|date=2015-08-29|accessdate=2015-08-29}}</ref>
+*** 「永遠に光」篇（2015年11月 - ）
+*** 「ズンドコモ節」篇（2016年2月 - ）<ref>{{cite web|url =http://jiyuzine.com/cm/post_1431/|title =ズンドコモ光「ズンドコ節の替え歌」熱唱する高畑充希に堤真一がラブコール|publisher=時遊zine|date=2016-02-06|accessdate=2016-02-07}}</ref>
+*** 「斎藤さんゲーム」篇（2016年2月 - ）
+***「ずっとドコモ割 結婚式」篇（2016年6月 - ）<ref>{{cite web|url =http://prw.kyodonews.jp/opn/release/201605311176/|title =綾野剛記者と近藤春菜さんが結婚！？新TVCM 『ずっとドコモ割「結婚式」篇』放送開始|publisher=共同通信PRワイヤー|date=2016-06-01|accessdate=2016-09-14}}</ref>
+***「はじめてスマホ割 ケータイへの感謝」篇（2016年9月 - ）
+***「みつきのほんき」篇（2017年6月 - ）<ref>{{cite web|url =https://www.nikkansports.com/m/entertainment/news/1847678_m.html?mode=all|title =ブルゾン高畑充希？新ＣＭで美脚キャリアウーマン|publisher=日刊スポーツ|date=2016-06-29|accessdate=2017-07-01}}</ref>
+* [[かんぽ生命保険]]
+** 「それは人生、わたしの人生」篇（2016年3月 - ）<ref>{{cite web|url =http://japan.cnet.com/release/30135074/|title =主演　高畑充希／音楽　椎名林檎　企業広告『人生は、夢だらけ。』 新シリーズ、始動。|publisher=共同通信PRワイヤー|date=2016-02-29|accessdate=2016-02-29}}</ref><ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20160229-00005823-cinranet-musi|title =椎名林檎がオリジナル曲を提供、高畑充希が歌って踊るかんぽ生命CM|publisher=CINRA.NET|date=2016-02-29|accessdate=2016-02-29}}</ref>
+** 「つぎは、何くる?」篇（2016年9月 - ）<ref>{{cite web|url =http://prw.kyodonews.jp/opn/release/201608313772/|title =主演　高畑充希／音楽 椎名林檎　企業広告『人生は、夢だらけ。』 第二弾スタート　9月1日(木)放送開始|publisher=共同通信PRワイヤー|date=2016-08-31|accessdate=2016-09-01}}</ref>
+** 「子どもたちが見ているこの国の未来」篇（2017年3月 - ）<ref>{{Cite web|url=http://www.hochi.co.jp/entertainment/20170228-OHT1T50141.html|title=高畑充希「子供の頃持っていたワクワクを取り戻せる」新ＣＭで幼少期懐かしむ|publisher= スポーツ報知 |date=2017-03-01|accessdate=2017-03-01}}</ref>
+* ダリ展 東京展（2016年8月 - ）<ref>{{cite web|author =モデルプレス|url =http://news.biglobe.ne.jp/entertainment/0825/mod_160825_8014037641.html|title =高畑充希“つけヒゲ”姿で応援「とても興奮しています」 |date=2016-08-25|accessdate=2016-09-01}}</ref>
+* [[富士フイルム]] 
+**スキンケアシリーズ  アスタリフト<ref>{{cite web|author =まんたんウェブ|url =http://m.mantan-web.jp/article/20160830dog00m200016000c.html|title =高畑充希：松田聖子＆松たか子と美肌“競演”|date=2016-08-30|accessdate=2016-09-01}}</ref>
+*** 「新発想・ジェリー」篇（2016年9月 - ）
+*** 「新事実・ローション」篇（2016年9月 - ）
+* [[ダイハツ工業]]
+**[[ダイハツ・ムーヴキャンバス|ムーヴキャンバス]]<ref>{{cite web|url =http://www.sponichi.co.jp/entertainment/news/2016/09/07/kiji/K20160907013312420.html|title =高畑充希、自分磨きに投資「お金を惜しみなく使っている」|publisher=スポニチ|date=2016-09-07|accessdate=2016-09-07}}</ref>
+*** 「車内も充実」篇（2016年9月 - ）
+*** 「パノラマモニター」篇（2016年9月 - ）
+*** 「LEDヘッドランプ」篇（2016年9月 - ）
+*** 「置きラクレイアウト」篇（2016年12月 - ）
+* [[日本中央競馬会|JRA]]
+**「HOT HOLIDAYS！」（2017年1月 - ）<ref>{{cite web|author =日刊スポーツ|url = http://www.nikkansports.com/m/entertainment/news/1757375_m.html |title =ＪＲＡ新ＣＭに松坂桃李、柳楽優弥、充希＆太鳳も|date=2016-12-02|accessdate =2016-12-27}}</ref>
+*** 「何も知らない」篇（[[フェブラリーステークス]]）
+*** 「どれがレース？」篇（[[大阪杯]]）
+*** 「次から次へと」篇（[[天皇賞|天皇賞（春）]]）
+*** 「おまつり」篇（[[東京優駿|日本ダービー]]）
+*** 「てっきり」篇（[[宝塚記念]]）
+*** 「春」篇
+*** 「ウマジョ、の日」篇（UMAJO）
+*** 「十場十色」篇（夏競馬）
+*** 「自分ならどうする？」篇（[[スプリンターズステークス]]）
+*** 「ウマジョ、の日2」篇<ref>{{cite news|url=https://thetv.jp/news/detail/121486/|title=高畑充希あぜん…土屋太鳳の勘違い馬券が的中！|newspaper=ザテレビジョン|date=2017-09-15|accessdate=2017-09-15}}</ref>（UMAJO）
+*** 「コーディネート？」篇（[[菊花賞]]）
+*** 「なげーーー！」篇（天皇賞（秋））
+*** 「女子のみ」篇（[[エリザベス女王杯]]）
+*** 「背負うもの」篇（[[ジャパンカップ]]）
+*** 「クリスマスイブ」篇（[[有馬記念]]）
+*** 「あります」篇（[[ホープフルステークス (中央競馬)|ホープフルステークス]]）
+*** 「撮ってよ！」篇（#みんホリ）
+* [[江崎グリコ]] 
+**牧場しぼり<ref>{{cite web|author =PR TIMES|url =https://prtimes.jp/main/html/rd/p/000000054.000001124.html|title =しぼって3日以内のミルク使用！牧場しぼり「濃厚バニラ」が美味しくリニューアル　　アイス大好きな高畑充希さんを新CMキャラクターに起用|date=2017-03-23|accessdate=2017-03-23}}</ref>
+*** 「新鮮アイス」篇（2017年4月 - ）
+* [[パナソニック]]（2017年5月22日 - 5月28日）<ref>[https://twitter.com/cj2699n5jh5l/status/866564304606068736 @Panasonic_cp]（2017年5月22日）</ref>
+* [[サントリー]] 
+**オールフリー<ref>{{cite web|author =日刊スポーツ|url =https://www.nikkansports.com/entertainment/news/1844165.html|title =高畑充希　氷のジョッキに「たまんなかった」|date=2017-06-22|accessdate=2017-06-22}}</ref>
+*** 「氷でキンキン」篇（2017年6月 - ）
+*** 「ずっとキンキンジョッキ」篇（2017年6月 - ）
+* [[三菱地所]]
+**新しい匂いのする街
+*** 「はじめての丸の内」篇（2018年3月 - ）
+
+=== 広告 ===
+* [[宣伝会議]] コピーライター養成講座ポスター（2013年）
+* [[建設業労働災害防止協会]] 全国安全週間ポスター（2014年）<ref>{{Cite press release |title=平成26年度全国安全週間実施要領 |publisher=建設業労働災害防止協会 |date=2014-06-01 |url=http://www.kensaibou.or.jp/activity/publicity_work/against_prevention/pdf/safety_week_26.pdf |accessdate=2015-06-05}}</ref>
+* [[学情|あさがくナビ]] イメージキャラクター（2015年 - 2016年）<ref>{{Cite press release |title=「あさがくナビ（朝日学情ナビ）」イメージキャラクター選定のお知らせ
+ |publisher=株式会社学情 |date= 2014-12-08 |url= http://company.gakujo.ne.jp/dl/gj-14.12.08-ir02.pdf |accessdate= 2015-06-05}}</ref><ref>{{Cite web|url= http://www.gakujo.ne.jp/2016/contents/special/index.html |title= 朝日学情ナビ2016【あさがくナビ】就職活動応援スペシャルサイト |publisher= 株式会社学情 |date= |accessdate= 2015-06-05 }}</ref>
+
+=== PV ===
+* [[川嶋あい]] 「[[幸せですか/スーツケース|幸せですか]]」（2007年10月3日）
+* [[竹内まりや]] 「[[元気を出して]]」（2008年10月1日）
+* [[クリープハイプ]] 「[[寝癖 (クリープハイプの曲)|寝癖]]」（2014年5月7日）<ref>[http://www.daily.co.jp/gossip/2014/05/06/0006935920.shtml 高畑充希 かわいすぎるスッピン披露]（2014年5月6日 デイリースポーツ）、2014年12月8日閲覧</ref>
+* [[星野源]] 「[[Family Song]]」（2017年7月31日）
+
+=== ナレーション ===
+* ドラマチック関西「最期のラブレター 〜手紙が紡ぐ家族の日々〜」（2014年6月20日、NHK総合）
+* [[東日本大震災を扱ったNHKスペシャル|NHKスペシャル「命と向きあう教室〜被災地の15歳・1年の記録〜」]]（2015年3月29日、NHK総合）
+* [[SONGS (テレビ番組) |SONGS]]「コブクロ 初めての告白 二人の10年」（2016年6月16日、NHK総合）
+* SONGS「SONGSスペシャル 宇多田ヒカル」（2016年9月22日、NHK総合）<ref>{{cite web|url =http://www.cinra.net/news/20160905-utadahikaru|title =宇多田ヒカルが5年半ぶりテレビ出演、『SONGS』『NEWS ZERO』など|publisher=cinra.net|date=2016-09-05|accessdate=2016-09-05}}</ref>
+
+=== ラジオ ===
+* [[マイ プレイリスト Love for Japan 〜kizashi〜]]（2014年12月21日、[[ニッポン放送]]）
+
+== 音楽 ==
+=== シングル（みつき名義） ===
+# [[大切なもの (みつきの曲)|大切なもの]]（2007年6月20日）デビューシングル [[小渕健太郎]]（[[コブクロ]]）プロデュース
+# [[瞳ひらいて]]（2007年11月28日） [[川嶋あい]]プロデュース
+# [[夏のモンタージュ]]（2008年7月30日） [[竹内まりや]]作詞・作曲
+
+=== シングル（高畑充希名義） ===
+# [[わかれうた|ホームにて]]（2015年1月4日）※配信限定。
+#* [[中島みゆき]]の同タイトル曲のカバー。[[KOBUDO -古武道-]]とのコラボレーション。2015年1月4日に放送されたTBS系『[[わが家|新春ドラマ特別企画 わが家]]』主題歌<ref>[http://headlines.yahoo.co.jp/hl?a=20141201-00000302-oric-ent 高畑充希、向井理ドラマ主題歌　中島みゆき名曲カバーに「大役、光栄」]（2014年12月1日、オリコン）、2014年12月1日閲覧。</ref><ref>[http://headlines.yahoo.co.jp/hl?a=20141201-00000002-spnannex-ent 高畑充希 中島みゆき名曲カバー！透明感＆表現力買われ起用]（2014年12月1日、スポニチアネックス）、2014年12月1日閲覧。</ref>。
+
+=== アルバム（みつき名義） ===
+# [[COLOR (みつきのアルバム)|COLOR]]（2008年9月3日）
+
+=== アルバム（高畑充希名義） ===
+# [[PLAY LIST]]（2014年3月26日）
+
+=== 参加作品 ===
+* 焼氷有り{{JIS2004フォント|&#12348;}}の唄（やきごおりありますのうた）（西門希子名義、2013年12月4日発売『[[ゴチソウノォト|連続テレビ小説「ごちそうさん」オリジナル・サウンドトラック ゴチソウノォト]]』および『PLAY LIST』に収録）
+* いちごの唄〜源太出征の日（西門希子名義、2014年4月9日発売『[[ゴチソウノォト おかわり|連続テレビ小説「ごちそうさん」オリジナル・サウンドトラック ゴチソウノォト おかわり]]』に収録）
+* [[蘇州夜曲]]（西門希子名義、2014年4月9日発売『連続テレビ小説「ごちそうさん」オリジナル・サウンドトラック ゴチソウノォト おかわり』に収録）
+* 夏のモンタージュ（竹内まりやが高畑に楽曲提供した「夏のモンタージュ」の[[セルフカバー]]盤に[[コーラス (ポピュラー音楽)|コーラス]]として参加、2014年9月10日発売『[[TRAD]]』に収録）
+* [[私を野球に連れてって|Take Me Out To The Ball Game]]（高畑充希名義、2014年12月17日発売『バンクーバーの朝日 オリジナル・サウンドトラック』に収録）
+* [[花は咲く]]（高畑充希名義、2015年3月4日発売『NHK「明日へ」東日本大震災復興支援ソング「花は咲く」コンピレーションアルバム ハナハサク』に収録）<ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150205-00025676-exp-musi|title =菅野よう子 東日本大震災復興支援ソング「花は咲く」コンピ発売決定 高畑充希/西田敏行/イル・ディーヴォ/AKB48など全16ver収録|publisher=Billboard Japan|date=2015-02-05|accessdate=2015-02-05}}</ref>
+* [[夢はひそかに]]（高畑充希名義、[[城田優]]との[[デュエット]]バージョン、映画『[[シンデレラ (2015年の映画)|シンデレラ]]』日本版エンドソング、2015年4月22日発売『シンデレラ オリジナル・サウンドトラック』に収録）<ref>{{cite web|url =http://headlines.yahoo.co.jp/hl?a=20150310-00000002-modelpn-life|title =高畑充希＆城田優、ディズニー実写版「シンデレラ」日本版エンドソングに抜擢 世界唯一のデュエットバージョンに挑戦|publisher=モデルプレス|date=2015-03-10|accessdate=2015-03-10}}</ref><ref>{{cite web|url =http://www.cinematoday.jp/page/N0071365|title =『シンデレラ』高畑充希＆城田優のラブソングが初公開！男女デュエットは世界で日本のみ|publisher=シネマトゥデイ|date=2015-03-10|accessdate=2015-03-10}}</ref><ref>[http://www.disney.co.jp/music/soundtrack/AVCW-63083B.html Disney musicサイト内のサウンドトラック情報]</ref>
+* [[デイドリーム (モンキーズの曲)#タイマーズ盤|デイ・ドリーム・ビリーバー]]（森川ココネ名義、劇場アニメ『[[ひるね姫 〜知らないワタシの物語〜]]』主題歌、2017年3月15日発売『ひるね姫～知らないワタシの物語～ オリジナル・サウンドトラック』に収録）
+* [[何日君再来]]（高畑充希名義、映画『[[いつまた、君と ～何日君再来～]]』主題歌）<ref>{{cite web|url =http://eiga.com/news/20170309/1/|title =「いつまた、君と」主題歌は高畑充希！「何日君再来」日本語版を披露|publisher=映画.com|date=2017-03-09|accessdate=2017-03-19}}</ref>
+
+===ライヴ===
+* 10th Anniversary Premium Live<ref>{{cite web|url =http://natalie.mu/music/news/149005|title =デビュー10周年の高畑充希、ビルボードで初ワンマンライブ|publisher=音楽ナタリー|date=2015-06-01|accessdate=2015-06-04}}</ref>
+** [[阪神コンテンツリンク#ビルボードライブ|Billboard Live]] OSAKA（2015年12月26日）
+** Billboard Live TOKYO（2015年12月28日）
+
+== 書籍・各種作品等 ==
+=== 雑誌連載 ===
+* [[MAQUIA]]「高畑充希のCinemaScrap」（2014年11月号 - 、[[集英社]]）
+* [[宝島社#出版雑誌一覧|リンネル]]「高畑充希の手しごとコトコト」（2015年7月号 - 、[[宝島社]]）
+
+=== 写真集 ===
+* 高畑充希写真集「神楽坂」
+（2012年1月1日、ホリプロ）
+* 高畑充希写真集「神楽坂」（新装版）（2016年6月24日、ホリプロ）
+* 高畑充希写真集「ユメクイサバク」
+（2016年12月22日発売、宝島社）
+
+=== デジタル写真+ムービー作品集 ===
+* 高畑充希「神楽坂四丁目」（2011年11月15日、irri撮影、ファンプラス・GザテレビジョンPLUS配信）
+
+=== カレンダー ===
+* 高畑充希2015カレンダー（2014年10月29日、ハゴロモ）
+* 高畑充希2016カレンダー（2015年11月20日、ハゴロモ）
+* 高畑充希2017カレンダー（2016年11月16日、ハゴロモ）
+
+== 脚注 ==
+=== 注釈 ===
+{{Reflist|group="注"}}
+
+=== 出典 ===
+{{Reflist|2}}
+
+== 外部リンク ==
+* [http://www.horipro.co.jp/talent/PF089/ ホリプロオフィシャルサイト -高畑充希-]
+* [http://horipro.co.jp/talent/PA033/ ホリプロオフィシャルサイト -みつき-]
+* [http://fc.horipro.jp/mitsukitakahata/ 高畑充希オフィシャルファンクラブ MIKKAI]
+* [http://ameblo.jp/mitsuki-takahata/ 高畑充希 オフィシャルブログ「たかはたみつきのこれやみつき！」]（2009年8月13日 - ）
+* [http://plaza.rakuten.co.jp/hp45m/ 高畑充希 ブログ「高畑充希のコレやみつき！！」]（2005年6月23日 - 2009年8月13日）
+* [http://blog.goo.ne.jp/mitsuki_blog/ みつき オフィシャルブログ 「Pho-ric 〜Photo+Lyric〜」]（2007年5月30日 - 2008年10月23日）
+* [http://wmg.jp/artist/takahatamitsuki/ 高畑充希｜Warner Music Japan]
+* [http://wmg.jp/artist/mitsuki/ みつき｜Warner Music Japan]
+* {{Twitter|mitsuki_tamago}}
+* {{Instagram|mitsuki_takahata}}
+*[http://www.nhk.or.jp/archives/search/special/detail/?d=selection060 特集　あの人のとっておきセレクション 高畑充希さん NHKアーカイブス]
+
+{{高畑充希}}
+{{ホリプロ}}
+{{連続テレビ小説主演俳優}}
+{{エランドール賞新人賞}}
+{{ザテレビジョンドラマアカデミー賞助演女優賞}}
+{{DEFAULTSORT:たかはた みつき}}
+[[Category:日本の女優]]
+[[Category:日本の舞台女優]]
+[[Category:日本の女性ポップ歌手]]
+[[Category:日本の女性声優]]
+[[Category:ホリプロ]]
+[[Category:ワーナーミュージック・ジャパンのアーティスト]]
+[[Category:連続テレビ小説主演俳優]]
+[[Category:法政大学出身の人物]]
+[[Category:大阪府出身の人物]]
+[[Category:1991年生]]
+[[Category:存命人物]]

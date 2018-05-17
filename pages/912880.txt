@@ -1,0 +1,66 @@
+{{声優
+| 名前 = 竹田 小春
+| ふりがな = たけだ こはる
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[北海道]]
+| 死没地 = 
+| 生年 = 1975
+| 生月 = 2
+| 生日 = 22
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]<ref name="keny"/>
+| 身長 = 150cm<ref name="keny">{{Cite web |url=http://www.kenyu-office.com/profile/jyun/takedakoharu.html |title=竹田小春|publisher=ケンユウオフィス|accessdate=2012-06-16 |archiveurl=http://web.archive.org/web/20070226142033/http://www.kenyu-office.com/profile/jyun/takedakoharu.html|archivedate=2007-02-26 }}</ref> 
+| 職業 = [[声優]]
+| 事務所 = 
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = [[2000年代]] - 
+| デビュー作 = 
+| 活動 = 
+}}
+'''竹田 小春'''（たけだ こはる、[[1975年]][[2月22日]] - ）は、[[日本]]の[[女性]][[声優]]。[[北海道]]出身。
+
+以前は[[アイムエンタープライズ]]、[[ケンユウオフィス]]に所属していた。[[日本ナレーション演技研究所]]<ref name="keny"/>、[[Talk back]]東京校1期<ref>{{Cite web |url=http://www.kenyu-office.com/talkback/results.html |title=出演実績|publisher=ケンユウオフィス|accessdate=2012-06-16 |archiveurl=http://web.archive.org/web/20080423160424/http://www.kenyu-office.com/talkback/results.html
+|archivedate=2008-04-23 }}</ref>出身。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+* [[フラニーズ・フィート]]
+
+=== ゲーム ===
+* [[Etude prologue 〜揺れ動く心のかたち〜|étude prologue 〜揺れ動く心のかたち〜]]
+* Crystal Class（クルミ）
+* [[テイルズ オブ ヴァールハイト]]（'''カルル・フォン・アトミガル'''）
+
+=== ドラマCD ===
+* あしたのきみはここにいない（女生徒A）
+* さあ恋におちたまえ2（児童2）
+* ラブネコ（ミミオ女性）
+
+=== 吹き替え ===
+* [[ザ・コア]]
+* ブラインド・ホライズン
+* [[ランド・オブ・プレンティ]]
+* [[リロ・アンド・スティッチ2]]
+
+== 脚注 ==
+{{Reflist}}
+
+{{DEFAULTSORT:たけた こはる}}
+{{Voice-stub}}
+
+[[Category:日本の女性声優]]
+[[Category:北海道出身の人物]]
+[[Category:1975年生]]
+[[Category:過去のアイムエンタープライズ所属者]]
+[[Category:過去のケンユウオフィス所属者]]
+[[Category:存命人物]]

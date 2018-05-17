@@ -1,0 +1,75 @@
+{{otheruses|俳優、声優の本多真弓|同音同字のアナウンサー|本多真弓 (アナウンサー)}}
+{{声優
+| 名前 = 本多 真弓
+| ふりがな = ほんだ まゆみ
+| 画像ファイル =
+| 画像サイズ =
+| 画像コメント =
+| 本名 =
+| 愛称 =
+| 出生地 = {{JPN}}・[[東京都]]
+| 血液型 = 
+| 生年 = 1973
+| 生月 = 6
+| 生日 = 20
+| 没年 =
+| 没月 =
+| 没日 =
+| 所属 = [[ヘリンボーン]]
+| 活動期間 = 
+| デビュー作 = 
+}}
+'''本多 真弓'''（ほんだ まゆみ、[[1973年]]<ref name="Ameba"/>[[6月20日]]<ref name="ヘリンボーン"/> - ）は、[[日本]]の[[俳優|女優]]、[[声優]]。
+
+== 略歴 ==
+* [[桐朋学園短期大学]]芸術学部演劇学科卒業<ref name="ヘリンボーン"/>。[[劇団青年座]]研究所卒業。
+* 2001年、本多真弓が演劇ユニット「クレネリ♥ZERO FACTORY」の主宰兼役者として立ち上げる。作家、大岩真理と共に、クレネリワールドを作り上げる。
+* 2006年に出産<ref name="Ameba"/>。クレネリ活動休止。2012年2月下北沢演劇祭に参加。再び活動<ref name="Ameba"/>。
+
+== 出演作品 ==
+=== テレビアニメ ===
+'''2002年'''
+* [[OVERMANキングゲイナー]]（コナ・マダヤ）
+
+=== 劇場アニメ ===
+'''2001年'''
+* [[グッドモーニング・コール]]（ななこ）
+
+=== 舞台 ===
+* クレネリZERO FACTORY
+** 春と爪
+** なみだくじ
+** 乙女の国
+** 蜜の味／三つの味
+** セロテープボンドセメダイン
+** 空洞満月
+** 逆さまの輪
+** 二等辺三角形
+** 第10回公演『こんなにも』（2012年2月1日～5日、下北沢シアター711）<ref name="Ameba"/>
+
+=== ナレーション ===
+* [[DHC]]
+* [[アメリカンファミリー生命保険会社]]
+* [[スカイマーク]]エアラインズ株式会社
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="ヘリンボーン">{{Cite web |url=http://www.herringbone.co.jp/talents/name/hondamayumi/ |title=ヘリンボーンによるプロフィール |publisher=[[ヘリンボーン]] |date= |accessdate=2014-03-07}}</ref>
+<ref name="Ameba">{{Cite web |url=http://profile.ameba.jp/kureneri/ |title=本多真弓のプロフィール｜Ameba (アメーバ) - Amebaプロフィール |date= |accessdate=2014-03-07}}</ref>
+}}
+
+== 外部リンク ==
+* [http://www.herringbone.co.jp/talents/name/hondamayumi/ ヘリンボーンによるプロフィール]
+* [http://ameblo.jp/kureneri/ クレネリ本多真弓のブログ - Ameba]
+* [https://twitter.com/kureneri 本多真弓 (kureneri) on Twitter]
+* [http://www.vip-times.co.jp/?talent_id=W11-0135 本多真弓 - 日本タレント名鑑]
+* [http://www.talent-databank.co.jp/search/t2000071161 本多真弓 - タレントデータバンク]
+* [http://news.goo.ne.jp/entertainment/talent/W11-0135.html 本多真弓のプロフィール/写真/画像 - goo ニュース]
+
+{{DEFAULTSORT:ほんた まゆみ}}
+[[Category:日本の女優]]
+[[Category:日本の女性声優]]
+[[Category:桐朋学園芸術短期大学出身の人物]]
+[[Category:東京都出身の人物]]
+[[Category:1973年生]]
+[[Category:存命人物]]

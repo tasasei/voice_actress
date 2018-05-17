@@ -1,0 +1,84 @@
+{{声優
+| 名前 = 内田 秀
+| ふりがな = うちだ しゅう
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 配偶者 = 
+| 出生地 = {{AUS}}<br />[[シドニー]]<ref name="プロフィール">{{Cite web |date= |url=http://link-plan.net/talent_uchida.html|title=内田秀 公式プロフィール|publisher=リンク・プラン|accessdate=2017-07-28}}</ref>
+| 血液型 = [[ABO式血液型|B型]]<ref name="プロフィール" />
+| 身長 = 155[[センチメートル|cm]]<ref name="プロフィール" />
+| 生年 =
+| 生月 = 5
+| 生日 = 24
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = [[プロ・フィット#リンク・プラン|リンク・プラン]]
+| 活動期間 = 2016年 -
+| デビュー作 = 艦隊これくしょん -艦これ-(Warspite)
+}}
+'''内田 秀'''（うちだ しゅう、[[5月24日]] - ）は[[日本]]の[[女性]][[声優]]。[[プロ・フィット#リンク・プラン|リンク・プラン]]所属<ref name="prof">{{SfnRef|コンプティーク 2017年6月号|2017}}</ref>。[[オーストラリア]]・[[シドニー]]出身<ref name="プロフィール" />。
+
+== 人物 ==
+2歳から19歳までオーストラリアで暮らしており、本格的に日本に住むようになったのは2014年頃<ref name="prof"/><ref name="プロフィール" />。
+
+[[プロ・フィット]]声優養成所の卒業生である<ref name="プロフィール" />。
+
+趣味は読書、お菓子作り、特技は英語である<ref name="プロフィール" />。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+* [[アリスと蔵六]]（2017年、クレオ、敷島羽鳥<ref>{{Cite web |date= |url=http://www.alicetozouroku.com/staff/ |title=スタッフ・キャスト |publisher=アリスと蔵六公式サイト |accessdate=2017-06-03}}</ref>）<!-- 2017-04-02 -->
+* [[Fate/EXTRA Last Encore]]（2018年、少女警官）<!-- 2018-02-04 -->
+* [[citrus (漫画)|citrus]]（2018年、駅のアナウンス）<!-- 2018-02-24 -->
+
+=== ゲーム ===
+* [[艦隊これくしょん -艦これ-]]（2016年、Warspite<ref>{{Twitter status|KanColle_STAFF|774053749228605440}}</ref>、Ark Royal<ref>{{Twitter status|KanColle_STAFF|898358444826050560}}</ref>）<!-- 2016-08-12 -->
+* [[ことのはアムリラート]]（2017年、'''ルカ・ローゼン・E'''<ref>{{Cite web |date= |url=http://sukerasparo.com/|title=キャラクター |publisher=ことのはアムリラート 公式サイト |accessdate=2017-07-28}}</ref>）
+* クロノマギア（2018年、リーリア<ref>[https://chronomagia.com/jp/world/ CHARACTER | CHRONO MA:GIA (クロノマギア) 公式サイト] 2018年2月26日閲覧。</ref>）
+
+=== ドラマCD ===
+* [[ヨメクラ]]（2017年、'''リア・オーガスト'''）
+
+=== ラジオ ===
+<!-- 単発のゲスト出演などは不要。レギュラー番組のみ。 -->
+'''太字'''は放送中。※は[[インターネットラジオ|インターネット配信]]。
+* '''Lumina Charisのルミカリキュラム！'''（2017年 - 、[[HiBiKi Radio Station]]※）<ref>{{Cite web |date= |url=https://twitter.com/seiyu_paradise/status/890561455656914944|title=【お知らせ】ドラマＣＤ『ヨメクラ』キャスト６名のラジオ番組が始まります…|publisher=声優パラダイス公式Twitter |accessdate=2017-07-28}}</ref>
+* ラジオ「ことのはアムリラート」〜ユリ百合ユリアーモ！〜（2017年、[[音泉]]※）<ref>{{Cite web |date= |url=http://www.onsen.ag/program/kotonoha/|title=ラジオ「ことのはアムリラート」～ユリ百合ユリアーモ！～|publisher=音泉 |accessdate=2017-07-28}}</ref>
+
+=== ナレーション ===
+{{定義リスト2
+| 2017年 |
+* [[Megalith IT Alliance]] 会社案内<ref>{{cite web|url=https://meg-it.jp/posts/faq8.html|title=Q: 会社案内（英語）のナレーションを担当されている方の情報を教えてください。|publisher=Megalith IT Alliance |date=2017-04-19 |accessdate=2017-06-03}}</ref>
+}}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group=注}}
+{{Vau}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 参考文献 ==
+=== 雑誌 ===
+<!-- コンプティーク -->
+* {{Cite journal |和書 |date=2017-05-10 |journal=コンプティーク |publisher=KADOKAWA 角川書店 |issue=2017年6月号 |title=艦これ声優会報 |ref={{SfnRef|コンプティーク 2017年6月号|2017}} }}
+
+== 外部リンク ==
+* [http://link-plan.net/talent_uchida.html リンク・プランオフィシャルサイト 内田秀]
+
+{{プロ・フィット}}
+{{Voice-stub}}
+
+{{DEFAULTSORT:うちた しゆう}}
+[[Category:日本の女性声優]]
+[[Category:プロ・フィット]]
+[[Category:帰国子女]]
+[[Category:シドニー出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

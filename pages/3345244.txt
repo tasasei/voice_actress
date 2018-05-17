@@ -1,0 +1,83 @@
+{{存命人物の出典明記|date=2016年1月}}
+{{特筆性|date=2016年1月}}
+{{声優
+| 名前 = 伊波 奈々
+| ふりがな = いなみ なな
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[滋賀県]]<ref name="profile">{{Cite web|publisher=アクセルワン公式サイト|url=http://www.axl-one.com/talent/inami.html|title=伊波 奈々｜タレント|accessdate=2017-01-15}}</ref>
+| 死没地 = 
+| 生年 = 
+| 生月 = 11
+| 生日 = 21
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|O型]]<ref name="profile" />
+| 身長 = 155[[センチメートル|cm]]<ref name="profile" />
+| 職業 = [[声優]]
+| 事務所 = [[アクセルワン]]<ref name="profile" /> 
+| 配偶者 = 
+| 公式サイト = 
+| 活動期間 = [[2015年]] -  
+}}
+
+'''伊波 奈々 '''（いなみ なな、[[11月21日]]<ref name="profile" /> - ）は、[[日本]]の[[女性]][[声優]]。
+[[アクセルワン|アクセルゼロ]]3期生を経て、2015年4月1日付で[[アクセルワン]]所属となる<ref>{{Cite web|publisher=アクセルゼロ～東京新宿の声優養成所AXLZERO～|url=http://www.axl-zero.com/news/3-3/|title=≪アクセルゼロ3期生≫アクセルワンの新メンバーに！|date=2015-04-09|accessdate=2017-01-15}}</ref>。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+* [[うたの☆プリンスさまっ♪|うたの☆プリンスさまっ♪ マジLOVEレジェンドスター]]（2016年、通行人）
+* [[徒然チルドレン]]（2017年、七瀬薫）<!-- 2017-08-01 -->
+* [[THE REFLECTION]]（2017年、女子高生2、OLアレン）<!-- 2017-08-26 -->
+* [[DYNAMIC CHORD]]（2017年、女性スタッフ）<!-- 2017-11-23 -->
+* [[HUGっと!プリキュア ]]（2018年、カップル女性、赤ん坊）<!-- 2018-02-18 -->
+
+===  OVA  ===
+* [[ビッグオーダー]]（2015年、女子生徒A）※コミックス第8巻 オリジナルアニメBD付き限定版
+
+===  劇場アニメ ===
+* [[黒執事 (アニメ)|劇場版 黒執事 Book of the Atlantic]]（2017年）
+
+=== ゲーム ===
+{{dl2
+| 2014年 |
+* [[ドリームクラブ|ドリームクラブ Gogo.]]（キョウ）
+| 2015年 |
+* [[夏色ハイスクル★青春白書]]（鮎川冴子）
+| 2016年 |
+* SA7 SILENT ABILITY SEVEN（成瀬潤）
+* 逆転オセロニア（アデル）
+* クリスタル オブ リユニオン
+* [[白猫プロジェクト]]（バケコ・イワセ<ref>{{Cite web|date=2016-12-30|url=https://app.famitsu.com/20161230_936059/|title=『白猫プロジェクト』バケコやパルメ、シオン登場の正月2017情報公開！第32回“浅井Pのお世話にニャっております！”まとめ|publisher=ファミ通App|accessdate=2017-01-02}}</ref>）
+* [[御城プロジェクト|御城プロジェクト:RE]]（岡城）
+| 2017年 |
+* 幻獣契約クリプトラクト（マレーネ<ref>{{Cite web|publisher=幻獣契約クリプトラクト 公式サイト|url=https://www.cryptract.jp/unit/preview/113|title=[鼓舞の翠斧]マレーネ|accessdate=2017-01-15}}</ref>、メイリン<ref>{{Cite web|publisher=幻獣契約クリプトラクト 公式サイト|url=https://www.cryptract.jp/unit/preview/115|title=[ドールの純真]メイリン|accessdate=2017-01-15}}</ref>）
+* Song of Memories（若槻颯太<ref>{{Cite web|work=Song of Memories|url=http://purewish-game.com/som/|title=キャラクター&ギャラリー|accessdate=2017-02-06}}</ref>）
+}}
+
+=== ドラマCD ===
+* [[ボクとアリスと世界のおわり〜IN WONDERLAND〜]]（2015年、ドードー<ref>{{Cite web|publisher=ボクとアリスと世界のおわり - COSMICRAY|url=http://www.cosmicray.co.jp/alice/|title=製品情報|accessdate=2017-01-15}}</ref>）
+
+=== 吹き替え ===
+* [[シンプル・シモン]]（2015年、ヨンナ）
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.axl-one.com/talent/inami.html 所属事務所による公式プロフィール]
+
+{{アクセルワン}}
+{{DEFAULTSORT:いなみ なな}}
+[[Category:日本の女性声優]]
+[[Category:アクセルワン]]
+[[Category:生年未記載]]
+[[Category:滋賀県出身の人物]]
+[[Category:存命人物]]
+{{people-substub}}

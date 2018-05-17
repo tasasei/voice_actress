@@ -1,0 +1,76 @@
+{{複数の問題|存命人物の出典明記=2013年11月|特筆性=2013年11月}}
+{{声優
+|名前=藤井 京子
+|ふりがな=ふじい きょうこ
+|画像ファイル=
+|画像サイズ=
+|画像コメント=
+|本名=
+|愛称=
+|性別=[[女性]]
+|出生地={{JPN}}・[[大阪府]]
+|死没地=
+|生年=1988
+|生月=1
+|生日=21
+|没年=
+|没月=
+|没日=
+|血液型=[[ABO式血液型|AB型]]
+|身長=
+|職業=[[声優]]、[[俳優|舞台女優]]
+|事務所=[[フリーランス|フリー]]
+|配偶者=
+|著名な家族=
+|公式サイト=
+|活動={{声優/活動
+|職種=声優
+|活動名義=
+|活動期間= 
+|ジャンル=
+|デビュー作=
+}}}}
+'''藤井 京子'''（ふじい きょうこ、[[1988年]]<ref>[http://hero-q.sakura.ne.jp/wordpress/author/fujii/ 藤井 京子 の紹介｜劇団ヘロヘロQカムパニー 劇団員のブログ]</ref>[[1月21日]] - ）は、[[日本]]の[[女性]][[声優]]、[[俳優|舞台女優]]。[[大阪府]]出身。アトミックモンキー/声優・演技研究所3期生<ref>{{Cite web|date=|url=http://www.atomicmonkey.jp/atoken/rookie.html|title=アトミックモンキー／声優・演技研究所 Rookie|publisher=アトミックモンキー|accessdate=2013-11-29}}</ref>。劇団ヘロヘロQカムパニーに参加している。以前は[[アトミックモンキー]]に所属していた。
+
+{{VOICE Notice Hidden|冒頭部分に記載する代表作は、編集合戦誘発の原因となりますので、多数の出典で確認できるものに限ってください。[[プロジェクト:芸能人#記事の書き方]]にてガイドラインが制定されていますので、そちらも参照して下さい。}}
+==出演作品==
+===テレビアニメ===
+'''2011年'''
+*[[銀魂 (アニメ)|銀魂’]]（ウグイス嬢、女）
+*[[DOG DAYS]]（女子生徒B）
+'''2012年'''
+*[[ソードアート・オンライン]]（サーシャ）
+'''2013年'''
+*[[ドラえもん (2005年のテレビアニメ)|ドラえもん]]（主婦B）
+'''2016年'''
+* [[OZMAFIA!!]]（パシェ<ref>{{Cite web|work=アニメ「OZMAFIA!!」公式サイト|url=http://anime.ozmafia.com/#staff|title=STAFF&CAST|accessdate=2016-07-20}}</ref>）
+
+===ゲーム===
+'''2013年'''
+*[[OZMAFIA!!]]（パシェ<ref>{{Cite web|publisher=OZMAFIA!!|url=http://ozmafia.com/stars-31.html|title=STARS|accessdate=2014-10-10}}</ref>）
+'''2014年'''
+*[[白猫プロジェクト]]（エリーナ・グレヴィッチ<ref>{{Cite web|work=白猫プロジェクト公式攻略データベース - ファミ通|title=エリーナの評価とスキル、ステータス|url=http://wiki.famitsu.com/shironeko/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8A|accessdate=2015-09-28}}</ref>、ポプラ・ハーヴィー<ref>{{Cite web|work=白猫プロジェクト公式攻略データベース - ファミ通|title=ポプラの評価とスキル、ステータス|url=http://wiki.famitsu.com/shironeko/%E3%83%9D%E3%83%97%E3%83%A9|accessdate=2015-09-28}}</ref>、コムギ・クロッカス<ref>{{Cite web|work=白猫プロジェクト公式攻略データベース - ファミ通|title=コムギの評価とスキル、ステータス|url=http://wiki.famitsu.com/shironeko/%E3%82%B3%E3%83%A0%E3%82%AE|accessdate=2015-09-28}}</ref>）
+'''2015年'''
+*OZMAFIA!! -vivace-（パシェ<ref>{{Cite web|publisher=PS Vita専用ゲームソフト OZMAFIA!! -vivace-|url=http://www.dramaticcreate.com/ozmafia/#character|title=CHARACTER|accessdate=2014-10-10}}</ref>）
+===ドラマCD===
+*[[失恋ショコラティエ]]2（サエコの友人、記者）
+*[[モンスター・コレクション#ドラマCD|七星魔導史マフィン伝 魔剣の姫君と暗黒卿の秘儀]]（キリリ）
+===舞台===
+*劇団ヘロヘロQカムパニー
+**[[悪魔が来りて笛を吹く]]（河村小夜子）
+**魔界転生
+
+==出典==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+==外部リンク==
+*{{Twitter|ameyume0121|ふじいきょうこ}}
+
+{{DEFAULTSORT:ふしい きようこ}}
+[[Category:日本の女性声優]]
+[[Category:過去のアトミックモンキー所属者]]
+[[Category:大阪府出身の人物]]
+[[Category:1988年生]]
+[[Category:存命人物]]
+{{voice-substub}}

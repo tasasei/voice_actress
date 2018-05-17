@@ -1,0 +1,80 @@
+{{複数の問題 |存命人物の出典明記=2014年7月9日 (水) 07:31 (UTC) |一次資料=2017年4月 |特筆性=2014年7月9日 (水) 07:31 (UTC) |分野=人物}}
+{{ActorActress
+| 芸名 = 二村 愛
+| ふりがな = ふたむら あい
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 別名義 = <!-- 別芸名がある場合記載。愛称の欄ではありません。 -->
+| 出生地 = {{JPN}}・[[神奈川県]]
+| 死没地 = 
+| 国籍 = <!--「出生地」からは推定できないときだけ -->
+| 民族 = <!-- 民族名には信頼できる情報源が出典として必要です。 -->
+| 身長 = 160 cm
+| 血液型 = [[ABO式血液型|A型]]
+| 生年 = 1976
+| 生月 = 7
+| 生日 = 26
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 職業 = [[俳優|女優]]、[[声優]]
+| ジャンル = 
+| 活動期間 = 
+| 活動内容 = 
+| 配偶者 = 
+| 著名な家族 = 
+| 所属劇団 = 
+| 事務所 = [[ヘリンボーン]]
+| 公式サイト = 
+| 主な作品 = <!-- 皆が認める代表作品を入力 -->
+| アカデミー賞 = 
+| AFI賞 = 
+| 英国アカデミー賞 = 
+| セザール賞 = 
+| エミー賞 = 
+| ジェミニ賞 = 
+| ゴールデングローブ賞 = 
+| ゴールデンラズベリー賞 = 
+| ゴヤ賞 = 
+| グラミー賞 = 
+| ブルーリボン賞 = 
+| ローレンス・オリヴィエ賞 = 
+| 全米映画俳優組合賞 = 
+| トニー賞 = 
+| 日本アカデミー賞 = 
+| その他の賞 = 
+| 備考 = 
+}}
+'''二村 愛'''（ふたむら あい、[[1976年]][[7月26日]]<ref name="t2000048750">{{Cite web |url=http://www.talent-databank.co.jp/search/t2000048750 |title=二村愛 |publisher=タレントデータバンク |accessdate=2017-04-16}}</ref> - ）は、[[日本]]の[[俳優|女優]]、[[声優]]<ref name="t2000048750" />。[[神奈川県]]出身<ref name="herringprof">{{Cite web |url=http://www.herringbone.co.jp/talents/name/futamuraai/ |title=二村愛 |publisher= |accessdate=2017-04-16}}</ref>。身長160cm<ref name="t2000048750" /><ref name="herringprof" />。血液型はA型<ref>{{Cite web |url=http://www.vip-times.co.jp/?talent_id=W09-2783 |title=二村愛 |work=日本タレント名鑑 |publisher=VIPタイムズ社 |accessdate=2017-04-16}}</ref>。[[桜美林大学]]卒業<ref name="herringprof" />。[[ヘリンボーン]]所属<ref name="herringprof" />。
+
+== 主な出演作品 ==
+=== 舞台 ===
+* Dotoo!公演
+*: いたしかたない人々〜幕末奇想天外
+*: 天真で爛漫
+*: 仰げば尊し
+
+=== テレビアニメ ===
+* [[OVERMANキングゲイナー]]（リュボフ・スメッタナ）
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.herringbone.co.jp/talents/name/futamuraai/ ヘリンボーンによる公式プロフィール]
+* {{facebook|ai.futamura.5}}
+* [http://www.vip-times.co.jp/?talent_id=W09-2783 二村愛 - 日本タレント名鑑]
+* [http://www.talent-databank.co.jp/search/t2000048750 二村愛 - タレントデータバンク]
+
+{{Actor-stub}}
+{{Voice-stub}}
+{{DEFAULTSORT:ふたむら あい}}
+[[Category:日本の女優]]
+[[Category:日本の女性声優]]
+[[Category:神奈川県出身の人物]]
+[[Category:桜美林大学出身の人物]]
+[[Category:1976年生]]
+[[Category:存命人物]]

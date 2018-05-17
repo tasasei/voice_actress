@@ -1,0 +1,93 @@
+<!--Wikipedia:ウィキプロジェクト 音楽家を参照-->
+{{Infobox Musician
+| Name = あらまり
+| Background = singer
+| Birth_name = 新井 真理子
+| Alias = Aramary
+| Blood = 
+| School_background = 
+| Born = {{生年月日と年齢||8|11}}
+| Died = <!-- 死亡年月日を記入。 -->
+| Origin = {{JPN}}・[[神奈川県]]
+| Instrument = [[ボーカル]]
+| Genre = 
+| Occupation = [[声優]]、[[司会]]、[[ナレーター]]、[[歌手]]
+| Years_active = 
+| Label = <!-- ミュージシャン・グループの所属するレコードレーベルを記入 -->
+| Production = 
+| URL = [http://www.aramari.com/ aramari.com]
+}}
+{{同人}}
+'''あらまり'''（女性、[[8月11日]] - ）は、日本の[[声優]]、[[司会]]、[[ナレーター]]、[[歌手]]。[[神奈川県]]出身。本名は'''新井真理子'''（あらい まりこ）。
+
+== 人物・経歴 ==
+歌手としては「'''Aramary'''」、声優としては「'''あらまり'''」名義で表記される。愛称は「まり」など。
+
+[[栄養士]]の資格も持ち、以前は保育園で子供の給食を作っていた。現在、栄養士は休業し、ナレーター業をメインとして活動している。
+
+当時同人音楽サークルであった[[Sound Horizon]]の第一期正式メンバーで、インディーズ時代からの古参メンバーであったが、第一期終了とほぼ同時期に脱退（本人は任期満了と表現）した。
+
+2007年よりアーティスト集団「[[Rain Note]]」のボーカルとして、歌手活動を再開。
+
+「ダーリンダーリン」と「Forever Symphony」の作詞・作曲を担当したsakuraneは妹である。
+
+[[メロンパン]]が好きで、自称「メロンパニスト」。また、自称「七夕普及委員会会員」であり、ラジオやスタジオで会う人々に七夕行事をするよう勧めている。
+
+携帯放送局「K-Station」にて自身のラジオ番組「あらまりCafe」を担当。K-Station内ではその他に「oricon アニメスタイルSide-A」「新潮社 Writer's Salon」「K-stationナビ」などで活動中。
+
+== ディスコグラフィー ==
+=== CD ===
+; [[Sound Horizon]]
+※印が付いているものは、メジャーデビュー以前に制作された自主制作アルバム。
+* 2nd Story CD 『[[Sound Horizon#自主制作CD|Thanatos]]』 ※
+* 3rd Story CD 『[[Sound Horizon#自主制作CD|Lost]]』 ※
+* 1st Pleasure CD 『[[Sound Horizon#自主制作CD|Pico Magic]]』 ※
+* 2nd Pleasure CD 『[[Sound Horizon#自主制作CD|Pico Magic Reloaded]]』 ※
+* 1st Story Renewal CD 『[[Chronicle 2nd]]』 ※
+* [[Elysion 〜楽園への前奏曲〜]]
+* 4th Story CD 『[[Elysion 〜楽園幻想物語組曲〜]]』
+* [[リヴァイアサン (漫画)#イメージアルバム|リヴァイアサン 終末を告げし獣]] - 「召還という儀式」「死刑執行」
+
+; [[Rain Note]]
+* 1st mini Album 『LIFE 〜祈り〜』
+* 1st Maxi Single 『Fellow』
+
+;[[FREEDOM CREATORS]]
+*1st single『Voice Of Love』
+
+; ボーカル参加
+* OVA『[[ねとらん者 THE MOVIE|ねとらん者 THE MOVIE #1 ネットのすみでブログと叫ぶ]]』 - エンディングテーマ曲「LiNK」
+* PS2ソフト『お嬢様組曲 -Sweet Concert-』 - テーマ曲 「ダーリンダーリン」
+* 「出会いのキセキ」- 作詞：[[りあん]]　作曲：[[加藤みちあき]]
+ほか多数
+
+=== DVD ===
+; Sound Horizon
+* [[Elysion 〜楽園パレードへようこそ〜]]
+
+== 出演 ==
+=== 声優 === 
+; アニメ
+* [[封神演義 〜ナタクの大冒険〜]]（'''ナタク'''）
+
+; ゲーム
+* [[PlayStation 2|PS2]]『[[L2 Love×Loop]]』（エウア）
+
+; 同人CD
+* Luna-Haze 『MILDE-SORTE 〜constructed minds〜』（フィオナ・ショーン）
+* Luna-Haze 『Dies=Nova』（アンセム）
+
+=== ラジオ ===
+* あらまりCafe - メインパーソナリティ
+
+== 外部リンク ==
+* [http://www.aramari.com/ aramari.com] - あらまり公式サイト
+* {{Twitter|aramary0811|あらまり (aramary0811)}}
+
+{{Sound Horizon}}
+{{DEFAULTSORT:あらまり}}
+[[Category:日本の女性歌手]]
+[[Category:同人ボーカル]]
+[[Category:日本の女性声優]]
+[[Category:神奈川県出身の人物]]
+[[Category:Sound Horizon]]

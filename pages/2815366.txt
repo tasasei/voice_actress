@@ -1,0 +1,77 @@
+{{複数の問題 |存命人物の出典明記=2014年7月8日 (火) 03:44 (UTC) |一次資料=2017年4月 |特筆性=2017年4月 |分野=人物}}
+{{声優
+| 名前 = 黒田 友佳
+| ふりがな = くろだ ゆか
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = <!-- 「本名」と確認のできる、信頼できる情報源からの出典明記をお願いいたします。 -->
+| 愛称 = 
+| 性別 = 女性
+| 出生地 = {{JPN}}・[[茨城県]]
+| 死没地 = 
+| 生年 = 1984
+| 生月 = 8
+| 生日 = 9
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = <!-- 「血液型」の確認できる、信頼できる情報源からの出典明記をお願いいたします。 -->
+| 身長 = 158cm
+| 職業 = [[声優]]、[[ナレーター]]、[[タレント]]
+| 事務所 = [[サンミュージックプロダクション]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+'''黒田 友佳'''（くろだ ゆか、[[1984年]][[8月9日]]<ref name="W11-1525">{{Cite web |url=http://www.vip-times.co.jp/?talent_id=W11-1525 |title=黒田友佳 |work=日本タレント名鑑 |publisher=VIPタイムズ社 |accessdate=2017-04-22}}</ref> - ）は、日本の[[声優]]、[[ナレーター]]、[[タレント]]<ref name="W11-1525" />。[[茨城県]]出身<ref name="W11-1525" /><ref name="sunmusicprof">{{Cite web|date=|url=http://www.sunmusic.org/profile/kuroda_yuka.html|title=黒田友佳 Sun Music Group Official Web Site|publisher=|accessdate=2013-07-15}}</ref>。身長158cm<ref name="W11-1525" /><ref name="sunmusicprof" />。[[アミューズメントメディア総合学院]]声優学科卒業<ref>[http://www.amgakuin.co.jp/contents/voice/ob-list.html 主な卒業生一覧 - 声優タレント学科｜アミューズメントメディア総合学院]</ref>。[[サンミュージックプロダクション]]所属<ref name="sunmusicprof" />。 
+
+== 出演作品 ==
+=== テレビ ===
+* [[MXテレビ]][[リアル系アイドル図鑑〜final festival〜]]（恵比寿凛）
+
+=== テレビアニメ ===
+'''2014年'''
+* [[ウィッチクラフトワークス]]（みい<ref>{{Cite web |url=http://www.witch-cw-anime.jp/staffcast.html |title=STAFF/CAST |work=TVアニメ「ウィッチクラフトワークス」公式サイト |accessdate=2013-12-30}}</ref>、保健の先生）
+
+=== 吹き替え ===
+* [[LIVE]]（ディラン）
+* キンダーフィルムフェスティバル [[マラソンガール]]（トニー）
+
+=== ナレーション ===
+* [[CSテレ朝チャンネル]][[ヒロシ釣り紀行]]
+* TRAVELING ch『[[ミハナビューティー&スパ]]』
+
+=== ゲーム ===
+* [[イリスのアトリエ エターナルマナ]]（フレイ）
+
+=== TVCM ===
+* サンモール
+
+=== ラジオCM ===
+* au by KDDI
+
+=== webVP ===
+* スルガVISAデビットカード
+
+=== アーケード ===
+* [[みんなのおしごと]]（くらり）
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.sunmusic.org/profile/kuroda_yuka.html 黒田友佳 Sun Music Group Official Web Site]
+* {{Twitter|Yuka_Kuroda}}
+* [http://www.vip-times.co.jp/?talent_id=W11-1525 黒田友佳 - 日本タレント名鑑]
+
+{{Voice-substub}}
+{{DEFAULTSORT:くろた ゆか}}
+[[Category:日本の女性声優]]
+[[Category:茨城県出身の人物]]
+[[Category:1984年生]]
+[[Category:存命人物]]

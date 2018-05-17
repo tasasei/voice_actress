@@ -1,0 +1,76 @@
+{{声優
+| 名前 = 篠宮 沙弥
+| ふりがな = しのみや さや  
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = しのみ
+| 出生地 = {{JPN}}・[[千葉県]]
+| 血液型 = O 
+| 生年 = 
+| 生月 = 11
+| 生日 = 13
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 所属 = [[CARROT HOUSE]]
+| 活動期間 =  
+| デビュー作 = 
+}}
+'''篠宮 沙弥'''（しのみや さや、[[11月13日]] - ）は、[[日本]]の女性[[声優]]。[[CARROT HOUSE]]所属。[[千葉県]]出身。血液型は[[ABO式血液型|O型]]。
+
+趣味はカラオケ、旅行、ゲーム、雑貨集め、芸術鑑賞、野球観戦、ショッピングなど多彩で、地元千葉県に本拠地を構える[[千葉ロッテマリーンズ]]のファンである。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+| 2012年 |
+* [[薄桜鬼 〜新選組奇譚〜|薄桜鬼 黎明録]]（お梅）
+| 2013年 |
+* [[BROTHERS CONFLICT]]（今井真秀子）
+| 2016年 |
+* [[Rewrite (ゲーム)|Rewrite]]（2016年 - 2017年、'''鳳ちはや'''<ref>{{Cite web |url=http://www.rewrite-anime.tv/staffcast/ |title=StaffCast |publisher=TVアニメ「Rewrite」公式サイト |accessdate=2015-12-29}}</ref>、ディーマ）<!-- 2016-07-02 -->
+}}
+
+=== ゲーム ===
+{{dl2
+|2009年|
+* NikQ（サイ 他）
+* MILU（NPC）
+|2010年|
+* [[CLOCK ZERO 〜終焉の一秒〜]]
+|2011年|
+* [[華鬼|華鬼 〜恋い初める刻 永久の印〜]]（佐原もえぎ）
+* [[Rewrite (ゲーム)|Rewrite]]（'''鳳ちはや'''）
+|2012年|
+* L.G.S 〜新説 封神演義〜（那汰<ref>{{Cite journal|和書|month=4|journal=B's-LOG2012年6月号|pages=|author=|year=2012|publisher=[[エンターブレイン]]}}</ref>{{要ページ番号|date=2017-07-20}}）
+* 薄桜鬼 黎明録 名残り草（お梅<ref>{{Cite web|publisher=薄桜鬼 黎明録 名残り草|url=http://www.otomate.jp/hakuoki_reimeiroku_ps3/|title=登場人物|accessdate=2012-03-23}}</ref>）
+* 薄桜鬼 黎明録 DS（お梅<ref>{{Cite web|publisher=薄桜鬼 黎明録 DS|url=http://www.otomate.jp/hakuoki_reimeiroku_ds/|title=登場人物|accessdate=2012-03-13}}</ref>）
+* 華鬼 〜夢のつづき〜（佐原もえぎ）
+* Rewrite Harvest festa!（'''鳳ちはや'''<ref> 『[[PUSH!!]]』2012年3月号、[[マックス (出版社)|マックス]]、70頁</ref>）
+|2015年|
+* [[ゆのはなSpRING!]]（西原七緒）
+* [[レンドフルール]]（マダム・エンジュ<ref>{{Cite web|publisher=[[オトメイト]]|work=レンドフルール|url=http://www.otomate.jp/reinedesfleurs/chara/?page=enge|title=CHARACTERS|accessdate=2015-02-27}}</ref>）
+}}
+
+=== ナレーション ===
+* ノートン
+* 勇心スプリング
+
+=== ドラマCD ===
+* [[緋色の欠片|真・翡翠の雫 緋色の欠片2]] 特典ドラマCD
+
+== 脚注 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.carrothouse.info/profile/shinomiya_profile.html CARROT HOUSE]- 公式プロフィール
+* [http://yaplog.jp/shinomiyasaya/ 続・篠宮沙弥ノオト♪ ]- 本人ブログ
+
+{{voice-stub}}
+{{DEFAULTSORT:しのみや さや}}
+[[Category:日本の女性声優]]
+[[Category:千葉県出身の人物]]
+[[Category:存命人物]]

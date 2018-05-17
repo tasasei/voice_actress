@@ -1,0 +1,86 @@
+{{複数の問題 |存命人物の出典明記=2012年11月14日 (水) 03:08 (UTC) |一次資料=2017年4月 |特筆性=2017年4月 |分野=人物}}
+{{声優
+| 名前 = 井本 ケイ
+| ふりがな = いもと けい
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = <!-- 「本名」と確認のできる、信頼できる情報源からの出典明記をお願いいたします。 -->
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[福岡県]]
+| 死没地 = 
+| 生年 = <!-- 「生年」の確認できる、信頼できる情報源からの出典明記をお願いいたします。 -->
+| 生月 = 1
+| 生日 = 8
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|B型]]
+| 身長 = 162[[センチメートル|cm]]
+| 職業 = [[声優]]、[[ナレーター]]
+| 事務所 = [[アクセント (芸能プロダクション)|アクセント]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = [[2007年]]{{要出典|date=2017年5月}} - 
+| デビュー作 = 
+| 活動 = 
+}} 
+'''井本 ケイ'''（いもと けい、<!-- 「生年」の確認できる、信頼できる情報源からの出典明記をお願いいたします。 -->[[1月8日]]<ref name="aksentprof">{{Cite web |url=http://aksent.co.jp/blog/300/post_47.html |title=井本ケイ |publisher=アクセント |accessdate=2017-04-04}}</ref><ref name="W11-0453">{{Cite web |url=http://www.vip-times.co.jp/?talent_id=W11-0453 |title=井本ケイ |work=日本タレント名鑑 |publisher=VIPタイムズ社 |accessdate=2017-04-04}}</ref> - ）は、[[日本]]の[[女性]][[声優]]、[[ナレーター]]<ref name="W11-0453" />。[[福岡県]]出身<ref name="aksentprof" /><ref name="W11-0453" />。身長162cm、血液型はB型<ref name="W11-0453" />。アクセント付属養成所シャイン4期生<ref name="shainprof">{{Cite web |url=http://shain-s.com/GP/gp0401.html |title=シャイン卒業生 of アクセント附属養成所 |accessdate=2013-01-20 |archiveurl=https://web.archive.org/web/20100710073347/http://shain-s.com/GP/gp0401.html |archivedate=2010-07-10}}</ref>。[[アクセント (芸能プロダクション)|アクセント]]所属<ref name="aksentprof" />。
+
+2011年2月、旧名の井本恵子<ref name="shainprof" />から'''井本ケイ'''に改名<ref>{{Cite web |author=井本ケイ |date=2011-03-03 |url=http://imokei.exblog.jp/15002375/ |title=ひえええええええ！！ : いもとけいこでした。 |accessdate=2013-01-20}}</ref>。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{dl2
+|2007年|
+* [[School Days (アニメ)|School Days]]（'''清浦刹那'''）
+* [[D.C.II 〜ダ・カーポII〜]]（2007年 - 2008年、生徒、ゲレンデ客）- 2シリーズ
+|2013年|
+* [[忍たま乱太郎]]（娘）
+|2015年|
+* [[俺物語!!]]（同僚）
+}}
+=== OVA ===
+* [[School Days (アニメ)#OVA|School Days OVAシリーズ]]（2008年、清浦刹那）- 2作品
+* [[堀さんと宮村くん]]（2014年、沢田ほのか）
+
+=== ゲーム ===
+* [[School Days L×H]]（2008年、'''清浦刹那'''）
+* IslandDays（2014年、'''清浦刹那'''<ref>{{Cite web|publisher=IslandDays|url=http://klon.co.jp/product/IslandDays/screenshot.htm|title=オープニングムービー|accessdate=2014-05-29}}</ref>）
+
+=== 吹き替え ===
+* [[CSI:マイアミ|CSI:マイアミ2]]
+* [[二人の王女]]
+===ドラマCD===
+* School Days DRAMA CD Vol.1、2（2007年、'''清浦刹那'''）
+
+=== ラジオドラマ ===
+* [[VOMIC]] [[華麗なる食卓]]（宇童亜弥）
+===ラジオCD===
+* [[デイズシリーズのディスコグラフィ#Radio School Days DJCD|Radio School Days CD Vol.1、3]]（2007年 - 2008年）
+
+=== その他 ===
+* [[アリコジャパン|アリコジャパンTVCM]]（アリコ）
+* 電動アシスト自転車 ヤマハパスTVCM（女児の母親）（ヤマハ）
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 外部リンク ==
+* [http://aksent.co.jp/blog/300/post_47.html アクセントによる公式プロフィール]
+* [http://ameblo.jp/imodesu-0108/ 芋時計]（ブログ）
+* [http://imokei.exblog.jp/ いもとけいこでした。]（旧ブログ）
+* [http://www.vip-times.co.jp/?talent_id=W11-0453 井本ケイ - 日本タレント名鑑]
+
+{{アクセント}}
+{{voice-stub}}
+{{DEFAULTSORT:いもと けい}}
+[[Category:日本の女性声優]]
+[[Category:福岡県出身の人物]]
+[[Category:アクセント]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

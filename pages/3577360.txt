@@ -1,0 +1,69 @@
+{{声優
+| 名前 = 福島 亜美
+| ふりがな = ふくしま あみ
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[山口県]]
+| 死没地 = 
+| 生年 = 
+| 生月 = 1
+| 生日 = 20
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|AB型]]
+| 身長 = 152cm
+| 職業 = [[声優]]
+| 事務所 = [[ワーナーミュージック・ジャパン|ワーナーミュージックエージェンシー]]
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+
+'''福島 亜美'''（ふくしま あみ、[[1月20日]] - ）は、[[日本]]の[[女性]][[声優]]。[[山口県]]出身。
+
+== 出演 ==
+'''太字'''はメインキャラクター。
+=== テレビアニメ ===
+{{定義リスト2
+| 2011年 |
+* [[よんでますよ、アザゼルさん。]]（2011年 - 2013年、ガブリエル、女子）- 2シリーズ
+| 2013年 |
+* [[勇者になれなかった俺はしぶしぶ就職を決意しました。]]（ナナオ・アイレル、隣の母親、女性客A、子供、激安ショップ店員）
+| 2016年 |
+* [[少年アシベ GO! GO! ゴマちゃん]]（'''まおちゃん'''<ref>[http://www6.nhk.or.jp/anime/program/detail.html?i=gomachan 少年アシベ GO！GO！ゴマちゃん | NHKアニメワールド]2017年3月30日閲覧</ref>、アシベの近所の赤ちゃん）
+| 2017年 |
+* [[SHADOW OF LAFFANDOR ラファンドール国物語 〜FANTASY PICTURE STORY〜]]（'''シェルシュ'''<ref>{{Cite web|url=http://shadowoflaffandor.com/tv_start/|title=CAST|publisher=SHADOW OF LAFFANDOR ラファンドール国物語|accessdate=2017-07-11}}</ref>）<!-- 2017-07-12 -->
+* [[王様ゲーム The Animation]]（川野千亜<ref>{{Cite web|work=TVアニメ「王様ゲーム The Animation」公式サイト|url=http://kingsgame-anime.com/staff_cast.html|title=STAFF/CAST|accessdate=2017-08-01}}</ref>）<!-- 2017-11-09 -->
+}}
+
+=== ゲーム ===
+* [[モンスターストライク]]
+
+=== 吹き替え ===
+* [[キラー・スナイパー]]（ドティー・スミス）
+===ナレーション===
+*アートを訪ねて（TOKYO MX）<ref>https://ameblo.jp/fukushima-ami/entry-12260295627.html 公式ブログ2017年10月観覧</ref>
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* [http://wmagency.co.jp/member/%E6%9D%BE%E6%B0%B8%E3%80%80%E8%80%80/ 公式プロフィール]
+* {{Twitter|seisyun_amigo}}
+* [https://ameblo.jp/fukushima-ami 福島亜美オフィシャルブログ「＠me」]
+
+{{Voice-stub}}
+{{DEFAULTSORT:ふくしま あみ}} 
+[[Category:日本の女性声優]]
+[[Category:山口県出身の人物]]
+[[Category:日本ナレーション演技研究所出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

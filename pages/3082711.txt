@@ -1,0 +1,36 @@
+'''佐藤 めぐみ'''（さとう めぐみ）は、[[日本]]の[[女性]][[声優]]。以前は、[[エーエス企画]]<ref name="企画"/>に所属していた。
+
+== 出演作品 ==
+=== ゲーム ===
+'''2005年'''
+* [[エスプガルーダ|エスプガルーダII 〜覚聖せよ。生まれし第三の輝石〜]]（'''ジャノメ'''<ref name="出演"/><ref name="ジャ"/>）※アーケード
+
+'''2006年'''
+* [[鋳薔薇|ピンクスゥイーツ 〜鋳薔薇それから〜]]（'''ハーモニー＝ハミング'''<ref name="出演"/><ref name="ハー"/>）※アーケード
+
+'''2010年'''
+* エスプガルーダII ブラックレーベル（'''ジャノメ'''）※XB360・iPhone
+
+'''2011年'''
+* ピンクスゥイーツ 〜鋳薔薇それから〜（'''ハーモニー＝ハミング'''）※XB360
+
+=== 舞台 ===
+* ナイトマザー（娘 役）<ref name="企画"/>
+* 子供の時間（ロザリー 役）<ref name="企画"/>
+* ミラクル（ヘレン 役）<ref name="企画"/>
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="企画">{{Cite web|url=http://www.as-planning.com/purofiru/satou1.htm|title=エーエス企画所属時によるプロフィール|accessdate=2014-10-31|archiveurl=https://web.archive.org/web/20070818085708/http://www.as-planning.com/purofiru/satou1.htm|archivedate=2007年8月18日}}</ref>
+<ref name="出演">{{Cite web |url=http://www.as-planning.com/2006%20shutuenjouhou.htm |title=過去出演情報 17年度 |accessdate=2014-10-31 |archiveurl=https://web.archive.org/web/20080102075652/http://www.as-planning.com/2006%20shutuenjouhou.htm |archivedate=2008年1月2日 }}</ref>
+<ref name="ジャ">{{Cite web |url=http://www.cave.co.jp/gameonline/espgaluda2/words/#w_janome |title=CAVE （エスプガルーダII） |accessdate=2014-10-31}}</ref>
+<ref name="ハー">{{Cite web |url=http://www.cave.co.jp/gameonline/pinksweets/words/w_harmony.html |title=ピンクスゥイーツ～鋳薔薇それから～ - 株式会社ケイブ |accessdate=2014-10-31}}</ref>
+}}
+
+== 外部リンク ==
+* [https://web.archive.org/web/20070818085708/http://www.as-planning.com/purofiru/satou1.htm エーエス企画所属時によるプロフィール]（2007年8月18日時点のアーカイブ）
+
+{{DEFAULTSORT:さとう めくみ}}
+[[Category:日本の女性声優]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

@@ -1,0 +1,70 @@
+{{声優
+| 名前 = 登 日々季
+| ふりがな = のぼり ひびき
+| 画像ファイル = 
+| 画像サイズ = 
+| 画像コメント = 
+| 本名 = 
+| 愛称 = 
+| 性別 = [[女性]]
+| 出生地 = {{JPN}}・[[兵庫県]]<ref name="prof">{{Cite web|url=http://www.air-agency.co.jp/talent/woman/hibiki_nobori|title=登 日々季｜AIR AGENCY 声優プロダクション|accessdate=2017-09-17}}</ref>
+| 死没地 = 
+| 生年 = 
+| 生月 = 8
+| 生日 = 7
+| 没年 = 
+| 没月 = 
+| 没日 = 
+| 血液型 = [[ABO式血液型|A型]]<ref name="prof" />
+| 身長 = 162[[センチメートル|cm]]<ref name="prof" />
+| 職業 = [[声優]]
+| 事務所 = [[AIR AGENCY]]<ref name="prof" />
+| 配偶者 = 
+| 著名な家族 = 
+| 公式サイト = 
+| 活動期間 = 
+| デビュー作 = 
+| 活動 = 
+}}
+
+'''登 日々季'''（のぼり ひびき、[[8月7日]]<ref name="prof" /> - ）は、[[日本]]の[[女性]][[声優]]。[[兵庫県]]出身。2017年度より[[AIR AGENCY]]所属<ref>{{Cite web|publisher=AIR ARGENCY|url=http://www.air-agency.co.jp/info/20170601_6085|title=2017年度新メンバーのお知らせ|accessdate=2017-9-17}}</ref>。
+
+== 略歴 ==
+[[アミューズメントメディア総合学院]]大阪校卒業。シグマセブン声優養成所、AIR AGENCY声優養成所出身。
+
+== 人物 ==
+趣味は[[サンリオ]]ギフトゲートに行くこと、写真を撮ること。特技は[[和太鼓]]<ref name="prof" />。
+
+== 出演 ==
+=== 吹き替え ===
+* スパイダー・シティ（女1）
+
+=== ラジオ ===
+*集まれ昌鹿野編集部（[[ラジオ関西]]）
+*アニたまどっとコム（[[ラジオ関西]]、2013年3月ブリッジナビゲーター）<ref>{{Cite web|url=http://anitama.com/bridge/bridge2013_03.html|title=ラジオ関西：アニたまどっとコム3月ブリッジナビゲーター|accessdate=2017-9-17}}</ref>
+
+=== 舞台 ===
+*[[劇団しし座]]第73回公演「ラムネと風船」<ref>{{Cite web|url=http://www.shishi-za.com/archive09.html|title=ラムネと風船 劇団しし座第73回公演案内|accessdate=2017-9-17}}</ref>
+
+== 脚注 ==
+{{脚注ヘルプ}}
+<!--
+=== 注釈 ===
+{{Reflist|group=注}}
+-->
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* [http://www.air-agency.co.jp/talent/woman/hibiki_nobori 登 日々季｜AIR AGENCY]
+* {{Twitter|_hibiki___}}
+
+{{AIR AGENCY}}
+{{Voice-stub}}
+{{DEFAULTSORT:のほり ひひき}}
+[[Category:日本の女性声優]]
+[[Category:AIR AGENCY]]
+[[Category:AMGの卒業生]]
+[[Category:兵庫県出身の人物]]
+[[Category:生年未記載]]
+[[Category:存命人物]]

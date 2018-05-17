@@ -1,0 +1,49 @@
+{{複数の問題 |存命人物の出典明記=2017年4月 |一次資料=2017年4月 |特筆性=2017年4月 |分野=人物}}
+'''白井 美香'''（しらい みか、[[4月10日]]<ref name="アルバ"/> - ）は、[[日本]]の[[女性]][[声優]]。[[北海道]]出身<ref name="アルバ"/>。身長157cm<ref name="アルバ"/>。以前は[[81プロデュース]]（1999年4月〜2007年3月）に所属し<ref name="アルバ"/><ref>[https://web.archive.org/web/20070306091955/http://www.81produce.co.jp/ladyjr/sa.html 81プロデュースによる公式プロフィール]（2007年3月6日時点の[[インターネットアーカイブ|アーカイブ]]）</ref>、フリー（2007〜）期間を経て<ref name="アルバ"/>[[ALBA (芸能プロダクション)|ALBA]]に所属していた<ref name="アルバ"/>。
+
+== 出演作品 ==
+=== テレビアニメ ===
+'''2000年'''
+* [[グラビテーション (漫画)|グラビテーション]]
+'''2005年'''
+* [[ガラスの仮面]]（横山）
+'''2006年'''
+* [[.hack//Roots]]（管理システム声）
+
+=== OVA ===
+* おばけ長屋
+'''2004年'''
+* [[新ゲッターロボ]]（アイニー、所員、女官）
+
+=== ゲーム ===
+'''2004年'''
+* [[プリンセスメーカー2]]　※PS2
+* プリンセスメーカー2　リファイン版　※PC
+
+=== 舞台 ===
+* 『タンゴロマンティック』
+* 『女たちが忠臣蔵』
+* Pal's Sharer　プロデュース公演 vol.4『にねんいちくみ保護会』（2007年11月15日〜18日、阿佐ヶ谷アルシェ）<ref name="保護会">{{Cite web |url=http://www.bekkoame.ne.jp/~sun-ta/2nen1kumi.html |title=Pal's Sharer　プロデュース公演 vol.4 |date= |accessdate=2014-03-11}}</ref>
+* Pal's Sharer　プロデュース公演 vol.5『Romeo+julist+Juliet』（2008年10月10日〜13日、阿佐ヶ谷アルシェ）<ref name="Romeo">{{Cite web |url=http://www.milmil.cc/sys/milmil.cgi?id=palsha&page=novel&mode4=sel&num1=5&date=1215062445 |title=Pal's Sharer　プロデュース公演 vol.5 |date= |accessdate=2014-03-11}}</ref>
+
+=== その他 ===
+* ナムコ店内アナウンス<ref name="ふぁん">{{Cite web |url=http://fanx3.littlestar.jp/member/mika_shirai.html |title=白井美香 |publisher=ふぁんふぁんふぁん |accessdate=2014-03-11 |archiveurl=https://web.archive.org/web/20160304125841/http://fanx3.littlestar.jp/member/mika_shirai.html |archivedate=2016-03-04}}</ref>
+
+== 脚注 ==
+{{Reflist|refs=
+<ref name="アルバ">{{Cite web |url=http://www.alba-na.co.jp/talent/fanfanfan/shirai.html |title= 白井美香 |publisher=[[ALBA (芸能プロダクション)|ALBA]] |accessdate=2014-03-11 |archiveurl=https://web.archive.org/web/20140311180812/http://www.alba-na.co.jp/talent/fanfanfan/shirai.html |archivedate=2014-03-11}}</ref>
+}}
+
+== 外部リンク ==
+* [http://www.milmil.cc/user/palsha/profile.html Pal's Sharer]
+* [http://shiraimika.seesaa.net/ しろいみかん]
+* {{Wayback |url=http://www.alba-na.co.jp/talent/fanfanfan/shirai.html |title=アルバによる公式プロフィール |date=20140311180812}}
+* {{Wayback |url=http://fanx3.littlestar.jp/member/mika_shirai.html |title=白井 美香 - ふぁんふぁんふぁん |date=20160304125841}}
+
+{{Voice-substub}}
+
+{{DEFAULTSORT:しらい みか}}
+[[Category:日本の女性声優]]
+[[Category:過去の81プロデュース所属者]]
+[[Category:北海道出身の人物]]
+[[Category:存命人物]]
